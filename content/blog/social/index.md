@@ -4,10 +4,7 @@ categories:
 - Blogs
 date: "2023-01-22"
 draft: false
-excerpt: This theme offers built-in Font Awesome icons for organizing your collection
-  of social accounts and their links. Use icons to help visitors find you wherever
-  you want to be found, and learn how to show or hide them in your site's header,
-  footer, homepage, about page, and contact form.
+excerpt: El almacenamiento de energía se ha convertido en un tema cada vez más relevante en la discusión sobre la transición hacia sistemas energéticos más limpios y sostenibles. 
 layout: single
 subtitle: 
 title: (Spa) - El almacenamiento de energía y su papel en el aumento de la resiliencia e independencia energética de la República Dominicana.
@@ -20,7 +17,7 @@ title: (Spa) - El almacenamiento de energía y su papel en el aumento de la resi
 
 El almacenamiento de energía se ha convertido en un tema cada vez más relevante en la discusión sobre la transición hacia sistemas energéticos más limpios y sostenibles. En el contexto de las naciones insulares, como es el caso de República Dominicana, estas tecnologías jugarán un rol aún más crucial en la búsqueda de resiliencia e independencia energética, que no es un asunto trivial cuando se mira desde la óptica de la inestabilidad geopolítica que supone el cambio climático, y la incertidumbre de los precios y el acceso a combustibles fósiles en tiempos de tensión bélica.
 
-En la última semana del año 2022, la Comisión Nacional de Energía (CNE), órgano del estado dominicano que tiene como atribución elaborar, coordinar, proponer y adoptar políticas para el buen funcionamiento y desarrollo del sector energía, hizo público a través de su portal de transparencia un estudio sobre la integración de **Energías Renovables Variables y**** Sistemas de Energía Almacenamiento de Energía en Baterías** _(BESS por sus siglas en inglés),_ y los borradores de resoluciones que declaran estos como una necesidad inmediata en aras de anticiparse a la masiva penetración de recursos energéticos variables, y con el objetivo de mantener el buen funcionamiento del Sistema Eléctrico Nacional Interconectado (SENI). [1]
+En la última semana del año 2022, la Comisión Nacional de Energía (CNE), órgano del estado dominicano que tiene como atribución elaborar, coordinar, proponer y adoptar políticas para el buen funcionamiento y desarrollo del sector energía, hizo público a través de su portal de transparencia un estudio sobre la integración de **Energías Renovables Variables y Sistemas de Energía Almacenamiento de Energía en Baterías** _(BESS por sus siglas en inglés),_ y los borradores de resoluciones que declaran estos como una necesidad inmediata en aras de anticiparse a la masiva penetración de recursos energéticos variables, y con el objetivo de mantener el buen funcionamiento del Sistema Eléctrico Nacional Interconectado (SENI). [1]
 
 Las próximas líneas son una mirada al contexto global, a la oportunidad latente en nuestro país, y a las hipótesis de entrada que proponen los profesionales de la CNE para justificar sus argumentos.
 
