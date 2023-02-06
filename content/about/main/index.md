@@ -1,15 +1,17 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+
+title: "" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  I am a **[Energy Resilience and Microgrid Researcher](https://microgrid.pucmm.edu.do/)** at PUCMM, where I work on figuring out how to make the energy grid more resilient against climate-driven events. I am also the co-funder of **[Energía Journal](https://anchor.fm/energiajournal)**, a portal to the most relevant information about the world of energy and sustainability in the Dominican Republic. 
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
+  I studied Electromechanical Engineering (PUCMM), and obtained a specialization (MEng) in Renewable Energies and Energy Markets (2017). My active research focuses on the use of Geographic Information System (GIS) for the spatial analysis of energy and community resilience, as well as the development of first Microgird Research Laboratory in the Dominican Repulblic. 
+  
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---

@@ -7,7 +7,7 @@ description: I am data driven engineer who loves researching and analyzing facts
   
 image_left: false
 images:
-- img/remiliod.png
+- img/main.png
 show_action_link: true
 show_social_links: true
 subtitle: Energy Resilience & Microgrid Researcher 
