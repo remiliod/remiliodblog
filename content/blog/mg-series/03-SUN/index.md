@@ -79,7 +79,7 @@ Estas nuevas trabas parecen responder a intereses particulares, y muestra un sec
 
 ## En palabras llanas
 
-_¿Qué significa esto para los ciudadanos dominicanos y para las MIPYMES, que son el 98% de las empresas del país y que emplean el 54.4% de la población ocupada del mercado laboral?_
+_¿Qué significa esto para los ciudadanos dominicanos y para las MIPYMES, que son el 98% de las empresas del país y que emplean el 54.4% de la población ocupada del mercado laboral? _
 
 Con la [transición hacia la tarifa técnica](https://hoy.com.do/en-noviembre-y-diciembre-tarifa-electrica-subira-1-4-por-kwh/) y el consecuente aumento trimestral del costo energético, la energía solar fotovoltaica representaba un "_desahogo"_ para los ciudadanos y empresarios que han accedido a este recurso inagotable, y que reducían sus necesidades energéticas permitiéndoles ser competitivos en el mercado local e internacional.
 
