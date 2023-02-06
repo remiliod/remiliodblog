@@ -15,15 +15,15 @@ cascade:
     text_link_url: ""
     text_series_label: In this series
   tags:
-  - hugo-site
+  - articles
 description: |
   Series
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
-show_post_thumbnail: false
+show_post_thumbnail: true
 sidebar:
-  author: Alison Hill
+  author: Ramón Emilio De Jesús Grullón
   description: |
     A collection of articles on Energy Resiliency and Microgrids
   show_sidebar_adunit: false
