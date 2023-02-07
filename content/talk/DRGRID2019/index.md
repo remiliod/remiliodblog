@@ -15,7 +15,7 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Resilience Panelist
-  url: https://youtu.be/hCN6yOnVeNw
+  url: https://newenergyevents.com/dr-grid/agenda/
 
 ---
 
