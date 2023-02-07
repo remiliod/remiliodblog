@@ -4,13 +4,19 @@ categories:
 - Projects
 date: "2023-01-06"
 draft: false
-excerpt: Bienvenidos a Sinapsis((del griego ύναψις [sýnapsis], 'unión', 'enlace') Un espacio en el que exploro y comparto una Sinopsis( del griego συν (syn, ‘junto’) y οψις (opsis, ‘ver’) de libros, artículos y ensayos.
+excerpt: Bienvenidos a Sinapsis((del griego ύναψις [sýnapsis], 'unión', 'enlace'). Un espacio en el que exploro y comparto una Sinopsis( del griego συν (syn, ‘junto’) y οψις (opsis, ‘ver’) de libros, artículos y ensayos.
 layout: single
 subtitle: 
   Sinapsis((del griego ύναψις [sýnapsis], 'unión', 'enlace') Un espacio en el que exploro y comparto una Sinopsis( del griego συν (syn, ‘junto’) y οψις (opsis, ‘ver’) de libros, artículos y ensayos.
 tags:
 - projects
 title: Sinapsis | Te recomiendo un libro
+ 
+links:
+- icon: door-open
+  icon_pack: fas
+  name: Colección de Sinapsis 
+  url: /collection
 ---
 
 ![Sinapsis](featured-hex.png)
