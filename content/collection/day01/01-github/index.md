@@ -8,7 +8,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
+  url: /collection
 - icon: github
   icon_pack: fab
   name: code
