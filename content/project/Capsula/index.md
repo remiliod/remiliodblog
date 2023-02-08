@@ -5,6 +5,7 @@ categories:
 date: "2023-10-06"
 draft: false
 excerpt: En la cápsula I+D+I en Energía (de las siglas Investigación, Desarrollo e Innovación) el equipo de Energía Journal traerá para los oyentes de Energía, Combustibles y Mas | @energiacombustiblesymas en ZOL 106.5 FM, las informaciones más relevantes de la transición energética global.
+featured: true
 layout: single
 links:
 - icon: youtube
