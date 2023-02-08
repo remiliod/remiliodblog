@@ -9,15 +9,14 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 description: A single home for my projects to live online.
-layout: list-grid
+layout: list
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: Ramón Emilio De Jesús Grullón
-  description: "Projects can be anything!\nCheck out the _index.md file in the /project
-    folder \nto edit this content.\n"
+  description: ""
   show_sidebar_adunit: False
   text_link_label: ""
   text_link_url: ""
