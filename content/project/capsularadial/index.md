@@ -26,7 +26,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: ENE2023 - Plataforma de Datos Abiertos (PDA)
-  url: https://youtu.be/alqAuBt6v40
+  url: https://youtu.be/alqAuBt6v40?t=621
 
 subtitle: "Podcast - Articles - Conversations - #EnergyAmbassadors"
 tags:
