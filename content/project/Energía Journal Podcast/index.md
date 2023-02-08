@@ -22,7 +22,7 @@ links:
   url: https://anchor.fm/energiajournal
 subtitle: Podcast | Articles | Conversations | #EnergyAmbassadors
 tags:
-- projecs
+- projects
 title: Energia Journal
 ---
 
