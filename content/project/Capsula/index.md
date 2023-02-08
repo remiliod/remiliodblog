@@ -4,7 +4,7 @@ categories:
 - Projects
 date: "2023-10-06"
 draft: false
-excerpt: En la capsula I+D+I en Energía (de las siglas Investigación, Desarrollo e Innovación) el equipo de Energía Journal traerá para los oyentes de Energía, Combustibles y Mas | @energiacombustiblesymas en ZOL 106.5 FM, las informaciones más relevantes de la transición energética global.
+excerpt: En la cápsula I+D+I en Energía (de las siglas Investigación, Desarrollo e Innovación) el equipo de Energía Journal traerá para los oyentes de Energía, Combustibles y Mas | @energiacombustiblesymas en ZOL 106.5 FM, las informaciones más relevantes de la transición energética global.
 layout: single
 links:
 - icon: youtube
@@ -32,7 +32,7 @@ subtitle:
   
 tags:
 - projects
-title: Capsula Radial - Investigación, Desarrollo e Innovación en el Sector Energía
+title: Cápsula Radial - Investigación, Desarrollo e Innovación en el Sector Energía
  
 
 

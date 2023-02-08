@@ -20,7 +20,7 @@ sidebar:
   author: Ramón Emilio De Jesús Grullón (@remildejesus)
   description: "This is my personal blog, my journey through time, where I share about my current projects, the books I'm reading, and what I'm learning."
   show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
+  text_link_label: 
   text_link_url: /index.xml
   title: Synapse & Synopsis
 thumbnail_left: true
