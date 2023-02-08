@@ -15,15 +15,15 @@ links:
 - icon: newspaper
   icon_pack: far
   name: COMIC- La Mancha Indeleble (JuanBosch)
-  url: https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EabBYFAdqZpNkpNx1rqUcngB_lB0GeDDaNhyhV-4WNEDAw?e=KymPrN
+  url: https://drive.google.com/file/d/1WOQl7fryAarz6Mc2nfkKbmlGBPU5ItG5/view?usp=sharing
 - icon: newspaper
   icon_pack: far
   name: COMIC- La Mujer (JuanBosh)
-  url: https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EZoNhUJOY8JDvhBAe-KMhuoBC_DM83snNk3ThaWd_oFWSw?e=CUM2f4
+  url: https://drive.google.com/file/d/1pamANgcYczf0-SuHdLSh_ONEk8AHBDXx/view?usp=sharing
 
 subtitle: ""
 tags:
-- hugo-site
+- Project
 title: Amplified Imagination (AI) ART
 ---
 
@@ -43,13 +43,13 @@ These tools have brought me a lot of joy, and I hope we can enjoy and shared thi
 
 ### La Mancha Indeleble - Juan Bosh
 
-:art:[Accede a la ilustración completa aquí](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EabBYFAdqZpNkpNx1rqUcngB_lB0GeDDaNhyhV-4WNEDAw?e=KymPrN)
+:art:[Accede a la ilustración completa aquí](https://drive.google.com/file/d/1WOQl7fryAarz6Mc2nfkKbmlGBPU5ItG5/view?usp=sharing)
 
 {{< figure src="La Mancha Indeleble-RED.png" alt="Logo for amplified imaginationt"  caption=" Ilustración de la Mancha Indeleble de Juan Bosch" >}}
 
 ### La Mujer - Juan Bosh
 
-:art:[Accede a la ilustración completa aquí](https://cepucmmedu-my.sharepoint.com/:b:/g/personal/r_dejesus_ce_pucmm_edu_do/EZoNhUJOY8JDvhBAe-KMhuoBC_DM83snNk3ThaWd_oFWSw?e=CUM2f4)
+:art:[Accede a la ilustración completa aquí](https://drive.google.com/file/d/1pamANgcYczf0-SuHdLSh_ONEk8AHBDXx/view?usp=sharing)
 
 {{< figure src="LaMujer-RED.png" alt="Logo for amplified imaginationt"  caption=" Ilustración de La Mujer de Juan Bosch" >}}
 ---
