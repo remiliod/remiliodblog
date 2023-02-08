@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  #twitter = "apreshill"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -93,7 +93,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/remiliod"
   #[[params.social]]
   #    icon      = "facebook-square" # icon name without the 'fa-'
   #    icon_pack = "fab"
@@ -110,10 +110,10 @@ enableEmoji = true
   #    icon      = "impactstory" # icon name without the 'fa-'
   #    icon_pack = "ai"
   #    url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+  #[[params.social]]
+  #    icon      = "orcid" # icon name without the 'fa-'
+  #    icon_pack = "ai"
+  #    url       = "http://orcid.org/0000-0002-8082-1890"
   [[params.social]]
       icon      = "spotify" # icon name without the 'fa-'
       icon_pack = "fab"
