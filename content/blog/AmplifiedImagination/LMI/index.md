@@ -6,7 +6,6 @@ subtitle: ""
 title: (Spa) Ilustración del cuento “La Mancha Indeleble” de Juan Bosch usando Inteligencia Artificial (IA)
 weight: 2
 ---
-
 **Por** Ramón Emilio De Jesús-Grullón
 
 **Una (muy) breve historia sobre la magia que hay detrás de la Inteligencia Artificial (IA)**
@@ -50,7 +49,7 @@ Cuando me embarcaba en este proyecto de ideación y experimentación, esta idea 
 
 En primer lugar, quiero comunicar algo que es un secreto a voces, el arte es una experiencia subjetiva. La visión de cómo se traducen las escenas, oraciones y palabras viven solo en la imaginación, en la libertad creativa. En esta misma línea quiero citar un pasaje de **En busca del tiempo perdido** , quizás la obra más célebre de Marcel Proust.
 
-"_Un par de alas, un sistema respiratorio diferente, que nos permitiera viajar por el espacio, no nos ayudaría en nada, ya que, si visitáramos Marte o Venus manteniendo los mismos sentidos, todo lo que pudiéramos ver se vestiría del mismo aspecto, como en la tierra. El único viaje verdadero, el único baño en la Fuente de la Juventud, sería no visitar tierras extrañas sino_ _ **poseer otros ojos** __"_
+"_Un par de alas, un sistema respiratorio diferente, que nos permitiera viajar por el espacio, no nos ayudaría en nada, ya que, si visitáramos Marte o Venus manteniendo los mismos sentidos, todo lo que pudiéramos ver se vestiría del mismo aspecto, como en la tierra. El único viaje verdadero, el único baño en la Fuente de la Juventud, sería no visitar tierras extrañas sino **poseer otros ojos** _"
 
 Invito al lector a transportarse a este espacio, a intentar comprender el hecho de que estas imágenes surgen casi como una experiencia mágica, y que mi trabajo (solo) fue elegir las _palabras, verbos, tamaño, forma, color, composición adecuada_, hasta que, por obra y gracia del espíritu santo, me sentía feliz con el resultado arrojado por el algoritmo.
 
@@ -91,7 +90,7 @@ _ **/imagine:** _ _map of the city streets of Santo Domingo, capital of dominica
 - **Estilo artístico:** Utilicé el **expresionismo abstracto,** del cual el surrealismo es un predecesor importante, y cuyo énfasis es la _creación espontánea, automática o subconsciente_. La elección de este estilo no fue aleatoria, exploré muchas opciones hasta que di con algo que permitió enfocarme en el concepto y no en la forma.
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/LMI/Picture6.png">
+    <img src="/blog/AmplifiedImagination/LMI/Picture6.jpg">
 </div>
 
 _ **/Imagine:** _ _long hall of cabinets full of human head busts behind glass::2 abstract expressionist art style: red:1 blue::1 white:1 --ar 5:4 - Upscaled by @remiliod_
@@ -119,7 +118,7 @@ Para poder describir el proceso iterativo necesario para alcanzar ideas concreta
 
 **Personaje 1: El narrador**
 
-Traer a la vida una persona que no existe no es algo nuevo para los algoritmos de IA. Para el lector no familiarizado, la página web [_ **"This Person Does Not Exist"** _](https://this-person-does-not-exist.com/en) crea una persona nueva cada vez que actualizas la página usando un algoritmo conocido como Red Adversarial Generativa (GAN), que genera retratos hiperrealistas de personas completamente falsas. No obstante, mi desafío era un poco distinto. Tenía que crear este personaje en distintas escenas, posturas y situaciones.
+Traer a la vida una persona que no existe no es algo nuevo para los algoritmos de IA. Para el lector no familiarizado, la página web [**"This Person Does Not Exist"**](https://this-person-does-not-exist.com/en) crea una persona nueva cada vez que actualizas la página usando un algoritmo conocido como Red Adversarial Generativa (GAN), que genera retratos hiperrealistas de personas completamente falsas. No obstante, mi desafío era un poco distinto. Tenía que crear este personaje en distintas escenas, posturas y situaciones.
 
 El primer reto fue crear un espacio consistente donde se **desarrollaría el cuento y donde vivirían los personajes.** Gran parte de la narración se desarrolla en un lujoso salón, donde previamente varias personas habían atravesado un largo pasillo y una enorme puerta para entregar sus cabezas y luego colocarlas en largas vitrinas pegadas a la pared, como muestra de fidelidad al partido.
 
@@ -129,7 +128,7 @@ El primer reto fue crear un espacio consistente donde se **desarrollaría el cue
 
 **/Imagine** : headless figures silhouettes walking inside a building::2 abstract expressionist art style:: blue::1 white:1 --seed 420 --ar 5:4 - Upscaled by @remiliod
 
-Inicié creando ciento de imágenes del espacio del salón, probando distintos estilos arquitectónicos, tipos de luz y artistas, utilizando el "_**[Prompter Visual Note](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit)"**__ **,** _ hasta que me sentí satisfecho con los resultados obtenidos.
+Inicié creando ciento de imágenes del espacio del salón, probando distintos estilos arquitectónicos, tipos de luz y artistas, utilizando el [**Prompter Visual Note**](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit), hasta que me sentí satisfecho con los resultados obtenidos.
 
 <div align="center">
     <img src="/blog/AmplifiedImagination/LMI/Picture12.png">
@@ -137,9 +136,9 @@ Inicié creando ciento de imágenes del espacio del salón, probando distintos e
 
 **(Segunda escena a la derecha**): **/Imagine** Setting is a hotel lobby interior:: Juan is 30-year-old man in a dark suit:: Setting contains a dark door::1.2 and Juan:: and several desks::1.1 Atmosphere is ominous dark room::1 abstract expressionist art style:: red::1 blue::1 white::1 --aspect 16:9 --upbeta - Upscaled (Beta) by @remiliod (fast)
 
-El siguiente desafío fue ilustrar los personajes. Pare ello utilicé la guía [_ **"Midjourney Image Prompting"** _](https://docs.google.com/document/d/13c8Ci-8kU2PVZu6DKghlhOOrbf4kmtc9xxCJAnPqvC0/edit)_ **.** _Simplificando (mucho), puedes dar al algoritmo de Midjourney imágenes de referencia antes de la indicación textual, luego a estas imágenes les puedes dar un "peso" que determina que tanta relevancia deseas poner sobre las imágenes vs la indicación textual. En este caso creé varias imágenes de mi personaje en distintos estilos de pintura y fotografía para que el algoritmo tuviese distintos parámetros de donde tomar referencias.
+El siguiente desafío fue ilustrar los personajes. Pare ello utilicé la guía [**"Midjourney Image Prompting"**](https://docs.google.com/document/d/13c8Ci-8kU2PVZu6DKghlhOOrbf4kmtc9xxCJAnPqvC0/edit)_ **.** _Simplificando (mucho), puedes dar al algoritmo de Midjourney imágenes de referencia antes de la indicación textual, luego a estas imágenes les puedes dar un "peso" que determina que tanta relevancia deseas poner sobre las imágenes vs la indicación textual. En este caso creé varias imágenes de mi personaje en distintos estilos de pintura y fotografía para que el algoritmo tuviese distintos parámetros de donde tomar referencias.
 
-También utilicé[_ **"Clarinet's Puppet Method"** _](https://docs.google.com/document/u/1/d/e/2PACX-1vRahIr3-h_V31w2dMZXTAV9R2aXMB9Yoi-bIMQsRIanMXUO9rDtj5x7cL__hG05bmow-GvP7vcLlAcX/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney) **,** una guía para presentar los mismos personajes como actores una y otra vez en diferentes escenas. La autora llama a este método el "títere", por una práctica similar en animación digital.
+También utilicé[**"Clarinet's Puppet Method"**](https://docs.google.com/document/u/1/d/e/2PACX-1vRahIr3-h_V31w2dMZXTAV9R2aXMB9Yoi-bIMQsRIanMXUO9rDtj5x7cL__hG05bmow-GvP7vcLlAcX/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney) **,** una guía para presentar los mismos personajes como actores una y otra vez en diferentes escenas. La autora llama a este método el "títere", por una práctica similar en animación digital.
 
 <div align="center">
     <img src="/blog/AmplifiedImagination/LMI/Picture13.png">
