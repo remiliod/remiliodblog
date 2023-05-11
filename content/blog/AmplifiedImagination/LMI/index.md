@@ -20,7 +20,7 @@ Esta es la historia de como usé **MidJourney,** el programa de IA más discutid
 
 **¿Qué es MidJourney y dónde está la magia?**
 
-La premisa es básica para el que esta familiarizado con el adagio:  **"una imagen vale más que mis palabras".** MidJourney es un programa de inteligencia artificial que genera imágenes a partir de indicaciones textuales. El software llegó en el verano del 2022 como un soplo de aire fresco, que pronto se convirtió en un huracán que ha puesto patas arriba a toda una industria, creando espacios completamente nuevos para la _"imaginación amplificada",y brindando una herramienta con superpoderes para que mentes creativas den vida sus sueños lúcidos.
+La premisa es básica para el que esta familiarizado con el adagio:  **"una imagen vale más que mis palabras".** MidJourney es un programa de inteligencia artificial que genera imágenes a partir de indicaciones textuales. El software llegó en el verano del 2022 como un soplo de aire fresco, que pronto se convirtió en un huracán que ha puesto patas arriba a toda una industria, creando espacios completamente nuevos para la "imaginación amplificada",y brindando una herramienta con superpoderes para que mentes creativas den vida sus sueños lúcidos.
 
 Aunque muchos otros programas de IA funcionan bajo el mismo contexto (Dall-E, Imagen y Stable Diffusion), Midjourney se lanzó en la plataforma de comunicación social [**Discord**](https://discord.com/) **,** lo que permitió a los usuarios no solo crear, pero también aprender de la experiencia de otros creadores, creando comunidades en nichos específicos y haciendo del proceso creativo una experiencia menos competitiva y más colaborativa.
 
@@ -59,7 +59,7 @@ De la floreciente comunidad de MidJourney en Discord surgieron, a la velocidad d
 
 **Guías de la comunidad:**
 
-- [**Prompter Visual Notebook**](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit)_ **:** _ Guía de Shane McGeehan, el creador de [**Prompter**](https://www.google.com/url?q=https%3A%2F%2Fwww.thedreamingstate.com%2Fportfolio%2Fart%2Fprompter%2F&sa=D&sntz=1&usg=AOvVaw2z9thTPGKL_Dey3P18S0qp) Incluye una guía de estilo, pero también recursos sobre indicaciones, parámetros y relaciones de aspecto.
+- [**Prompter Visual Notebook**](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit)_ **:** Guía de Shane McGeehan, el creador de [**Prompter**](https://www.google.com/url?q=https%3A%2F%2Fwww.thedreamingstate.com%2Fportfolio%2Fart%2Fprompter%2F&sa=D&sntz=1&usg=AOvVaw2z9thTPGKL_Dey3P18S0qp) Incluye una guía de estilo, pero también recursos sobre indicaciones, parámetros y relaciones de aspecto.
 - [**Guía de Estilos y Palabras Clave de Referencia**](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fwillwulfken%2FMidJourney-Styles-and-Keywords-Reference&sa=D&sntz=1&usg=AOvVaw3bbEDxBSpjzTSgA7K67RPz) de WillWulfken: otra gran guía de referencia que usa esferas como puntos de referencia.
 - [**Guía de Referencia de Artistas**](https://docs.google.com/spreadsheets/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE) de Aaron H: Referencias de artistas con varios medios y temas.
 - [**Guía de palabras clave y resolución de texto de Clarinet**](https://docs.google.com/document/d/e/2PACX-1vRHOxyEb-ERGi-BdZM8Z_piEP54m4HwO0z8scjmEurEp2UZVA6rFxvyKd15elYVHUWfP1oSA4CQFwxr/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney): excelente guía para la mejor redacción de indicaciones (_Prompts_)
@@ -85,7 +85,7 @@ Dividiré esta parte en **3 apartados:** (1) Consideraciones iniciales y liberta
     <img src="/blog/AmplifiedImagination/LMI/Picture5.png">
 </div>
 
-**/imagine:** _ _map of the city streets of Santo Domingo, capital of dominican Republic red::1 blue::1 white::1 --ar 16:9 - @remiliod 
+**/imagine:** map of the city streets of Santo Domingo, capital of dominican Republic red::1 blue::1 white::1 --ar 16:9 - @remiliod 
 
 - **Estilo artístico:** Utilicé el **expresionismo abstracto,** del cual el surrealismo es un predecesor importante, y cuyo énfasis es la _creación espontánea, automática o subconsciente_. La elección de este estilo no fue aleatoria, exploré muchas opciones hasta que di con algo que permitió enfocarme en el concepto y no en la forma.
 
@@ -93,7 +93,7 @@ Dividiré esta parte en **3 apartados:** (1) Consideraciones iniciales y liberta
     <img src="/blog/AmplifiedImagination/LMI/Picture6.jpg">
 </div>
 
-<sub><sup> **/Imagine:** _ _long hall of cabinets full of human head busts behind glass::2 abstract expressionist art style: red:1 blue::1 white:1 --ar 5:4 - Upscaled by @remiliod </sup></sub>
+**/Imagine:** long hall of cabinets full of human head busts behind glass::2 abstract expressionist art style: red:1 blue::1 white:1 --ar 5:4 - Upscaled by @remiliod 
 
 - **Paleta de color:** Hice un uso consistente de los colores que adornan la bandera de mi país en casi todas las escenas, lo que significó un desafío importante en algunas, pero también simplificó muchas.
 
@@ -102,7 +102,7 @@ Dividiré esta parte en **3 apartados:** (1) Consideraciones iniciales y liberta
 </div>
 
 
-**/Imagine:** _ _Italian maiolica column: 3 abstract expressionist art style:: 1.5 night light:: 1 red:: 2 blue::, 1 white:: 1, gold: 1 --aspect 9:16 --test --creative --upbeta - Upscaled (Beta) by @remiliod 
+**/Imagine:** Italian maiolica column: 3 abstract expressionist art style:: 1.5 night light:: 1 red:: 2 blue::, 1 white:: 1, gold: 1 --aspect 9:16 --test --creative --upbeta - Upscaled (Beta) by @remiliod 
 
 - **Recursos lingüísticos:** En el cuento Bosch utilizó muchos recursos lingüísticos que aligeraron el proceso de ilustración, entre ellos metáforas, símiles, descripciones, hipérboles polisíndeton, admiraciones, diálogos y puntos suspensivos.
 
@@ -110,7 +110,7 @@ Dividiré esta parte en **3 apartados:** (1) Consideraciones iniciales y liberta
     <img src="/blog/AmplifiedImagination/LMI/Picture10.png">
 </div>
 
-**/Imagine:** _ _eyes::1 abstract expressionist art style of a wall with thousand eyes red::1 blue::1 white::1 --ar 16:9 - Upscaled by @remiliod 
+**/Imagine:** eyes::1 abstract expressionist art style of a wall with thousand eyes red::1 blue::1 white::1 --ar 16:9 - Upscaled by @remiliod 
 
 1. **Proceso Iterativo**
 
@@ -126,7 +126,7 @@ El primer reto fue crear un espacio consistente donde se **desarrollaría el cue
     <img src="/blog/AmplifiedImagination/LMI/Picture11.png">
 </div>
 
-/Imagine** : headless figures silhouettes walking inside a building::2 abstract expressionist art style:: blue::1 white:1 --seed 420 --ar 5:4 - Upscaled by @remiliod 
+**/Imagine** : headless figures silhouettes walking inside a building::2 abstract expressionist art style:: blue::1 white:1 --seed 420 --ar 5:4 - Upscaled by @remiliod 
 
 Inicié creando ciento de imágenes del espacio del salón, probando distintos estilos arquitectónicos, tipos de luz y artistas, utilizando el [**Prompter Visual Note**](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit), hasta que me sentí satisfecho con los resultados obtenidos.
 
@@ -144,7 +144,7 @@ También utilicé[**"Clarinet's Puppet Method"**](https://docs.google.com/docume
     <img src="/blog/AmplifiedImagination/LMI/Picture13.png">
 </div>
 
-/imagine:** https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 --seed 25014 
+**/imagine:** https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 --seed 25014 
 
 **Personaje 2: La voz**
 
