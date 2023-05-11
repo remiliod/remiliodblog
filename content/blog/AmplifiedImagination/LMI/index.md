@@ -27,7 +27,10 @@ Aunque muchos otros programas de IA funcionan bajo el mismo contexto (Dall-E, Im
 
 El software está siendo desarrollado por un laboratorio de investigación independiente, bajo un modelo _freemium__(modelo de negocio basado en la creación y prestación de un producto o servicio gratuito limitado y niveles de pago que ofrecen un acceso más rápido, mayor capacidad y funciones adicionales)_ que les ha permitido pivotar y evolucionar con mucha más velocidad que la competencia.
 
-![MidJourneyLogo](/blog/AmplifiedImagination/LMI/Picture2.png) {style="display: block; margin:  0 auto" }
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture2.png">
+</div>
+
 
 Si bien la tecnología detrás de cómo funcionan sus algoritmos es fascinante y absorbente, quedará fuera de esta historia. El lector interesado puede visitar la [página oficial](https://midjourney.gitbook.io/docs/user-manual) o (mejor) explorar ["La guia no muy oficial de MidJourney"](https://docs.google.com/document/d/1ivAYy_JXJsGE-9Rh97iMyXkWlmF_MxO2NFshrIvuns4/edit) desarrollada por un creador ávido de la comunidad para obtener más información.
 
@@ -37,7 +40,9 @@ Si bien la tecnología detrás de cómo funcionan sus algoritmos es fascinante y
 
 Juan Bosh retornó a la República en el año 1961, después de un largo periodo de exilio durante la dictadura de Rafael Trujillo. Al llegar a la isla pocos dominicanos sabían que ya figuraba como uno de los grandes cuentistas de toda Hispanoamérica. En el 1962 publicó, en Santo Domingo, un tomo bajo el título de **Cuentos escritos en el exilio** , y en el 1964 apareció un segundo, titulado **Más cuentos escritos en el exilio**. En ellos Bosch narra la situación del campesino dominicano, con un matiz de denuncia social marcada por su admiración a su resiliencia y sus luchas.
 
-![Mas cuentos escritos en el exilio - Juan Bosch](/blog/AmplifiedImagination/LMI/Picture3.jpg)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture3.jpg">
+</div>
 
 Recuerdo vívidamente la primera vez que di con sus cuentos en mi adolescencia, y entre ellos el que da origen a esta historia **La Mancha Indeleble** , una obra cuyo contenido y moraleja se quedó incrustada en mi conciencia joven, que me hizo ver con otros ojos el contexto histórico del país donde nací y la influencia invisible que puede ejercer el estado en la mente de sus ciudadanos. En el primer apartado del tomo llamado **Apuntes sobre el arte de escribir cuentos** , Juan Bosch describe como el cuentista _"debe sentirse responsable de lo que escribe, como si fuera un maestro de emociones e ideas"._
 
@@ -70,29 +75,41 @@ Dividiré esta parte en **3 apartados:** (1) Consideraciones iniciales y liberta
 
 - **Proceso previo:** Durante la ideación inicial leí el cuento varias veces hasta que estaba familiarizado con todo el contenido, dividiendo los párrafos en escenas separadas y eligiendo palabras claves que me llevaran a conceptos concretos.
 
-![Ideación para paneles](/blog/AmplifiedImagination/LMI/Picture4.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture4.png">
+</div>
+
 
 - **Espacio y tiempo:** Antes de iniciar sabía que quería establecer la trama de la historia en Santo Domingo, aunque en el cuento Juan Bosch nunca especificó en que país transcurría, el contexto en el que lo escribió da una pista inequívoca.
 
-![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture5.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture5.png">
+</div>
 
 _ **/imagine:** _ _map of the city streets of Santo Domingo, capital of dominican Republic red::1 blue::1 white::1 --ar 16:9 - @remiliod_
 
 - **Estilo artístico:** Utilicé el **expresionismo abstracto,** del cual el surrealismo es un predecesor importante, y cuyo énfasis es la _creación espontánea, automática o subconsciente_. La elección de este estilo no fue aleatoria, exploré muchas opciones hasta que di con algo que permitió enfocarme en el concepto y no en la forma.
 
-![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture6.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture6.png">
+</div>
 
 _ **/Imagine:** _ _long hall of cabinets full of human head busts behind glass::2 abstract expressionist art style: red:1 blue::1 white:1 --ar 5:4 - Upscaled by @remiliod_
 
 - **Paleta de color:** Hice un uso consistente de los colores que adornan la bandera de mi país en casi todas las escenas, lo que significó un desafío importante en algunas, pero también simplificó muchas.
 
-![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture9.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture9.png">
+</div>
+
 
 _ **/Imagine:** _ _Italian maiolica column: 3 abstract expressionist art style:: 1.5 night light:: 1 red:: 2 blue::, 1 white:: 1, gold: 1 --aspect 9:16 --test --creative --upbeta - Upscaled (Beta) by @remiliod_
 
 - **Recursos lingüísticos:** En el cuento Bosch utilizó muchos recursos lingüísticos que aligeraron el proceso de ilustración, entre ellos metáforas, símiles, descripciones, hipérboles polisíndeton, admiraciones, diálogos y puntos suspensivos.
 
-![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture10.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture10.png">
+</div>
 
 _ **/Imagine:** _ _eyes::1 abstract expressionist art style of a wall with thousand eyes red::1 blue::1 white::1 --ar 16:9 - Upscaled by @remiliod_
 
@@ -106,13 +123,17 @@ Traer a la vida una persona que no existe no es algo nuevo para los algoritmos d
 
 El primer reto fue crear un espacio consistente donde se **desarrollaría el cuento y donde vivirían los personajes.** Gran parte de la narración se desarrolla en un lujoso salón, donde previamente varias personas habían atravesado un largo pasillo y una enorme puerta para entregar sus cabezas y luego colocarlas en largas vitrinas pegadas a la pared, como muestra de fidelidad al partido.
 
-![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture11.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture11.png">
+</div>
 
 **/Imagine** : headless figures silhouettes walking inside a building::2 abstract expressionist art style:: blue::1 white:1 --seed 420 --ar 5:4 - Upscaled by @remiliod
 
 Inicié creando ciento de imágenes del espacio del salón, probando distintos estilos arquitectónicos, tipos de luz y artistas, utilizando el "_**[Prompter Visual Note](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit)"**__ **,** _ hasta que me sentí satisfecho con los resultados obtenidos.
 
-![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture12.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture12.png">
+</div>
 
 **(Segunda escena a la derecha**): **/Imagine** Setting is a hotel lobby interior:: Juan is 30-year-old man in a dark suit:: Setting contains a dark door::1.2 and Juan:: and several desks::1.1 Atmosphere is ominous dark room::1 abstract expressionist art style:: red::1 blue::1 white::1 --aspect 16:9 --upbeta - Upscaled (Beta) by @remiliod (fast)
 
@@ -120,7 +141,9 @@ El siguiente desafío fue ilustrar los personajes. Pare ello utilicé la guía [
 
 También utilicé[_ **"Clarinet's Puppet Method"** _](https://docs.google.com/document/u/1/d/e/2PACX-1vRahIr3-h_V31w2dMZXTAV9R2aXMB9Yoi-bIMQsRIanMXUO9rDtj5x7cL__hG05bmow-GvP7vcLlAcX/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney) **,** una guía para presentar los mismos personajes como actores una y otra vez en diferentes escenas. La autora llama a este método el "títere", por una práctica similar en animación digital.
 
- ![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture13.png)
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture13.png">
+</div>
 
 **/imagine:** https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 --seed 25014
 
@@ -128,7 +151,11 @@ También utilicé[_ **"Clarinet's Puppet Method"** _](https://docs.google.com/do
 
 Describir la voz fue una aventura interesante. ¿Cómo se describe lo que no se ve, lo que no podemos percibir? La voz es intangible e invisible. La imaginé como partituras de música, que retumbaban en las paredes del salón y creaban patrones como las animaciones de audio en los reproductores musicales, que el narrador podía sentir, pero no ver. A lo largo de la trama juego mucho con este concepto.
 
-![Ilustración del cuento “La Mancha Indeleble” de Juan Bosch](/blog/AmplifiedImagination/LMI/Picture14.png)
+
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LMI/Picture14.png">
+</div>
+
 
 **(Izquierda)**  **/imagine:** music scores letterns::3 music language::1.2 abstract expressionist art style:: blue::1 red::1 --aspect 2:3 - Upscaled by @remiliod **(Derecha)**https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 - Upscaled by @remiliod (relaxed)
 
