@@ -85,7 +85,7 @@ Dividiré esta parte en **3 apartados:** (1) Consideraciones iniciales y liberta
     <img src="/blog/AmplifiedImagination/LMI/Picture5.png">
 </div>
 
-_ **/imagine:** _ _map of the city streets of Santo Domingo, capital of dominican Republic red::1 blue::1 white::1 --ar 16:9 - @remiliod_
+<sub><sup> **/imagine:** _ _map of the city streets of Santo Domingo, capital of dominican Republic red::1 blue::1 white::1 --ar 16:9 - @remiliod </sup></sub>
 
 - **Estilo artístico:** Utilicé el **expresionismo abstracto,** del cual el surrealismo es un predecesor importante, y cuyo énfasis es la _creación espontánea, automática o subconsciente_. La elección de este estilo no fue aleatoria, exploré muchas opciones hasta que di con algo que permitió enfocarme en el concepto y no en la forma.
 
@@ -93,7 +93,7 @@ _ **/imagine:** _ _map of the city streets of Santo Domingo, capital of dominica
     <img src="/blog/AmplifiedImagination/LMI/Picture6.jpg">
 </div>
 
-_ **/Imagine:** _ _long hall of cabinets full of human head busts behind glass::2 abstract expressionist art style: red:1 blue::1 white:1 --ar 5:4 - Upscaled by @remiliod_
+<sub><sup> **/Imagine:** _ _long hall of cabinets full of human head busts behind glass::2 abstract expressionist art style: red:1 blue::1 white:1 --ar 5:4 - Upscaled by @remiliod </sup></sub>
 
 - **Paleta de color:** Hice un uso consistente de los colores que adornan la bandera de mi país en casi todas las escenas, lo que significó un desafío importante en algunas, pero también simplificó muchas.
 
@@ -102,7 +102,7 @@ _ **/Imagine:** _ _long hall of cabinets full of human head busts behind glass::
 </div>
 
 
-_ **/Imagine:** _ _Italian maiolica column: 3 abstract expressionist art style:: 1.5 night light:: 1 red:: 2 blue::, 1 white:: 1, gold: 1 --aspect 9:16 --test --creative --upbeta - Upscaled (Beta) by @remiliod_
+<sub><sup> **/Imagine:** _ _Italian maiolica column: 3 abstract expressionist art style:: 1.5 night light:: 1 red:: 2 blue::, 1 white:: 1, gold: 1 --aspect 9:16 --test --creative --upbeta - Upscaled (Beta) by @remiliod </sup></sub>
 
 - **Recursos lingüísticos:** En el cuento Bosch utilizó muchos recursos lingüísticos que aligeraron el proceso de ilustración, entre ellos metáforas, símiles, descripciones, hipérboles polisíndeton, admiraciones, diálogos y puntos suspensivos.
 
@@ -110,7 +110,7 @@ _ **/Imagine:** _ _Italian maiolica column: 3 abstract expressionist art style::
     <img src="/blog/AmplifiedImagination/LMI/Picture10.png">
 </div>
 
-_ **/Imagine:** _ _eyes::1 abstract expressionist art style of a wall with thousand eyes red::1 blue::1 white::1 --ar 16:9 - Upscaled by @remiliod_
+<sub><sup>  **/Imagine:** _ _eyes::1 abstract expressionist art style of a wall with thousand eyes red::1 blue::1 white::1 --ar 16:9 - Upscaled by @remiliod </sup></sub>
 
 1. **Proceso Iterativo**
 
@@ -126,7 +126,7 @@ El primer reto fue crear un espacio consistente donde se **desarrollaría el cue
     <img src="/blog/AmplifiedImagination/LMI/Picture11.png">
 </div>
 
-**/Imagine** : headless figures silhouettes walking inside a building::2 abstract expressionist art style:: blue::1 white:1 --seed 420 --ar 5:4 - Upscaled by @remiliod
+<sub><sup> /Imagine** : headless figures silhouettes walking inside a building::2 abstract expressionist art style:: blue::1 white:1 --seed 420 --ar 5:4 - Upscaled by @remiliod </sup></sub>
 
 Inicié creando ciento de imágenes del espacio del salón, probando distintos estilos arquitectónicos, tipos de luz y artistas, utilizando el [**Prompter Visual Note**](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit), hasta que me sentí satisfecho con los resultados obtenidos.
 
@@ -144,7 +144,7 @@ También utilicé[**"Clarinet's Puppet Method"**](https://docs.google.com/docume
     <img src="/blog/AmplifiedImagination/LMI/Picture13.png">
 </div>
 
-**/imagine:** https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 --seed 25014
+<sub><sup> /imagine:** https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 --seed 25014 </sup></sub>
 
 **Personaje 2: La voz**
 
@@ -156,7 +156,7 @@ Describir la voz fue una aventura interesante. ¿Cómo se describe lo que no se 
 </div>
 
 
-**(Izquierda)**  **/imagine:** music scores letterns::3 music language::1.2 abstract expressionist art style:: blue::1 red::1 --aspect 2:3 - Upscaled by @remiliod **(Derecha)**https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 - Upscaled by @remiliod (relaxed)
+ <sub><sup> **(Izquierda)**  **/imagine:** music scores letterns::3 music language::1.2 abstract expressionist art style:: blue::1 red::1 --aspect 2:3 - Upscaled by @remiliod **(Derecha)**https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 - Upscaled by @remiliod (relaxed) </sup></sub>
 
 1. **El Medio de comunicación:**
 
