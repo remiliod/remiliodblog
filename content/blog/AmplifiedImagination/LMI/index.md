@@ -15,7 +15,7 @@ Nos encontramos en una especie de "_Nuevo Renacimiento_". Una creciente y latent
 
 Esta es la historia de como usé **MidJourney,** el programa de IA más discutido, fascinante y controvertido del 2022, para ilustrar uno de los cuentos favoritos de mi adolescencia, **"La Mancha Indeleble"** de Juan Bosch, maestro de este género literario, historiador, político e ilustre hijo de la provincia que me vio crecer, La Vega.
 
-![Portada de La Mancha Indeleble - Juan Bosch](/blog/AmplifiedImagination/LMI/Picture1.png)
+![Portada de La Mancha Indeleble - Juan Bosch](/blog/AmplifiedImagination/LMI/Picture1.png#center)
 
 **¿Qué es MidJourney y dónde está la magia?**
 
@@ -35,7 +35,7 @@ Si bien la tecnología detrás de cómo funcionan sus algoritmos es fascinante y
 
 Juan Bosh retornó a la República en el año 1961, después de un largo periodo de exilio durante la dictadura de Rafael Trujillo. Al llegar a la isla pocos dominicanos sabían que ya figuraba como uno de los grandes cuentistas de toda Hispanoamérica. En el 1962 publicó, en Santo Domingo, un tomo bajo el título de **Cuentos escritos en el exilio** , y en el 1964 apareció un segundo, titulado **Más cuentos escritos en el exilio**. En ellos Bosch narra la situación del campesino dominicano, con un matiz de denuncia social marcada por su admiración a su resiliencia y sus luchas.
 
-![Mas cuentos escritos en el exilio - Juan Bosch](/blog/AmplifiedImagination/LMI/Picture3.png)
+![Mas cuentos escritos en el exilio - Juan Bosch](/blog/AmplifiedImagination/LMI/Picture3.jpg)
 
 Recuerdo vívidamente la primera vez que di con sus cuentos en mi adolescencia, y entre ellos el que da origen a esta historia **La Mancha Indeleble** , una obra cuyo contenido y moraleja se quedó incrustada en mi conciencia joven, que me hizo ver con otros ojos el contexto histórico del país donde nací y la influencia invisible que puede ejercer el estado en la mente de sus ciudadanos. En el primer apartado del tomo llamado **Apuntes sobre el arte de escribir cuentos** , Juan Bosch describe como el cuentista _"debe sentirse responsable de lo que escribe, como si fuera un maestro de emociones e ideas"._
 
