@@ -14,6 +14,8 @@ Nos encontramos en una especie de "_Nuevo Renacimiento_". Una creciente y latent
 
 Esta es la historia de como usé **MidJourney,** el programa de IA más discutido, fascinante y controvertido del 2022, para ilustrar uno de los cuentos favoritos de mi adolescencia, **"La Mancha Indeleble"** de Juan Bosch, maestro de este género literario, historiador, político e ilustre hijo de la provincia que me vio crecer, La Vega.
 
+Puedes acceder a la ilustración completa en el siguiente enlace: [La Mancha Indeleble](https://www.webtoons.com/es/challenge/la-mancha-indeleble/la-mancha-indeleble-juan-bosch-amplifiedimaginationart/viewer?title_no=851690&episode_no=1&webtoonType=CHALLENGE)
+
 <div align="center">
     <img src="/blog/AmplifiedImagination/LMI/Picture1.png">
 </div>
