@@ -146,7 +146,7 @@ También utilicé[**"Clarinet's Puppet Method"**](https://docs.google.com/docume
     <img src="/blog/AmplifiedImagination/LMI/Picture13.png">
 </div>
 
-**/imagine:** https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 --seed 25014 
+**/imagine:** https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style,  medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 --seed 25014 
 
 **Personaje 2: La voz**
 
@@ -158,7 +158,7 @@ Describir la voz fue una aventura interesante. ¿Cómo se describe lo que no se 
 </div>
 
 
- **(Izquierda)**  **/imagine:** music scores letterns::3 music language::1.2 abstract expressionist art style:: blue::1 red::1 --aspect 2:3 - Upscaled by @remiliod **(Derecha)**https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8\_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs\_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style, medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75 - Upscaled by @remiliod (relaxed)
+ **(Izquierda)**  **/imagine:** music scores letterns::3 music language::1.2 abstract expressionist art style:: blue::1 red::1 --aspect 2:3 - Upscaled by @remiliod  (Derecha) https://s.mj.run/AOa5dvgfXN0 https://s.mj.run/8_4kd-HQT0I https://s.mj.run/HQjuEUJY0xo https://s.mj.run/tNf1rs_YDZU Juan Perez is a 30 years old man in front of an empty desk, abstract expressionist art style,  medium shot, red, blue, white --ar 3:2 --s 1250 --iw 0.75  - Upscaled by @remiliod (relaxed)
 
 1. **El Medio de comunicación:**
 
