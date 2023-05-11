@@ -27,7 +27,7 @@ Aunque muchos otros programas de IA funcionan bajo el mismo contexto (Dall-E, Im
 
 El software está siendo desarrollado por un laboratorio de investigación independiente, bajo un modelo _freemium__(modelo de negocio basado en la creación y prestación de un producto o servicio gratuito limitado y niveles de pago que ofrecen un acceso más rápido, mayor capacidad y funciones adicionales)_ que les ha permitido pivotar y evolucionar con mucha más velocidad que la competencia.
 
-![MidJourneyLogo](/blog/AmplifiedImagination/LMI/Picture2.png) {style="display: block; margin: 0 auto" }
+![MidJourneyLogo](/blog/AmplifiedImagination/LMI/Picture2.png) {style="display: block; margin:  0 auto" }
 
 Si bien la tecnología detrás de cómo funcionan sus algoritmos es fascinante y absorbente, quedará fuera de esta historia. El lector interesado puede visitar la [página oficial](https://midjourney.gitbook.io/docs/user-manual) o (mejor) explorar ["La guia no muy oficial de MidJourney"](https://docs.google.com/document/d/1ivAYy_JXJsGE-9Rh97iMyXkWlmF_MxO2NFshrIvuns4/edit) desarrollada por un creador ávido de la comunidad para obtener más información.
 
