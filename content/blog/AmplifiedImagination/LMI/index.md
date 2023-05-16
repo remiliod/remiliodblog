@@ -61,7 +61,7 @@ De la floreciente comunidad de MidJourney en Discord surgieron, a la velocidad d
 
 **Guías de la comunidad:**
 
-- [**Prompter Visual Notebook**](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit)_ **:** Guía de Shane McGeehan, el creador de [**Prompter**](https://www.google.com/url?q=https%3A%2F%2Fwww.thedreamingstate.com%2Fportfolio%2Fart%2Fprompter%2F&sa=D&sntz=1&usg=AOvVaw2z9thTPGKL_Dey3P18S0qp) Incluye una guía de estilo, pero también recursos sobre indicaciones, parámetros y relaciones de aspecto.
+- [**Prompter Visual Notebook**](https://docs.google.com/document/d/1mHNmln2xPp4QA8Ie-RR4LeXna8IrrbPwMBJ3tcpvFoo/edit)_ **:** Guía de Shane McGeehan, el creador de [**Prompter**](https://prompterguide.com/prompter/) Incluye una guía de estilo, pero también recursos sobre indicaciones, parámetros y relaciones de aspecto.
 - [**Guía de Estilos y Palabras Clave de Referencia**](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fwillwulfken%2FMidJourney-Styles-and-Keywords-Reference&sa=D&sntz=1&usg=AOvVaw3bbEDxBSpjzTSgA7K67RPz) de WillWulfken: otra gran guía de referencia que usa esferas como puntos de referencia.
 - [**Guía de Referencia de Artistas**](https://docs.google.com/spreadsheets/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE) de Aaron H: Referencias de artistas con varios medios y temas.
 - [**Guía de palabras clave y resolución de texto de Clarinet**](https://docs.google.com/document/d/e/2PACX-1vRHOxyEb-ERGi-BdZM8Z_piEP54m4HwO0z8scjmEurEp2UZVA6rFxvyKd15elYVHUWfP1oSA4CQFwxr/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney): excelente guía para la mejor redacción de indicaciones (_Prompts_)
@@ -164,7 +164,7 @@ Describir la voz fue una aventura interesante. ¿Cómo se describe lo que no se 
 
 Al iniciar el proyecto le dediqué tiempo a pensar cuál sería el mejor medio para mostrar el contenido. Decidí utilizar el formato de la novela gráfica, muy parecido al de la tira cómica (_del inglés comic strip_). En esta, una serie de imágenes adyacentes, generalmente dispuestas horizontalmente, están diseñadas para leerse como una secuencia narrativa o cronológica. Se pueden introducir palabras dentro o cerca de cada imagen, o se pueden prescindir de ellas por completo. Si las palabras dominan funcionalmente la imagen, entonces se convierte simplemente en una ilustración de un texto.
 
-Explorando entre las comunidades de Discord encontré la recién creada [**AI COMICS**](https://discord.gg/nH8yCYwUjb), donde decenas de creadores publicaban diariamente artículos, videos, recursos de software, y donde se organizaban competencias para motivar la creación de contenido de la comunidad. Encontrarles fue una inagotable fuente de inspiración.
+Explorando entre las comunidades de Discord encontré la recién creada [**AI COMIC BOOKS**](https://aicomicbooks.com/), donde decenas de creadores publicaban diariamente artículos, videos, recursos de software, y donde se organizaban competencias para motivar la creación de contenido de la comunidad. Encontrarles fue una inagotable fuente de inspiración.
 
 **Palabras finales**
 
