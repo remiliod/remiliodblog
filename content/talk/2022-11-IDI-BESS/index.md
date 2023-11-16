@@ -15,8 +15,8 @@ categories:
 links:
 - icon: youtube
   icon_pack: fab
-  name: Cápsula - Reglamento de Generación Distribuida
-  url: https://youtu.be/s5lZKqYgb7w
+  name: Cápsula - Almacenamiento de Energía
+  url: https://youtu.be/ww6zjRt9ZrY?si=dPXeuD2DL-vk-leF
 
 ---
 
