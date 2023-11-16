@@ -8,18 +8,31 @@ excerpt: Amplified Imagination is a vessel for creativity in the new frontiers o
 featured: true
 layout: single
 links:
-- icon: instagram
+
+- icon: youtube
   icon_pack: fab
-  name: Instagram Gallery
-  url: https://www.instagram.com/amplifiedimagination.art/
+  name: Audiovisual -  La Mancha Indeleble
+  url: https://youtu.be/7taLbhBoP3o?si=qJ8h9Kk26oKsk3Oz
+  
+- icon: youtube
+  icon_pack: fab
+  name: La Voz del Archivo General de la Nación - Arte Generado por Inteligencia Artificial 
+  url: https://youtu.be/Plf25P8Vctk
+  
 - icon: newspaper
   icon_pack: far
   name: COMIC- La Mancha Indeleble (JuanBosch)
-  url: https://www.webtoons.com/es/challenge/la-mancha-indeleble/la-mancha-indeleble-juan-bosch-amplifiedimaginationart/viewer?title_no=851690&episode_no=1
+  url: 
+  
 - icon: newspaper
   icon_pack: far
   name: COMIC- La Mujer (JuanBosh)
   url: https://www.webtoons.com/es/challenge/la-mujer-juan-bosch/la-mujer-juan-bosch-amplifiedimaginationart/viewer?title_no=851704&episode_no=1
+  
+- icon: youtube
+  icon_pack: fab
+  name: Conversatorio Inteligencia artificial y literatura - Cuentos de Juan Bosch en píxeles
+  url: https://youtu.be/InFv6riHx6g?si=jXgKVFr60nj2uV-N
 
 subtitle: ""
 tags:
@@ -34,10 +47,10 @@ title: Amplified Imagination (AI) ART
 ---
 ## INTRO 
 
-My name is Emilio, I am engineer, time traveler, energy and sustainability researcher, daydreamer and artist currently living in the Dominican Republic. I´m writing this in mid-September 2022, and for the
+My name is Emilio, I am engineer, time traveler, energy and sustainability researcher, daydreamer and artist currently living in the Dominican Republic. I´m writing this in mid-September 2022, and for the last
 couple of weeks I have found myself utterly obsessed in the process of experimenting and learning about the nuances and tricks of the new A.I tools.
 
-These tools have brought me a lot of joy, and I hope we can enjoy and shared this amazing opportunity to expand our creativity to the edges of our imagination. Towards that goal through this account, I will be sharing tips, education, and resources of what I’ve learned.
+These tools have brought me a lot of joy, and I hope we can enjoy and shared this amazing opportunity to expand our creativity to the edges of our imagination. Towards that goal I will be sharing my Amplified Imagination Projects. 
 
 ## ILUSTRACIÓN DE CUENTOS CORTOS
 
