@@ -12,13 +12,13 @@ links:
   name: Proyect´s Long Term Vision
   url: https://youtu.be/T6JKs5dSuHw?si=1nKuUQpEZ-ydlYTz
   
-- icon: newspaper
-  icon_pack: fab
+- icon: book-open
+  icon_pack: fas
   name: Executive Summary
   url: https://microgrid.pucmm.edu.do/wp-content/uploads/2023/10/ENG-ExecutiveSummary-MicrogridResearchPUCMM_2023-10-05.pdf
   
-- icon: newspaper
-  icon_pack: fab
+- icon: book-open
+  icon_pack: fas
   name: Project Blog
   url: https://microgrid.pucmm.edu.do/
 
