@@ -1,5 +1,5 @@
 ---
-title: "La Voz del Archivo General de la Nación  Sept 2023"
+title: "Arte Generado por Inteligencia Artificial - La Voz del Archivo General de la Nación  Sept 2023"
 subtitle: ""
 excerpt: "Entrevista en el programa radial “La Voz” del Archivo General de la Nación, un programa cultural que informa sobre contenidos archivísticos, históricos y culturales de República Dominicana."
 date: 2023-09-15T20:00:59-06:00
