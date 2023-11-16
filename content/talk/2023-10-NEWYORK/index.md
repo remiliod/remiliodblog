@@ -1,5 +1,5 @@
 ---
-title: "Conversatorio: Inteligencia artificial y literatura: cuentos de Juan Bosch en píxeles"
+title: "ARTE GENERADO POR INTELIGENCIA ARTIFICIAL - DOMINICANA LIBRO AND CULTURE FESTIVAL 2023 - NEW YORK"
 subtitle: ""
 excerpt: "En este taller, exploramos la intersección entre la creatividad y la inteligencia artificial. Aprendimos cómo la IA puede ser una herramienta poderosa para potenciar la ilustración. Se presentó la ilustración de la Mancha Indeleble y La Mujer de Juan Bosch."
 date: 2023-10-26T20:00:59-06:00
