@@ -8,8 +8,6 @@ weight: 2
 ---
 **Por** Ramón Emilio De Jesús-Grullón
 
-**Fotonovela: Sueños de Revolución - Los Guerrilleros de Playa Caracoles**
-
 
 <div align="center">
     <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/1.png">
@@ -21,9 +19,6 @@ weight: 2
 </div>
 
 
-<div align="center">
-    <img src="/blog/AmplifiedImagination/LaManchaIndeleble/Picture14.png">
-</div>
 
 
 **Palabras finales**
