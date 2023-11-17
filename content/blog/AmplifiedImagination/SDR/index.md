@@ -1,9 +1,9 @@
 ---
-date: "2023-05-10"
+date: "2023-11-18"
 draft: false
 excerpt: Nos encontramos en una especie de “Nuevo Renacimiento”. Una creciente y latente fascinación por la Inteligencia Artificial (IA) ha hecho que en las últimas décadas encontremos un lugar para la IA en todos los escenarios imaginables. Desde aplicaciones cotidianas (asistentes de voz y navegadores de mapa), hasta en ingeniería ( evolución de la digitalización del sector eléctrico), medicina ( análisis de imágenes en cardiología), música ( personalización de listas de reproducción) y ahora, en el arte y la experiencia creativa.
 subtitle: ""
-title: (Spa) Ilustración del cuento “La Mancha Indeleble” de Juan Bosch usando Inteligencia Artificial (IA)
+title: Fotonovela - Sueños de Revolución | Los Guerrilleros de Playa Caracoles
 weight: 2
 ---
 **Por** Ramón Emilio De Jesús-Grullón
