@@ -1,23 +1,14 @@
 ---
-date: "2023-11-18"
+date: "2023-11-16"
 draft: false
 excerpt: Nos encontramos en una especie de “Nuevo Renacimiento”. Una creciente y latente fascinación por la Inteligencia Artificial (IA) ha hecho que en las últimas décadas encontremos un lugar para la IA en todos los escenarios imaginables. Desde aplicaciones cotidianas (asistentes de voz y navegadores de mapa), hasta en ingeniería ( evolución de la digitalización del sector eléctrico), medicina ( análisis de imágenes en cardiología), música ( personalización de listas de reproducción) y ahora, en el arte y la experiencia creativa.
 subtitle: ""
 title: Fotonovela - Sueños de Revolución | Los Guerrilleros de Playa Caracoles
 weight: 2
 ---
-**Por** Ramón Emilio De Jesús-Grullón
-
-**Una (muy) breve historia sobre la magia que hay detrás de la Inteligencia Artificial (IA)**
-
-Nos encontramos en una especie de "_Nuevo Renacimiento_". Una creciente y latente fascinación por la Inteligencia Artificial (IA) ha hecho que en las últimas décadas encontremos un lugar para la IA en todos los escenarios imaginables. Desde aplicaciones cotidianas (asistentes de voz y [navegadores de mapa](https://tecvolucion.com/inteligencia-artificial-predicciones-trafico-google-maps/)), hasta en ingeniería ([evolución de la digitalización del sector eléctrico](https://hoy.com.do/hacia-el-futuro-la-red-electrica-del-siglo-xxi/)), medicina ([análisis de imágenes en cardiología](https://www.elsevier.es/es-revista-atencion-primaria-27-articulo-la-inteligencia-artificial-sus-aplicaciones-S0212656720301451)), música ([personalización de listas de reproducción](https://engineering.atspotify.com/2021/12/how-spotify-uses-ml-to-create-the-future-of-personalization/)) y ahora, en el arte y la experiencia creativa.
-
-Esta es la historia de como usé **MidJourney,** el programa de IA más discutido, fascinante y controvertido del 2023, para ilustrar uno de los cuentos favoritos de mi adolescencia, **"La Mancha Indeleble"** de Juan Bosch, maestro de este género literario, historiador, político e ilustre hijo de la provincia que me vio crecer, La Vega.
-
-Puedes acceder a la ilustración completa en el siguiente enlace: [La Mancha Indeleble](https://www.webtoons.com/es/challenge/la-mancha-indeleble/la-mancha-indeleble-juan-bosch-amplifiedimaginationart/viewer?title_no=851690&episode_no=1&webtoonType=CHALLENGE)
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/LaManchaIndeleble/Picture1.png">
+    <img src="/blog/AmplifiedImagination/SDR/1portada.png">
 </div>
 
 **¿Qué es MidJourney y dónde está la magia?**
