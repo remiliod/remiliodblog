@@ -6,7 +6,7 @@ excerpt: Sueños de Revolución | Los Guerrilleros de Playa Caracoles" es un por
 
 subtitle: ""
 title: Fotonovela - Sueños de Revolución - Los Guerrilleros de Playa Caracoles - Ilustrada usando IA
-weight: 5
+weight: 1
 
 ---
 
