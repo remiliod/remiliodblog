@@ -4,7 +4,7 @@ draft: false
 excerpt: 
 subtitle: ""
 title: Fotonovela | Sueños de Revolución - Los Guerrilleros de Playa Caracoles - Ilustrada usando IA
-weight: 1
+weight: 3
 ---
 
 
@@ -74,4 +74,4 @@ Hasta pronto.
 
 El autor es un "_prompt wizard_" (Mago de las Palabras en MidJourney) en @AmplifiedImaginationArt.
 
-**Contacto:** remildejesus@gmail.com
+**Contacto:** "remildejesus@gmail.com""
