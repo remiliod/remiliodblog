@@ -8,59 +8,59 @@ weight: 2
 ---
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/1portada.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/1portada.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/2autoria.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/2autoria.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/3introduccion.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/3introduccion.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/4capitulo1.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/4capitulo1.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/5primerapagina.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/5primerapagina.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/6segundapagina.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/6segundapagina.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/7tercerapagina.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/7tercerapagina.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/8cuartapagina.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/8cuartapagina.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/9indice.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/9indice.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/10indice.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/10indice.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/11indice.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/11indice.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/12indice.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/12indice.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/13contraportada.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/13contraportada.png">
 </div>
 
 <div align="center">
-    <img src="/blog/AmplifiedImagination/SDR/14descarga.png">
+    <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/14descarga.png">
 </div>
 
 
