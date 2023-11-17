@@ -4,7 +4,7 @@ draft: false
 excerpt: 
 subtitle: ""
 title: Fotonovela | Sueños de Revolución - Los Guerrilleros de Playa Caracoles - Ilustrada usando IA
-weight: 2
+weight: 1
 ---
 
 
