@@ -1,7 +1,7 @@
 ---
 
 date: "2023-11-18"
-draft: false
+draft: 
 excerpt: Sueños de Revolución | Los Guerrilleros de Playa Caracoles" es un portal, un puente temporal y una síntesis de las décadas que forjaron la identidad sociopolítica actual de la República Dominicana.  Desde el cierre de la Segunda Guerra Mundial en 1945, hasta el valiente desembarco de los guerrilleros liderados por Francisco Alberto Caamaño Deño en 1973; esta fotonovela es un viaje al pasado, un recorrido por los recuerdos de seres que ya no habitan este mundo, pero que han dejado huellas escritas con tinta y sangre.
 
 subtitle: ""
