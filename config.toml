@@ -1,7 +1,7 @@
 baseURL = "https://remildejesus.xyz/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "Blog"
 author = "Ramón Emilio De Jesús Grullón"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = "G-H0BC4P5Z68"
@@ -94,10 +94,10 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/remiliod"
-  #[[params.social]]
-  #    icon      = "facebook-square" # icon name without the 'fa-'
-  #    icon_pack = "fab"
-  #    url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+  [[params.social]]
+      icon      = "youtube" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.youtube.com/@remildejesus"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
