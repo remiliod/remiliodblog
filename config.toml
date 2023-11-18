@@ -71,8 +71,8 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
-    issue_term = "pathname" # url, pathname, or title
+    repo_name = "remiliod/remiliodblog"
+    issue_term = "https://github.com/remiliod/remiliodblog" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
 
@@ -114,10 +114,10 @@ enableEmoji = true
   #    icon      = "orcid" # icon name without the 'fa-'
   #    icon_pack = "ai"
   #    url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "spotify" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://open.spotify.com/show/2BC4Ll30TfmoSRweC6dqKLl"
+  #[[params.social]]
+  #    icon      = "spotify" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://open.spotify.com/show/2BC4Ll30TfmoSRweC6dqKLl"
 
 [taxonomies]
   category = "categories"
@@ -168,11 +168,11 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+ # [[menu.footer]]
+ #   name = "Contributors"
+ #   title = "Contributors"
+ #   url = "/contributors/"
+ #   weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
