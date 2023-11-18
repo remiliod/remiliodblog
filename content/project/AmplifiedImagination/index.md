@@ -42,7 +42,10 @@ title: Amplified Imagination (AI) ART
 
 ### “Amplified Imagination is a vessel for creativity in the new frontiers of AI-Driven Art! It is obvious we are currently living at a tipping point, the realm of possibilities for expression is expanding exponentially, this is human imagination amplified!”
 
-{{< figure src="inspiration.png" alt="Logo for amplified imaginationt"  caption=" Amplified Imagination Logo" >}}
+
+<div align="center">
+    <img src="/blog/AmplifiedImagination/LaManchaIndeleble/inspiration.png">
+</div>
 
 ---
 ## INTRO 
@@ -52,7 +55,15 @@ couple of weeks I have found myself utterly obsessed in the process of experimen
 
 These tools have brought me a lot of joy, and I hope we can enjoy and shared this amazing opportunity to expand our creativity to the edges of our imagination. Towards that goal I will be sharing my Amplified Imagination Projects. 
 
-## ILUSTRACIÓN DE CUENTOS CORTOS
+## SHORT STORY ILUSTRATION
+
+### Sueños de Revolución - Los Guerrilleros de Playa Caracoles
+
+:art:[Accede a la ilustración completa aquí](https://remildejesus.xyz/blog/amplifiedimagination/suenosderevolucion/)
+
+"Sueños de Revolución: Los Guerrilleros de Playa Caracoles" es un portal, un puente temporal y una síntesis de las décadas que forjaron la identidad sociopolítica actual de la República Dominicana. Desde el cierre de la Segunda Guerra Mundial en 1945, hasta el valiente desembarco de los guerrilleros liderados por Francisco Alberto Caamaño Deño en 1973; esta fotonovela es un viaje al pasado, un recorrido por los recuerdos de seres que ya no habitan este mundo, pero que han dejado huellas escritas con tinta y sangre. ¡Cuan nobles fueron sus ideales! ¡Cuan inspirador su sacrificio al entregarse en cuerpo y alma a una causa! ¡La patria!
+
+{{< figure src="SueñosDeRevolucion.png" alt="Logo for amplified imaginationt"  caption=" Ilustración de Sueños de Revolución" >}}
 
 ### La Mancha Indeleble - Juan Bosh
 
