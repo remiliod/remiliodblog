@@ -9,6 +9,12 @@ featured: true
 layout: single
 links:
 
+
+- icon: newspaper
+  icon_pack: far
+  name: FOTONOVELA - Sueños de Revolución
+  url: https://remildejesus.xyz/blog/amplifiedimagination/suenosderevolucion/
+
 - icon: youtube
   icon_pack: fab
   name: Audiovisual -  La Mancha Indeleble
@@ -43,9 +49,7 @@ title: Amplified Imagination (AI) ART
 ### “Amplified Imagination is a vessel for creativity in the new frontiers of AI-Driven Art! It is obvious we are currently living at a tipping point, the realm of possibilities for expression is expanding exponentially, this is human imagination amplified!”
 
 
-<div align="center">
-    <img src="/blog/AmplifiedImagination/LaManchaIndeleble/inspiration.png">
-</div>
+{{< figure src="inspiration.png" alt="Logo for amplified imaginationt"  caption=" Ilustración de Sueños de Revolución" >}}
 
 ---
 ## INTRO 
