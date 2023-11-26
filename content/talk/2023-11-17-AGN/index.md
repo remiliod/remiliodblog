@@ -10,9 +10,14 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- Cápsula Radial
+- Conferences
 
 links:
+- icon: newspaper
+  icon_pack: fas
+  name: Prensa - Los Guerrilleros de Playa Caracoles realizada con IA
+  url: https://hoy.com.do/presentan-fotonovela-suenos-de-revolucion-los-guerrilleros-de-playa-caracoles-realizada-con-ia/
+  
 - icon: youtube
   icon_pack: fab
   name: Ilustración de Sueños de Revolución (Cap 1)
