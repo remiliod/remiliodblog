@@ -16,9 +16,10 @@ links:
 - icon: youtube
   icon_pack: fab
   name: Introducción a la IA en las Industrias Culturales
-  url: https://www.youtube.com/live/NQJt8s3IE4w?si=idbKXiWFX2VPcIh-&t=3007
+  url: https://www.youtube.com/live/NQJt8s3IE4w?si=idbKXiWFX2VPcIh-&t=30
 
 ---
+
 
 https://remildejesus.xyz/project/amplifiedimagination/
 
