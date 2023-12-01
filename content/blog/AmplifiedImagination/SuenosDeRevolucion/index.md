@@ -7,6 +7,8 @@ title: Fotonovela - Sueños de Revolución | Los Guerrilleros de Playa Caracoles
 weight: 2
 ---
 
+:art:[Accede al audiovisual aquí](https://youtu.be/foeI9B8sVlk?si=Yyv-BbJj92MrRTdh)
+
 <div align="center">
     <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/1portada.png">
 </div>
