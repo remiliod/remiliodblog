@@ -14,6 +14,11 @@ links:
   icon_pack: far
   name: FOTONOVELA - Sueños de Revolución
   url: https://remildejesus.xyz/blog/amplifiedimagination/suenosderevolucion/
+  
+- icon: youtube
+  icon_pack: fab
+  name: Audiovisual - Sueños de Revolución - Los Guerrilleros de Playa Caracoles
+  url: https://youtu.be/foeI9B8sVlk?si=Yyv-BbJj92MrRTdh
 
 - icon: youtube
   icon_pack: fab

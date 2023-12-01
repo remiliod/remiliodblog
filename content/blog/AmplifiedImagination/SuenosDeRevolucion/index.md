@@ -63,7 +63,7 @@ weight: 2
     <img src="/blog/AmplifiedImagination/SuenosDeRevolucion/14descarga.png">
 </div>
 
-
+:art:[Accede al audiovisual aquí](https://youtu.be/foeI9B8sVlk?si=Yyv-BbJj92MrRTdh)
 
 **Palabras finales**
 
