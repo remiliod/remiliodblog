@@ -13,6 +13,11 @@ tags:
 title: Sinapsis | Te recomiendo un libro
  
 links:
+
+- icon: book-open
+  icon_pack: fas
+  name: Killer ChatGPT de Guy Hart
+  url: https://www.instagram.com/reel/C0cOKnCOniR
 - icon: book-open
   icon_pack: fas
   name: El Peregrino de J. A. Baker
@@ -81,6 +86,7 @@ links:
   icon_pack: fas
   name: La danza de la vida de Edward T. Hall
   url: https://www.instagram.com/p/CnrfkvEBQbw/
+
 ---
 
 ![Sinapsis](featured-hex.png)
