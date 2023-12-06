@@ -1,5 +1,5 @@
 ---
-title: "AI-RTISTAS- Creando cultural con Inteligencia Articial"
+title: "AI-RTISTAS- Creando cultural con Inteligencia Artificial"
 excerpt: "Formar sobre el uso y las herramientas que fusionan Inteligencia Artificial y cultura: En la intersección de la Inteligencia Artificial y la cultura, pueden surgir proyectos innovadores y experimentales. A través de la visión de expertos nacionales e internacionales se presenta una visión más profunda de cómo la Inteligencia Artificial está impactando el ámbito cultural y se ofrece perspectivas únicas sobre las oportunidades y desafíos que surgen mientras comparten sus experiencias."
 date: 2023-11-30T17:00:59-06:00
 date_end: "2023-11-30T21:00:59-06:00"
