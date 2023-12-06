@@ -11,6 +11,8 @@ weight: 3
 
 **Por** Ramón Emilio De Jesús-Grullón
 
+Una red eléctrica confiable es la columna vertebral de la sociedad actual. Ninguna nación moderna puede ser plenamente soberana, competitiva y sostenible sin prestar atención a esta premisa, a este axioma fundamental. No obstante, Quisqueya no solo está _“en el mismo trayecto del sol”_, pero también en el constante **ojo de la tormenta**.
+
 La República Dominicana es uno de los países más vulnerables del mundo al cambio climático. Según el Índice de Riesgo Climático Global 2021 [1], que cuantifica en qué medida los países se han visto afectados por los impactos de eventos climáticos en sus economías (tormentas, inundaciones, olas de calor, etc.), República Dominicana ocupa el puesto 500. No obstante, nuestros vecinos más cercanos, Puerto Rico (10) y Haití (30) (Ver Figura 1), han sido identificados dentro de los 10 países más afectados del mundo en los últimos 20 años, colocando a la isla y a la región como una de las más vulnerables. En este contexto, es más que evidente que la magnitud del reto al que se enfrentan los dominicanos recae sobre la **visión** de los administradores, formuladores de políticas y reguladores de la infraestructura de nuestra nación. En sus hombros está la responsabilidad de explorar las **herramientas e innovaciones tecnológicas** que permitirán no sólo aumentar nuestra capacidad de planificar, tomar decisiones y aumentar el nivel de resiliencia de nuestra infraestructura ante este tipo de eventos, pero también de construir el conocimiento técnico para integrar las tecnologías que harán esto posible. 
 
 
