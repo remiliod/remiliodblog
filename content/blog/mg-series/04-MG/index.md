@@ -13,7 +13,7 @@ weight: 3
 
 Una red eléctrica confiable es la columna vertebral de la sociedad actual. Ninguna nación moderna puede ser plenamente soberana, competitiva y sostenible sin prestar atención a esta premisa, a este axioma fundamental. No obstante, Quisqueya no solo está _“en el mismo trayecto del sol”_, pero también en el constante **ojo de la tormenta**.
 
-La República Dominicana es uno de los países más vulnerables del mundo al cambio climático. Según el Índice de Riesgo Climático Global 2021 [1], que cuantifica en qué medida los países se han visto afectados por los impactos de eventos climáticos en sus economías (tormentas, inundaciones, olas de calor, etc.), República Dominicana ocupa el puesto 500. No obstante, nuestros vecinos más cercanos, Puerto Rico (10) y Haití (30) (Ver Figura 1), han sido identificados dentro de los 10 países más afectados del mundo en los últimos 20 años, colocando a la isla y a la región como una de las más vulnerables. En este contexto, es más que evidente que la magnitud del reto al que se enfrentan los dominicanos recae sobre la **visión** de los administradores, formuladores de políticas y reguladores de la infraestructura de nuestra nación. En sus hombros está la responsabilidad de explorar las **herramientas e innovaciones tecnológicas** que permitirán no sólo aumentar nuestra capacidad de planificar, tomar decisiones y aumentar el nivel de resiliencia de nuestra infraestructura ante este tipo de eventos, pero también de construir el conocimiento técnico para integrar las tecnologías que harán esto posible. 
+La República Dominicana es uno de los países más vulnerables del mundo al cambio climático. Según el Índice de Riesgo Climático Global 2021 [1], que cuantifica en qué medida los países se han visto afectados por los impactos de eventos climáticos en sus economías (tormentas, inundaciones, olas de calor, etc.), República Dominicana ocupa el puesto 50. No obstante, nuestros vecinos más cercanos, Puerto Rico (1) y Haití (3) (Ver Figura 1), han sido identificados dentro de los 10 países más afectados del mundo en los últimos 20 años, colocando a la isla y a la región como una de las más vulnerables. En este contexto, es más que evidente que la magnitud del reto al que se enfrentan los dominicanos recae sobre la **visión** de los administradores, formuladores de políticas y reguladores de la infraestructura de nuestra nación. En sus hombros está la responsabilidad de explorar las **herramientas e innovaciones tecnológicas** que permitirán no sólo aumentar nuestra capacidad de planificar, tomar decisiones y aumentar el nivel de resiliencia de nuestra infraestructura ante este tipo de eventos, pero también de construir el conocimiento técnico para integrar las tecnologías que harán esto posible. 
 
 
 ![Figura 1 – Mapa Mundial del Índice de Riesgo Climático Global 2000 – 2019 Fuente: Germanwatch and Munich Re NatCatSERVICE [1]](/blog/mg-series/04-MG/1-Figura1.png)
@@ -71,7 +71,7 @@ Por lo tanto, para realizar inversiones eficientes que mitiguen efectivamente el
 
 **Figura 8** –  Interdependencias de la Infraestructura Crítica  **Fuente** :Adapatado de Phillips, J., M. Finster, J. Pillon, F. Petit, and J. Trail, 2016, State Energy Resilience Framework, Argonne National Laboratory [13]
 
-### Una Visión y una Solución Integral: Mi(cro/ni)rredes Eléctricas
+### Una Visión y una Solución Integral: Microrredes Eléctricas
 
 Los recientes cortes de energía severos causados por eventos climáticos cada vez más frecuentes han puesto de relieve la urgencia de **mejorar la resiliencia** de las redes en todo el mundo. La catástrofe en Puerto Rico, con un daño estimado de **$91.61 mil millones** de dólares, ofrecieron a la comunidad internacional y a la industria energética una rara y poderosa oportunidad para analizar las consecuencias de un evento tan potente en la infraestructura eléctrica, y el desafío de encontrar soluciones para mitigar sus efectos [14].
 
@@ -106,6 +106,12 @@ Basándonos en las ideas de Nassim Nicholas Taleb sobre los **'Cisnes Negros'** 
 La mayor demanda de fiabilidad y resiliencia en todos los sectores productivos, combinada con la caída de los costos de los Sistemas de Almacenamiento de Energía en Baterías (BESS) y la asequibilidad de la energía solar fotovoltaica, están impulsando el desarrollo de las microrredes en todo el mundo. Captar y comprender estas tendencias es **esencial para rastrear las barreras regulatorias y las necesidades de políticas públicas** en favor de estas tecnologías, pero aún más importante, es fundamental para apoyar la visión país hacia la transición energética y sus 3D: **Digitalización, Descarbonización y Descentralización.**
 
 La investigación se realizó con el apoyo financiero del Partnerships for Enhanced Engagement in Research (PEER) Ciclo 9, un programa de fondos para investigación que financia la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) y que implementa la Agencia Nacional de Ciencias (NAS). El principal socio del proyecto fue la distribuidora EDENORTE, quien proporcionó información técnica y soporte metodológico.
+
+
+El autor es investigador en Microrredes Eléctricas (PUCMM) y Especialista en Energía (Energía Journal).
+
+ Contacto: Resiliencia Energética y Microrredes | www.microgridresearchpucmm.blog | r.dejesus@ce.pucmm.edu.do
+ Energía Journal | energiajournalrd@gmail.com | Instagram: @energiajournal
 
 **Recursos**
 
@@ -153,9 +159,5 @@ https://masterurbanresilience.com/wp-content/uploads/2022/07/San-Juan_OConnor.pd
 
 [21]	EHPlus, Inauguran primer laboratorio especializado en microrredes eléctricas de RD, (2023). https://ehplus.do/inauguran-primer-laboratorio-especializado-en-microrredes-electricas-de-rd/.
 
-El autor es investigador en Microrredes Eléctricas (PUCMM) y Especialista en Energía (Energía Journal).
-
- Contacto: Resiliencia Energética y Microrredes | www.microgridresearchpucmm.blog | r.dejesus@ce.pucmm.edu.do
- Energía Journal | energiajournalrd@gmail.com | Instagram: @energiajournal
 
 
