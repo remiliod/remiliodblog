@@ -7,7 +7,7 @@ title: Reimaginando y Fortaleciendo la Infraestructura Energética de República
 weight: 3
 ---
 
-### Vulnerabilidad Climática de la República Dominicana
+## Vulnerabilidad Climática de la República Dominicana
 
 **Por** Ramón Emilio De Jesús-Grullón
 
@@ -21,7 +21,7 @@ La República Dominicana es uno de los países más vulnerables del mundo al cam
 
 **Figura 1** – Mapa Mundial del Índice de Riesgo Climático Global 2000 – 2019  **Fuente** : Germanwatch and Munich Re NatCatSERVICE [1]
 
-### El problema en perspectiva
+## El problema en perspectiva
 
 El análisis de los _Puntos Críticos de Vulnerabilidad al Cambio climático en República Dominicana_ [2] muestra que **13 provincias (alrededor del 40% del país)** presentan niveles de vulnerabilidad de alta a muy alta (ver Figura 2) ante eventos climáticos. Los elementos que hacen una región más vulnerable que otra son tanto factores climáticos, como factores ligados a la resiliencia y capacidad adaptativa de la población que reside en estos territorios. La ubicación geográfica del país, junto con factores históricos sociales, demográficos y económicos, y el hecho de que la república comparte la isla con el país más pobre del hemisferio occidental, exacerban las condiciones de riesgo. 
 
@@ -58,7 +58,7 @@ Un ejemplo reciente de esta nueva realidad sucedió el sábado 18 de noviembre d
 
 **Figura 5** –  Acumulado de lluvias en los cuatro días correspondientes del jueves 16 de noviembre al domingo 19 de noviembre del 2023. **Fuente** :Oficina Nacional de Meteorología (ONAMET)	
 
-### Vulnerabilidad de las Redes Eléctricas y Riesgos Catastróficos para la Seguridad Energética 
+## Vulnerabilidad de las Redes Eléctricas y Riesgos Catastróficos para la Seguridad Energética 
 
 No debe sorprendernos que el cambio climático tenga un impacto significativo en el sector eléctrico. El aumento de las temperaturas, cambios en los patrones de precipitación y el aumento del nivel del mar afectan la producción, la oferta y la demanda de energía. Desafortunadamente, las redes eléctricas en la República Dominicana, como en la mayor parte del mundo, fueron diseñadas y planificadas para funcionar de forma **centralizada**, caracterizadas por un flujo unidireccional de la electricidad, así como de su valor económico, desde los generadores hasta los clientes finales, desarrolladas en una era dominada por las economías de escala y el auge de los combustibles fósiles [7].
 
@@ -87,7 +87,7 @@ Por lo tanto, para realizar inversiones eficientes que mitiguen efectivamente el
 
 **Figura 8** –  Interdependencias de la Infraestructura Crítica  **Fuente** :Adapatado de Phillips, J., M. Finster, J. Pillon, F. Petit, and J. Trail, 2016, State Energy Resilience Framework, Argonne National Laboratory [13]
 
-### Una Visión y una Solución Integral: Microrredes Eléctricas
+## Una Visión y una Solución Integral: Microrredes Eléctricas
 
 Los recientes cortes de energía severos causados por eventos climáticos cada vez más frecuentes han puesto de relieve la urgencia de **mejorar la resiliencia** de las redes en todo el mundo. La catástrofe en Puerto Rico, con un daño estimado de **$91.61 mil millones** de dólares, ofrecieron a la comunidad internacional y a la industria energética una rara y poderosa oportunidad para analizar las consecuencias de un evento tan potente en la infraestructura eléctrica, y el desafío de encontrar soluciones para mitigar sus efectos [14].
 
@@ -116,7 +116,7 @@ Esta tecnología y concepto puede ser extrapolado a **microrredes interconectada
 
 **Figura 11** – Una visión de Minirredes frente a Eventos Climáticos Catastróficos en República Dominicana **Fuente** :Análisis de resiliencia para el desarrollo de arquitectura de microrredes frente a eventos climáticos en los sistemas eléctricos de República Dominicana. Grupo de Investigación en Resiliencia Energética y Microrredes, PUCMM, 2023 [18]
 
-### Una Ventana de Oportunidad y una Posible Ruta
+## Una Ventana de Oportunidad y una Posible Ruta
 
 <div align="center">
     <img src="/blog/mg-series/04-MG/Figura 11 - R.D en el Ojo de la Tormenta.png">

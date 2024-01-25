@@ -27,7 +27,7 @@ La red eléctrica se ha convertido en un ser viviente. No obstante, el hecho de 
 
 **Figura 2 - ** _Luces nocturnas de centros urbanos en la Hispaniola_ **Fuente:** _NightEarth (NASA)_ [3]
 
-### **UNA ISLA EN EL OJO DE LA TORMENTA**
+## **UNA ISLA EN EL OJO DE LA TORMENTA**
 
 
 Los recientes cortes de energía severos causados por eventos climáticos cada vez más frecuentes han puesto de relieve la urgencia de **mejorar la resiliencia de la infraestructura energética global** _**(Ver Figura 3).**_ Estos eventos sirven como claros recordatorios de los importantes riesgos y deficiencias de los sistemas eléctricos actuales [4].
@@ -57,7 +57,7 @@ Al explorar el impacto de los desastres naturales en República Dominicana en la
 
 El fortalecimiento de la seguridad y resiliencia de la infraestructura crítica a nivel nacional depende de la capacidad los actores del sistema político, de los planificadores y de los operadores, tanto públicos como privados, para tomar decisiones informadas y encontrar soluciones frente a la evolución de estos riesgos y amenazas. Si bien _**no hay solución dominicana al problema haitiano**_, no es posible estar ajenos a su realidad, y a las lecciones que se pueden internalizar al explorar la catástrofe humanitaria resultante de los embates de la madre naturaleza.
 
-### **UNA VENTANA DE OPORTUNIDAD**
+## **UNA VENTANA DE OPORTUNIDAD**
 
 En todo el globo se está repensando el modelo heredado del siglo XX de distribución energética centralizada. Una confluencia de avances tecnológicos, combinada con una mayor **potencia computacional** (_aprendizaje de maquina e inteligencia artificial_), el aumento de **recursos energéticos distribuidos** rentables (_generación solar, almacenamiento de energía, cargas flexible,_ ) y una explosión de novedosas soluciones de Tecnología de la Información (_Internet de las cosas (IoT))_ están permitiendo repensar completamente la forma en que debe funcionar la red del siglo XXI y, por lo tanto, avanzar hacia la imperativa **Transición Energética** cuyos principios fundamentales se recogen en las 3Ds: _**Descarbonización, Descentralización y Digitalización (Ver Figura 6).**_
 
@@ -78,7 +78,7 @@ La realidad es que no se puede construir una sociedad moderna **sobre una infrae
 </div>
 
 
-### **CONSIDERACIONES PARA EL SECTOR ENERGÉTICO DOMINICANO**
+## **CONSIDERACIONES PARA EL SECTOR ENERGÉTICO DOMINICANO**
 
 
 Estas consideraciones están dirigidas a el sector energético dominicano: Ministerio de Energía y Minas (MEM-RD), Comisión Nacional de Energía (CNE), las Distribuidoras (EDEs), la Superintendencia de Electricidad (SIE), la Empresa de Transmisión Eléctrica Dominicana (ETED), Organismo Coordinador (OC) y el Ministerio de Economía, Planificación y Desarrollo (MEPyD). Fueron publicadas por el grupo de investigación en Resiliencia Energética y Microrredes de la PUCMM al concluir el proyecto de investigación [ **Análisis de Resiliencia para el Desarrollo de Arquitectura de Microrredes frente a Eventos Climáticos en los Sistemas Eléctricos de República Dominicana** ](https://microgrid.pucmm.edu.do/wp-content/uploads/2023/10/PEER-FinallReport-MicrogridResearchPUCMM-1.pdf)[11], en el marco del programa _Parternship for Enhanced Engagement in Research (PEER)_ [12], y cuyos resultados fueron publicados a final del 2023 para miembros del sector [13].
