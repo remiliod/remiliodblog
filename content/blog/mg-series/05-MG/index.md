@@ -33,53 +33,66 @@ La red eléctrica se ha convertido en un ser viviente. No obstante, el hecho de 
 ### **UNA ISLA EN EL OJO DE LA TORMENTA**
 
 
-Los recientes cortes de energía severos causados por eventos climáticos cada vez más frecuentes han puesto de relieve la urgencia de **mejorar la resiliencia de la infraestructura energética global** _**(ver Figura 3).**_ Estos eventos sirven como claros recordatorios de los importantes riesgos y deficiencias de los sistemas eléctricos actuales [4].
+Los recientes cortes de energía severos causados por eventos climáticos cada vez más frecuentes han puesto de relieve la urgencia de **mejorar la resiliencia de la infraestructura energética global** _**(Ver Figura 3).**_ Estos eventos sirven como claros recordatorios de los importantes riesgos y deficiencias de los sistemas eléctricos actuales [4].
 
 <div align="center">
     <img src="/blog/mg-series/05-MG/Figura 3 - Trayectorias de tormentas de 1842 a 2020 coloreadas según su intensidad.png">
 </div>
 
 
-_ **Figura 3 –** _ _Trayectoria de huracanes según su intensidad (1842-2020)_ _ **Fuente** __: Analyze Patterns of Global Hurricane Data (ESRI)_[5]
+**Figura 3** _Trayectoria de huracanes según su intensidad (1842-2020)_  **Fuente**: Analyze Patterns of Global Hurricane Data (ESRI)[5]
 
-Este desafío se ve agravado aún más al considerar el riesgo inherente de aislamiento geográfico al que se enfrenta cualquier nación insular, como es el caso de la República Dominicana, que comparte el **Sistema-Isla Hispaniol** a con la República de Haití, un estado inmerso en una situación de inestabilidad social, crisis económica y catástrofe ecológica sin precedentes [6]. En la misma isla, dos universos paralelos (_ **Ver Figura 4** _).
+Este desafío se ve agravado aún más al considerar el riesgo inherente de aislamiento geográfico al que se enfrenta cualquier nación insular, como es el caso de la República Dominicana, que comparte el **Sistema-Isla Hispaniol** a con la República de Haití, un estado inmerso en una situación de inestabilidad social, crisis económica y catástrofe ecológica sin precedentes [6]. En la misma isla, dos universos paralelos (_**Ver Figura 4**_).
 
-![](RackMultipart20240125-1-lc4y48_html_d47b18a8608b768b.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 4 - comparación socioeconómica de Republica dominicana y haiti.png">
+</div>
 
-_ **Figura 4 –** _ _Comparación socioeconómica de República Dominica y Haití_ _ **Fuente** __:__ Elaboración propia con datos de la Oficina Nacional de Estadística (ONE)_
+**Figura 4** _Comparación socioeconómica de República Dominica y Haití_ **Fuente**: Elaboración propia con datos de la Oficina Nacional de Estadística (ONE)
 
-Al explorar el impacto de los desastres naturales en República Dominicana en las últimas décadas_,_ se evidencian las importantes pérdidas económicas que suponen fenómenos como el huracán David y Federico en 1979, donde las pérdidas alcanzaron el **16% del Producto Interno Bruto (PIB),** y el huracán Georges en 1998, con un impacto del 14% del PIB [7]_**(Ver Figura 5)**__ **.** _ No obstante, estas cifras son minúsculas comparadas con los **14 billones de dólares** que le ha costado a la economía haitiana los desastres naturales solo desde el año 2010. Dos realidades distintas, casi en la misma latitud y longitud.
+Al explorar el impacto de los desastres naturales en República Dominicana en las últimas décadas, se evidencian las importantes pérdidas económicas que suponen fenómenos como el huracán David y Federico en 1979, donde las pérdidas alcanzaron el **16% del Producto Interno Bruto (PIB),** y el huracán Georges en 1998, con un impacto del 14% del PIB [7] _**(Ver Figura 5)**_. No obstante, estas cifras son minúsculas comparadas con los **14 billones de dólares** que le ha costado a la economía haitiana los desastres naturales solo desde el año 2010. Dos realidades distintas, casi en la misma latitud y longitud.
 
-![](RackMultipart20240125-1-lc4y48_html_f10afaed183bcfa6.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 5 - Impacto económico de los Desastres Naturales como % del PIB en República Dominicana.png">
+</div>
 
-_ **Figura 5 –** _ _Impacto económico de los Desastres Naturales como % del PIB en República Dominicana_ _ **Fuente** __: Ministerio de Economía, Planificación y Desarrollo (MEPyD, 2023)_
 
-El fortalecimiento de la seguridad y resiliencia de la infraestructura crítica a nivel nacional depende de la capacidad los actores del sistema político, de los planificadores y de los operadores, tanto públicos como privados, para tomar decisiones informadas y encontrar soluciones frente a la evolución de estos riesgos y amenazas. Si bien _ **no hay solución dominicana al problema haitiano** __,_ no es posible estar ajenos a su realidad, y a las lecciones que se pueden internalizar al explorar la catástrofe humanitaria resultante de los embates de la madre naturaleza.
 
-**UNA VENTANA DE OPORTUNIDAD**
+**Figura 5** _Impacto económico de los Desastres Naturales como % del PIB en República Dominicana_ **Fuente**: Ministerio de Economía, Planificación y Desarrollo (MEPyD, 2023)
 
-En todo el globo se está repensando el modelo heredado del siglo XX de distribución energética centralizada. Una confluencia de avances tecnológicos, combinada con una mayor **potencia computacional** (_aprendizaje de maquina e inteligencia artificial_), el aumento de **recursos energéticos distribuidos** rentables (_generación solar, almacenamiento de energía, cargas flexible,_ ) y una explosión de novedosas soluciones de Tecnología de la Información (_Internet de las cosas (IoT))_ están permitiendo repensar completamente la forma en que debe funcionar la red del siglo XXI y, por lo tanto, avanzar hacia la imperativa _ **Transición Energética** _ cuyos principios fundamentales se recogen en las 3Ds: _**Descarbonización, Descentralización y Digitalización (Ver Figura 6).**_
+El fortalecimiento de la seguridad y resiliencia de la infraestructura crítica a nivel nacional depende de la capacidad los actores del sistema político, de los planificadores y de los operadores, tanto públicos como privados, para tomar decisiones informadas y encontrar soluciones frente a la evolución de estos riesgos y amenazas. Si bien _**no hay solución dominicana al problema haitiano**_, no es posible estar ajenos a su realidad, y a las lecciones que se pueden internalizar al explorar la catástrofe humanitaria resultante de los embates de la madre naturaleza.
 
-![](RackMultipart20240125-1-lc4y48_html_6f3370b0e55ed87d.png)
+### **UNA VENTANA DE OPORTUNIDAD**
 
-_ **Figura 6 –** _ _Las 3D´s de la transición energética – descarbonización, digitalización y descentralización_ _ **Fuente:** _ _Elaboración propia_
+En todo el globo se está repensando el modelo heredado del siglo XX de distribución energética centralizada. Una confluencia de avances tecnológicos, combinada con una mayor **potencia computacional** (_aprendizaje de maquina e inteligencia artificial_), el aumento de **recursos energéticos distribuidos** rentables (_generación solar, almacenamiento de energía, cargas flexible,_ ) y una explosión de novedosas soluciones de Tecnología de la Información (_Internet de las cosas (IoT))_ están permitiendo repensar completamente la forma en que debe funcionar la red del siglo XXI y, por lo tanto, avanzar hacia la imperativa **Transición Energética** cuyos principios fundamentales se recogen en las 3Ds: _**Descarbonización, Descentralización y Digitalización (Ver Figura 6).**_
+
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 6 - 3dS DE LA TRANSICIÓN ENERGÉTICA.png">
+</div>
+
+**Figura 6** – Las 3D´s de la transición energética – descarbonización, digitalización y descentralización **Fuente:** Elaboración propia
 
 En el centro de esta visión se encuentran las **microrredes** , que sin duda desempeñarán un papel importante en el futuro de la resiliencia de los sistemas energéticos del mundo. Sin embargo, estas tecnologías y sistemas enfrentan altas barreras regulatorias ligadas al legado del modelo del siglo XX, por lo que es posible que las políticas y regulaciones energéticas contemporáneas **no tengan en cuenta plenamente estos sistemas o no se adapten a ellos** [8] **.**
 
-E ![](RackMultipart20240125-1-lc4y48_html_b3b4c071e3a2cb53.png) n la primera entrega de esta serie, titulada [_**'Reimaginando y Fortaleciendo la Infraestructura Energética de la República Dominicana: Microrredes Frente a Eventos Catastróficos (1/2**_](https://ehplus.do/reimaginando-y-fortaleciendo-la-infraestructura-energetica-de-republica-dominicana-microrredes-frente-a-eventos-catastroficos-1-2/)_**)**_[9], se exploraron las vulnerabilidades de la infraestructura energética, y se argumentó que para estar preparado para la realidad que supone cambio climático, el Estado dominicano debería priorizar una visión **hacia la resiliencia en infraestructura**. En esta ocasión, se plantean algunas consideraciones que pueden servir como guía hacia esos objetivos.
+En la primera entrega de esta serie, titulada [_**'Reimaginando y Fortaleciendo la Infraestructura Energética de la República Dominicana: Microrredes Frente a Eventos Catastróficos (1/2**_](https://ehplus.do/reimaginando-y-fortaleciendo-la-infraestructura-energetica-de-republica-dominicana-microrredes-frente-a-eventos-catastroficos-1-2/)_**)**_[9], se exploraron las vulnerabilidades de la infraestructura energética, y se argumentó que para estar preparado para la realidad que supone cambio climático, el Estado dominicano debería priorizar una visión **hacia la resiliencia en infraestructura**. En esta ocasión, se plantean algunas consideraciones que pueden servir como guía hacia esos objetivos.
 
-La realidad es que no se puede construir una sociedad moderna **sobre una infraestructura en decadencia o en obsolescencia programada**. Aquellas naciones que no inviertan en la _ **4ta Revolución Industrial** _ están destinadas a convertirse en los _"países en desarrollo"_ del futuro. La historia no miente, miren los datos [10]. En 1996, el Producto Interno Bruto (PIB) per cápita entre los países abanderados de la _3ra revolución industrial_ era de **25,870 dólares** , mientras que en los países menos desarrollados era sólo de **1,183 dólares**. La variable subyacente en la que se basan estas distinciones es económica, en otros casos es política, pero el patrón se mantiene.
+La realidad es que no se puede construir una sociedad moderna **sobre una infraestructura en decadencia o en obsolescencia programada**. Aquellas naciones que no inviertan en la **4ta Revolución Industrial** están destinadas a convertirse en los _"países en desarrollo"_ del futuro. La historia no miente, miren los datos [10]. En 1996, el Producto Interno Bruto (PIB) per cápita entre los países abanderados de la _3ra revolución industrial_ era de **25,870 dólares** , mientras que en los países menos desarrollados era sólo de **1,183 dólares**. La variable subyacente en la que se basan estas distinciones es económica, en otros casos es política, pero el patrón se mantiene.
 
-# **CONSIDERACIONES PARA EL SECTOR ENERGÉTICO DOMINICANO**
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 6.1 -RD en el Ojo de La Tormenta.png">
+</div>
 
 
-Estas consideraciones están dirigidas a el sector energético dominicano: Ministerio de Energía y Minas (MEM-RD), Comisión Nacional de Energía (CNE), las Distribuidoras (EDEs), la Superintendencia de Electricidad (SIE), la Empresa de Transmisión Eléctrica Dominicana (ETED), Organismo Coordinador (OC) y el Ministerio de Economía, Planificación y Desarrollo (MEPyD). Fueron publicadas por el grupo de investigación en Resiliencia Energética y Microrredes de la PUCMM al concluir el proyecto de investigación [_ **Análisis de Resiliencia para el Desarrollo de Arquitectura de Microrredes frente a Eventos Climáticos en los Sistemas Eléctricos de República Dominicana** _](https://microgrid.pucmm.edu.do/wp-content/uploads/2023/10/PEER-FinallReport-MicrogridResearchPUCMM-1.pdf)[11], en el marco del programa _Parternship for Enhanced Engagement in Research (PEER)_ [12], y cuyos resultados fueron publicados a final del 2023 para miembros del sector [13].
+### **CONSIDERACIONES PARA EL SECTOR ENERGÉTICO DOMINICANO**
 
-1. **INCLUIR MARCOS REGULATORIOS DE MICRORREDES EN LAS ACTUALIZACIONES DEL PLAN NACIONAL DE ENERGÍA (2022-2036)**
+
+Estas consideraciones están dirigidas a el sector energético dominicano: Ministerio de Energía y Minas (MEM-RD), Comisión Nacional de Energía (CNE), las Distribuidoras (EDEs), la Superintendencia de Electricidad (SIE), la Empresa de Transmisión Eléctrica Dominicana (ETED), Organismo Coordinador (OC) y el Ministerio de Economía, Planificación y Desarrollo (MEPyD). Fueron publicadas por el grupo de investigación en Resiliencia Energética y Microrredes de la PUCMM al concluir el proyecto de investigación [ **Análisis de Resiliencia para el Desarrollo de Arquitectura de Microrredes frente a Eventos Climáticos en los Sistemas Eléctricos de República Dominicana** ](https://microgrid.pucmm.edu.do/wp-content/uploads/2023/10/PEER-FinallReport-MicrogridResearchPUCMM-1.pdf)[11], en el marco del programa _Parternship for Enhanced Engagement in Research (PEER)_ [12], y cuyos resultados fueron publicados a final del 2023 para miembros del sector [13].
+
+#### 1. **INCLUIR MARCOS REGULATORIOS DE MICRORREDES EN LAS ACTUALIZACIONES DEL PLAN NACIONAL DE ENERGÍA (2022-2036)**
 
 La Comisión Nacional de Energía (CNE) publicó recientemente el **Plan Nacional de Energía (2022-2036).** El objetivo del plan es presentar la condición actual del sector energético dominicano, al tiempo que se perfila su desarrollo futuro, a partir de la visión de políticas energéticas provenientes tanto del sector público como del privado, en pro de un sistema energético óptimo a nivel técnico, y sobre todo económico [14].
 
-Dentro del plan se puede leer cómo funcionarios energéticos de la isla han identificado la necesidad de _ **"establecer esquemas de monitoreo constante de tecnologías emergentes, como el almacenamiento en baterías, que permitan una mayor incorporación de plantas eólicas y solares"** _. De hecho, meses después de su publicación, la CNE hizo público a través de su portal de transparencia un estudio sobre la **Integración de Energías Renovables Variables y Sistemas Energéticos de Almacenamiento de Energía en Baterías (BESS)** [15], y resoluciones [16] que declaran estas como una necesidad inmediata con el fin de anticipar la penetración masiva de recursos energéticos variables, y con el objetivo de mantener el adecuado funcionamiento del Sistema Eléctrico Nacional Interconectado (SENI).
+Dentro del plan se puede leer cómo funcionarios energéticos de la isla han identificado la necesidad de _**"establecer esquemas de monitoreo constante de tecnologías emergentes, como el almacenamiento en baterías, que permitan una mayor incorporación de plantas eólicas y solares"**_. De hecho, meses después de su publicación, la CNE hizo público a través de su portal de transparencia un estudio sobre la **Integración de Energías Renovables Variables y Sistemas Energéticos de Almacenamiento de Energía en Baterías (BESS)** [15], y resoluciones [16] que declaran estas como una necesidad inmediata con el fin de anticipar la penetración masiva de recursos energéticos variables, y con el objetivo de mantener el adecuado funcionamiento del Sistema Eléctrico Nacional Interconectado (SENI).
 
 **Consideraciones:**
 
@@ -91,29 +104,38 @@ Dentro del plan se puede leer cómo funcionarios energéticos de la isla han ide
 
 - Establecer asociaciones entre el gobierno y las instituciones de investigación para iniciativas conjuntas de I+D sobre resiliencia energética. Esto aprovechará las fortalezas de cada sector y acelerará la innovación.
 
-![](RackMultipart20240125-1-lc4y48_html_7722b51743de5af.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 7 - regulación sobre microrredes en puerto rico.png">
+</div>
 
-**Figura7**  – Regulación sobre Desarrollo de Microrredes en Puerto Rico **Fuente:** Comisión de Energía de Puerto Rico[17]
+**Figura 7** Regulación sobre Desarrollo de Microrredes en Puerto Rico **Fuente:** Comisión de Energía de Puerto Rico[17]
 
-1. **REALIZAR ESTUDIOS SOBRE LA INTEGRACIÓN DE SISTEMAS DE ALMACENAMIENTO DE ENERGÍA CON BATERÍAS ACOPLADAS EN CA (BESS) PARA PROPORCIONAR SERVICIOS AUXILIARES A LA RED**
+#### 2. **REALIZAR ESTUDIOS SOBRE LA INTEGRACIÓN DE SISTEMAS DE ALMACENAMIENTO DE ENERGÍA CON BATERÍAS ACOPLADAS EN CA (BESS) PARA PROPORCIONAR SERVICIOS AUXILIARES A LA RED**
 
-Para obtener el máximo beneficio del almacenamiento de energía a gran escala, es necesario contar con BESS que pueda proporcionar servicios auxiliares a la red. El estudio de la integración de BESS en diferentes puntos del SENI arrojaría luz sobre la importancia y oportunidad que el uso de estos sistemas puede fomentar para mejorar la resiliencia de la red, evitar la famosa _ **curva del pato** _ y ayudar a allanar el camino hacia una mayor integración de energías renovables _**(Ver Figura 8).**_
+Para obtener el máximo beneficio del almacenamiento de energía a gran escala, es necesario contar con BESS que pueda proporcionar servicios auxiliares a la red. El estudio de la integración de BESS en diferentes puntos del SENI arrojaría luz sobre la importancia y oportunidad que el uso de estos sistemas puede fomentar para mejorar la resiliencia de la red, evitar la famosa _**curva del pato**_ y ayudar a allanar el camino hacia una mayor integración de energías renovables _**(Ver Figura 8).**_
 
-![](RackMultipart20240125-1-lc4y48_html_b91e509170fe192d.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 8 - curva de pato en el sistema elÉctrico nacional interonectado (SENI).png">
+</div>
 
-**Figura 8**  – Detalles sobre la regulación en Microrredes en Puerto Rico **Fuente:** Evolución Energías Renovables en la República Dominicana - Almacenamiento como soluciones para altas cuotas Renovables (Bello, 2023) [18]
+**Figura 8**  – Curva de Pato en el SENI  **Fuente:** Evolución Energías Renovables en la República Dominicana - Almacenamiento como soluciones para altas cuotas Renovables (Bello, 2023) [18]
 
 Según pronósticos de la firma de investigación de mercado BloombergNEF (BNEF), se prevé que las instalaciones de almacenamiento de energía en todo el mundo alcancen los **411 gigavatios acumulados** (o 1.194 gigavatios-hora) para finales de 2030. Eso es 15 veces los **27 GW/56 GWh** de almacenamiento que se tenían en línea a finales de 2021 _**(Ver Figura 9)**_[19]
 
-![](RackMultipart20240125-1-lc4y48_html_8102940d9074179f.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 9 - Acumulado de Sistemas de Almacenamiento de Energía de Baterías 2015-2030.png">
+</div>
 
 **Figura 9**  – Acumulado de BESS 2015-2030 **Fuente** : Bloomberg NEF (2022)
 
 Debido a las muy diferentes dinámicas, características de rendimiento y tiempos de esos servicios, la evolución del mercado está impulsada por una amplia gama de distintas tecnologías de almacenamiento. Algunos servicios requerirán alta potencia durante períodos cortos (regulación de frecuencia), mientras que otros requerirán energía durante períodos más largos (reforzamiento de capacidad). Estas caracterosticas implican diferentes ciclos de carga/descarga. En algunos casos, los ciclos uniformes serán el estándar (arbitraje de potencia), mientras que en otros patrones variables podrían ser la norma (soporte de voltaje). Por lo tanto, es probable que florezca un grupo diverso de tecnologías de almacenamiento _**(Ver Figura 10)**_ [20].
 
-![](RackMultipart20240125-1-lc4y48_html_d21a0bf4334cb2a6.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 10 - distintas tecnologías de Almacenamiento de Energía.png">
+</div>
 
-**Figura 10–**  Comparación de potencia nominal, contenido de energía y tiempo de descarga de diferentes tecnologías de almacenamiento de energía. **Fuente** : International Electrotechnical Commission (IEC, 2011)
+
+**Figura 10–**  Comparación de potencia nominal, contenido de energía y tiempo de descarga de diferentes tecnologías de almacenamiento de energía. **Fuente**: International Electrotechnical Commission (IEC, 2011)
 
 **Consideraciones**
 
@@ -130,30 +152,34 @@ Debido a las muy diferentes dinámicas, características de rendimiento y tiempo
 
 - Políticas Regulatorias Claras: Definir estructuras regulatorias y tarifarias claras para la prestación de servicios auxiliares. Esto incentivará a los inversores y a las partes interesadas.
 
-1. **INVERTIR EN DIGITALIZACIÓN Y LA APLICACIÓN DE ALGORITMOS DE APRENDIZAJE AUTOMÁTICO (ML) PARA EL ANÁLISIS MASIVO DE DATOS DEL BALANCE ENERGÉTICO A PARTIR DE MEDIDORES DE ÁREA (TOTALIZADORES) PARA REDUCIR LAS PÉRDIDAS DE ENERGÍA**
+#### 3. **INVERTIR EN DIGITALIZACIÓN Y LA APLICACIÓN DE ALGORITMOS DE APRENDIZAJE AUTOMÁTICO (ML) PARA EL ANÁLISIS MASIVO DE DATOS DEL BALANCE ENERGÉTICO A PARTIR DE MEDIDORES DE ÁREA (TOTALIZADORES) PARA REDUCIR LAS PÉRDIDAS DE ENERGÍA**
 
 A pesar de las inversiones realizadas para mejorar el desempeño del sector eléctrico, los niveles de pérdidas en la República Dominicana se han mantenido por encima de los estándares de referencia internacionales durante varias décadas [21]. Según datos de la Superintendencia de Electricidad (SIE), las pérdidas de electricidad en el sector de distribución (alrededor del 39,2% en 2023) _**(ver Figura 11)**_ son, en promedio, mayores que en el grupo de países de bajos ingresos y comparables a los niveles presentados en Estados Unidos. de América en 1929.
 
-![](RackMultipart20240125-1-lc4y48_html_497a8145700d08e7.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 11 - Pérdidas totales de energía del sector distribución en RD (2022).png">
+</div>
 
 **Figura 11** - Pérdidas totales de energía del sector distribución en RD (2022). Fuente: Elaborada con datos del informe de desempeño del sector (marzo 2023), Ministerio de Energía y Minas (MEM-RD)
 
-Como referencia, las pérdidas de electricidad en los países de altos ingresos de la Organización para la Cooperación y el Desarrollo Económico (OCDE) han fluctuado en promedio entre el 6% y el 8% y son principalmente de carácter técnico, resultado del transporte de energía en sistemas relativamente eficientes [22].
+Como referencia, las pérdidas de electricidad en los países de altos ingresos de la Organización para la Cooperación y el Desarrollo Económico (OCDE) han fluctuado en promedio entre el **6% y el 8%** y son principalmente de carácter técnico, resultado del transporte de energía en sistemas relativamente eficientes [22].
 
-![](RackMultipart20240125-1-lc4y48_html_e01c785919be4138.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 12 - Mapa de pérdidas de energía por provincia y distribuidora en república dominicana (2023).png">
+</div>
 
-**Figura 12 – ** Mapa de pérdidas de energía por provincia y distribuidora.  **Fuente: ** Plan Integral de Reducción de Pérdidas 2022-2026
+**Figura 12** Mapa de pérdidas de energía por provincia y distribuidora.  **Fuente:** Plan Integral de Reducción de Pérdidas 2022-2026
 
 Los datos históricos revelan que la mayoría de las pérdidas de electricidad se originan en circuitos informales, en los cuales históricamente no se ha llevado a cabo la identificación de los clientes, instalación de medidores y la normalización del consumo no autorizado. Menos de una cuarta parte del total de las pérdidas surge de circuitos rehabilitados que cuentan con un servicio de electricidad ininterrumpido durante las 24 horas. Este hallazgo indica la existencia de dos elementos específicos en el problema de las pérdidas de electricidad: (1) el fraude relativamente sofisticado y la corrupción en las áreas acomodadas (circuitos A y B), en donde se observa una calidad de servicio adecuada; y (2) el fraude oportunista y la falta de pago en las zonas más desfavorecidas que cuentan con redes informales (circuitos C y D), donde la calidad del servicio eléctrico es deficiente [23].
 
-Consideraciones:
+**Consideraciones:**
 
 - **Invertir en tecnología y ciencia de datos:** gestionar la pérdida de energía a través de ciencia de datos provenientes de un sistema de balance energético que utiliza micromediciones y telemetría para administrar, analizar, gestionar y monitorear el control de pérdida de energía en las unidades de gestión básicas de las distribuidoras, como los transformadores, en un Red de Área Amplia (WAN por sus siglas en inglés) integrada. Esto puede ser optimizado a través de herramientas basadas en las metodologías de _machine learning_ para facilitar la detección de robo eléctrico, como se ha demostrado en otros países de Latinoamérica. [24].
 
 
 - **Trabajar en la Asociación (cliente – transformador – circuito) en Sistemas de Información Geográfica (SIG):** La falta de mantenimiento de la asociación de circuitos de campo de suministros (clientes), afecta actualmente todos los datos de las herramientas de inteligencia adquiridas para el seguimiento y control de pérdidas.
 
-1. **INCORPORAR SOFTWARE DE MODELADO Y SIMULACIÓN EN LA PLANIFICACIÓN DE LA DISTRIBUCIÓN**
+#### 4. **INCORPORAR SOFTWARE DE MODELADO Y SIMULACIÓN EN LA PLANIFICACIÓN DE LA DISTRIBUCIÓN**
 
 Abordar el déficit de digitalización, particularmente en el uso de software de modelado y simulación para la planificación de la distribución, es crucial para las empresas distribuidoras de energía en la era de los datos. Para ponerse al día con la curva de digitalización, las empresas distribuidoras en la República Dominicana deben adoptar una estrategia integral sobre herramientas de software modernas, actualizaciones de infraestructura y desarrollo continuo de habilidades.
 
@@ -165,13 +191,15 @@ Para evaluar y estudiar el impacto de la Generación Distribuida (GD), y el dise
 - **Integrar Simulaciones de Hardware-in-the-loop (HIL) para estudios de red**. La integración de simulaciones de Hardware-in-the-Loop (PHIL) puede ser crucial para las empresas de distribución de energía, especialmente cuando buscan modernizar e incorporar nuevas tecnologías y sistemas. Las simulaciones HIL permiten probar y validar hardware en un entorno de simulación en tiempo real, lo que garantiza que los nuevos dispositivos y sistemas se integren de manera efectiva en la infraestructura existente [26].
 - Hay que asegurar de que el software elegido sea escalable y pueda adaptarse a la creciente complejidad de la red con una mayor penetración de energías renovables.
 
-EDENORTE (y otras EDES) puede aprovechar el conocimiento existente derivado de la colaboración cercana en el _ **Modelado y Simulación de Redes de Distribución con Alta Penetración Renovable en Software Abierto: QGIS y OpenDSS** _ [27], y de proyectos que ya han utilizado estos datos como el _ **Estudio de Impacto de Movilidad Eléctrica en las Redes de Distribución de República Dominicana** _ [28] realizado por el Laboratorio de Investigación (EPER) de la Universidad de Costa Rica en el marco de la Cooperación Triangular entre Costa Rica, Alemania y República Dominicana en el Proyecto de Transición Energética [29]. Para darle continuidad a estos estudios se debe invertir en capacitación y desarrollo del personal del Departamento de Estudios de Redes. El Instituto de Investigación de Energía Eléctrica (EPRI), quien mantiene OpenDSS, tiene horas de desarrollo profesional que pueden ser una gran inversión a largo plazo para desarrollar estas habilidades [30]
+EDENORTE (y otras EDES) puede aprovechar el conocimiento existente derivado de la colaboración cercana en el **[Modelado y Simulación de Redes de Distribución con Alta Penetración Renovable en Software Abierto: QGIS y OpenDSS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4523911)** [27], y de proyectos que ya han utilizado estos datos como el _**Estudio de Impacto de Movilidad Eléctrica en las Redes de Distribución de República Dominicana**_ [28] realizado por el Laboratorio de Investigación (EPER) de la Universidad de Costa Rica en el marco de la Cooperación Triangular entre Costa Rica, Alemania y República Dominicana en el Proyecto de Transición Energética [29]. Para darle continuidad a estos estudios se debe invertir en capacitación y desarrollo del personal del Departamento de Estudios de Redes. El Instituto de Investigación de Energía Eléctrica (EPRI), quien mantiene OpenDSS, tiene horas de desarrollo profesional que pueden ser una gran inversión a largo plazo para desarrollar estas habilidades [30]
 
-![](RackMultipart20240125-1-lc4y48_html_c45b7846f6924fc1.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 13 - modelado y simulación de redes de distribución en software de código abierto - Santiago, R.D.png">
+</div>
 
-**Figura 13 –**  Proceso de extracción y traducción de datos de la red de distribución de EDENORTE (VOLG101) para el plugin QGIS2OpenDSS. Fuente: Grupo de Investigación en Resiliencia Energética y Microrredes (PUCMM))[27]
+**Figura 13**  Proceso de extracción y traducción de datos de la red de distribución de EDENORTE (VOLG101) para el plugin QGIS2OpenDSS. **Fuente:** Grupo de Investigación en Resiliencia Energética y Microrredes (PUCMM))[27]
 
-1. **GEOREFERENCIACIÓN E INTEGRACIÓN DE SISTEMAS GEOGRAFICOS DE INFORMACIÓN (SIG) PARA MEJORAR EFICIENCIA EN OPERACIONES**
+#### 5. **GEOREFERENCIACIÓN E INTEGRACIÓN DE SISTEMAS GEOGRAFICOS DE INFORMACIÓN (SIG) PARA MEJORAR EFICIENCIA EN OPERACIONES**
 
 La topología de la red de EDENORTE (incluidas subestaciones, líneas de transmisión, transformadores y otros activos) se mantiene bien mediante SIG. Sin embargo, los mapas base subyacentes no están georreferenciados, lo que dificulta la capacidad de integrar estos datos en otros servicios.
 
@@ -197,11 +225,13 @@ Actualmente existe una Prueba de Concepto (POC) de un SIG para el manejo de vege
 
 - La infraestructura que no se ajusta a los estándares establecidos puede plantear riesgos de confiabilidad y seguridad. Es posible que no funcione de manera óptima bajo estrés y, en algunos casos, podría ser más susceptible a sufrir daños o fallas.
 
-![](RackMultipart20240125-1-lc4y48_html_ab9f02df359dc54d.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 14 - Gis para manejo de vegetación e IDENTIFICACIÓN DE infraestructura fuera de norma.png">
+</div>
 
 **Figura 14 –**  GIS para manejo de vegetación e identificación de infraestructura fuera de norma. **Fuente** : Grupo de Investigación en Resiliencia Energética y Microrredes (PUCMM)
 
-1. **OPERACIÓN EN ISLA DEL SISTEMA ELECTRICO NACINOAL INTERNCONECTADO (SENI)**
+#### 6. **OPERACIÓN EN ISLA DEL SISTEMA ELECTRICO NACINOAL INTERNCONECTADO (SENI)**
 
 En 2020, el OC publicó un informe de Operación Isla del SENI, para la Superintendencia de Electricidad y los Agentes del Ministerio de Energías y Minas (MEM-RD), con el objetivo de analizar el funcionamiento aislado de cada una de las áreas del SENI, en función de la potencial ocurrencia de un fenómeno atmosférico, y con el objetivo de evaluar, por ejemplo, escenarios de restauración parcial del sistema/inicio en negro [31]_**(Ver Figura 15).**_
 
@@ -210,36 +240,44 @@ En 2020, el OC publicó un informe de Operación Isla del SENI, para la Superint
 - La demanda de la zona Sur, Este y Norte se satisface en su totalidad mediante la generación instalada en dicha zona. Bajo los escenarios simulados, en estado estacionario, de forma aislada, sin contingencias, la operación isla es segura.
 - Una de las principales recomendaciones del estudio es evitar el despacho de unidades de generación renovable (tecnologías solares o eólicas), debido al limitado control sobre el despacho de este tipo de tecnologías.
 
-![](RackMultipart20240125-1-lc4y48_html_8611c61ff2d14c43.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 15 - interconexión diferentes areas del sistema eléctrico nacional interconectado (seni).png">
+</div>
 
-**Figura 15–**  Interconexión de Diferentes Áreas del Sistemas Eléctrico Nacional Interconectado (SENI) **Fuente:** Organismo Coordinador (2020)
+**Figura 15**  Interconexión de Diferentes Áreas del Sistemas Eléctrico Nacional Interconectado (SENI) **Fuente:** Organismo Coordinador (2020)
 
 **Consideraciones:**
 
 - Repetir el estudio considerando el escenario hipotético de tener BESS con sistemas acoplados a CA, que permitan servicios auxiliares de dichos sistemas.
 - Repetir el estudio considerando el escenario hipotético de tener BESS autónomos en subestaciones críticas, aquellas que unen dos o más líneas de transmisión, a través de interruptores de potencia que conectan o desconectan las redes en condiciones de falla o mantenimiento, por ejemplo:
 
-![](RackMultipart20240125-1-lc4y48_html_93f7ed248e714cd5.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Tabla 1 - Subestaciones Criticas Republica Dominicana.png">
+</div>
 
 **Tabla 1 –** Subestaciones Críticas en el SENI **– Fuente:** Plan Nacional de Desarrollo de Infraestructura Energéticas Críticas (VSEI, 2021) [32]
 
 Los escenarios podrían aprovechar el estudio existente realizado por la CNE, donde subestaciones de la Empresa Dominicana de Transmisión Eléctrica (ETED) con una capacidad de **300 MW/1200MWh** , se agregaron al SENI de manera escalonada, con capacidades **de 50, 100 y 150** en los años **2023, 2024 y 2025** y con una duración de cuatro (4) horas [15].
 
-1. **EVOLUCIÓN DEL SISTEMA DE TRANSMISIÓN ELECTRICA DOMINICANO**
+#### 7. **EVOLUCIÓN DEL SISTEMA DE TRANSMISIÓN ELECTRICA DOMINICANO**
 
 El sistema de transmisión está caracterizado por cuatro áreas eléctricas interconectadas entre sí por medio de enlaces a 69 kV 138 kV, 345 kV y 230 kV y operadas por el Centro de Control de Energía. La topología de red actual es débilmente mallada, con la existencia de anillos dentro de las áreas. Los anillos a 138 kV son operados de forma mallada, mientras que algunas de las configuraciones malladas en la red 69 kV son operadas de forma radial _**(Ver Figura 16**_**)**[33].
 
-![](RackMultipart20240125-1-lc4y48_html_1fb215fac9d30178.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 16 - Zonas Eléctricas e interconexiones del sistema eléctrico nacional internconectado (SENI).png">
+</div>
 
-**Figura 16 –**  Zonas Eléctricas e Interconexiones **Fuente:** Plan de Expansión: Sistema de Transmisión Eléctrica (2021-2035)
+**Figura 16**  Zonas Eléctricas e Interconexiones **Fuente:** Plan de Expansión: Sistema de Transmisión Eléctrica (2021-2035)
 
 La red de 138 kV conecta, a través de las subestaciones: Palamara – Bonao II – Canabacoa y Julio Sauri-Piedra Blanca, Julio Sauri-El Naranjo, los dos principales centros de consumo de Santo Domingo y Santiago.
 
 La demanda del SENI se concentra en el gran Santo Domingo (Santo Domingo Este, Norte y Oeste) y el Distrito Nacional con un 47%. La Zona Norte acumula el 33% de la demanda (Santiago, La Vega y Puerto Plata), distribuyéndose el 20% restante en las regiones Este y Sur _**(Ver Figura 17).**_
 
-![](RackMultipart20240125-1-lc4y48_html_bd6fa4eb07d87c4e.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 17 - Demanda Regional de Energía en República Dominicana.png">
+</div>
 
-**Figura 17 –**  Demanda Regional de Energía en República Dominicana. **Fuente** : La Seguridad Energética, una Estrategia para el Desarrollo Sostenido del SENI (2021)
+**Figura 17**  Demanda Regional de Energía en República Dominicana. **Fuente**: La Seguridad Energética, una Estrategia para el Desarrollo Sostenido del SENI (2021)
 
 Tomando en consideración las proyecciones de demanda y generación, el auge de las energías renovables no convencionales, las necesidades de construcción de nuevas subestaciones de distribución, compensaciones reactivas y obras de transmisión, la ETED publicó el Plan de Expansión del Sistema de Transmisión Eléctrica 2021-2035 _**(Ver Figura 18),**_ de este plan se derivan varios proyectos de inversión, entre los que destaca:
 
@@ -248,9 +286,12 @@ Tomando en consideración las proyecciones de demanda y generación, el auge de 
 - Compensación de potencia reactiva
 - Nuevas líneas de entrega desde las subestaciones principales, hacia Santo Domingo y Santiago.
 
-![](RackMultipart20240125-1-lc4y48_html_46c230e75112b61c.png)
+<div align="center">
+    <img src="/blog/mg-series/05-MG/Figura 18 - Expansión Sistema Transmisión Nacional 345 kV 2021 – 2035 -2050.png">
+</div>
 
-**Figura 18 –**  Expansión del Sistema de Transmisión 345KV - 2035-2050. **Fuente** : Plan de Expansión: Sistema de Transmisión Eléctrica (2021-2035)
+
+**Figura 18**  Expansión del Sistema de Transmisión 345KV - 2035-2050. **Fuente**: Plan de Expansión: Sistema de Transmisión Eléctrica (2021-2035)
 
 Según el Plan de Ampliación de Transmisión (2021-2035), el presupuesto que necesita la ETED para ejecutar su ampliación en el corto y mediano plazo para mejorar la capacidad de transmisión de energía, independientemente de la fuente de origen, suma una inversión de alrededor de 800 MM USD hasta 2030.
 
@@ -263,9 +304,13 @@ La ETED no emitió objeciones entre 2020-2022 para la interconexión de **5.150 
 
 **Un mensaje final**
 
-Aquí me gustaría citar a Nassim Nicholas Taleb, autor de El Cisne Negro: _"Esta idea de que para tomar una decisión es necesario centrarse en las_ _ **consecuencias** _ _(que puedes conocer) en lugar de en la_ _ **probabilidad** _ _(que no puedes conocer) es la idea central de incertidumbre"._ La República Dominicana está en el constante **ojo de la tormenta** , ¿_deberíamos comenzar a pensar más en la probabilidad que en las evidentes consecuencias_?
+Aquí me gustaría citar a Nassim Nicholas Taleb, autor de El Cisne Negro: 
 
-Un poderoso huracán o terremoto es la forma de bancarrota de la naturaleza; cuando los vientos o temblores fuertes llegan, _ **todos pagamos la deuda.** _
+>"Esta idea de que para tomar una decisión es necesario centrarse en las **consecuencias** _(que puedes conocer)_ en lugar de en la  **probabilidad** _(que no puedes conocer)_ es la idea central de incertidumbre".
+
+La República Dominicana está en el constante **ojo de la tormenta**, _¿deberíamos comenzar a pensar más en la probabilidad que en las evidentes consecuencias?_ Un poderoso huracán o terremoto es la forma de bancarrota de la naturaleza; cuando los vientos o temblores fuertes llegan, _**todos pagamos la deuda**._
+
+---
 
 El autor es investigador en Resiliencia Enérgetica y Microrredes Eléctricas (PUCMM) y Especialista en Energía (Energía Journal).
 
@@ -274,6 +319,8 @@ El autor es investigador en Resiliencia Enérgetica y Microrredes Eléctricas (P
 - **Energía Journal**  | energiajournalrd@gmail.com |  **Instagram:**  @energiajournal
 
 **RECURSOS**
+
+
 
 [1] R. E. De Jesús-Grullón, "Hacia el futuro: La Red Eléctrica del Siglo XXI," May 03, 2022. Accessed: Jan. 11, 2024. [Online]. Available: https://hoy.com.do/hacia-el-futuro-la-red-electrica-del-siglo-xxi/
 
