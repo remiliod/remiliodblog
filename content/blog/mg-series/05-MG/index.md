@@ -6,7 +6,7 @@ subtitle: ""
 title: Reimaginando y Fortaleciendo la Infraestructura Energética de República Dominicana -  Microrredes Frente a Eventos Catastróficos (2/2) 
 weight: 3
 ---
-### **PRINCIPIOS DE LA RED DEL SIGLO XXI**
+## **PRINCIPIOS DE LA RED DEL SIGLO XXI**
 
 La electricidad se ha entrelazado y arraigado tanto en cada actividad y proceso económico que se ha vuelto esencial en nuestra sociedad. Actúa como la infraestructura subyacente para una amplia gama de productos y servicios que constituyen la base de la vida cotidiana y el principal motor de nuestra productividad económica. Somos efectivamente _**criaturas de esta red**_, y el sol, alguna vez dios que gobernaba nuestras rutinas, ahora observa desde arriba cómo la humanidad doma la noche _**(ver figura 1)**_ [1].
 

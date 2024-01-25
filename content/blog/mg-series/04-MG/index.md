@@ -7,7 +7,7 @@ title: Reimaginando y Fortaleciendo la Infraestructura Energética de República
 weight: 3
 ---
 
-## Vulnerabilidad Climática de la República Dominicana
+## **Vulnerabilidad Climática de la República Dominicana**
 
 **Por** Ramón Emilio De Jesús-Grullón
 
@@ -21,7 +21,7 @@ La República Dominicana es uno de los países más vulnerables del mundo al cam
 
 **Figura 1** – Mapa Mundial del Índice de Riesgo Climático Global 2000 – 2019  **Fuente** : Germanwatch and Munich Re NatCatSERVICE [1]
 
-## El problema en perspectiva
+## **El problema en perspectiva**
 
 El análisis de los _Puntos Críticos de Vulnerabilidad al Cambio climático en República Dominicana_ [2] muestra que **13 provincias (alrededor del 40% del país)** presentan niveles de vulnerabilidad de alta a muy alta (ver Figura 2) ante eventos climáticos. Los elementos que hacen una región más vulnerable que otra son tanto factores climáticos, como factores ligados a la resiliencia y capacidad adaptativa de la población que reside en estos territorios. La ubicación geográfica del país, junto con factores históricos sociales, demográficos y económicos, y el hecho de que la república comparte la isla con el país más pobre del hemisferio occidental, exacerban las condiciones de riesgo. 
 
@@ -58,7 +58,7 @@ Un ejemplo reciente de esta nueva realidad sucedió el sábado 18 de noviembre d
 
 **Figura 5** –  Acumulado de lluvias en los cuatro días correspondientes del jueves 16 de noviembre al domingo 19 de noviembre del 2023. **Fuente** :Oficina Nacional de Meteorología (ONAMET)	
 
-## Vulnerabilidad de las Redes Eléctricas y Riesgos Catastróficos para la Seguridad Energética 
+## **Vulnerabilidad de las Redes Eléctricas y Riesgos Catastróficos para la Seguridad Energética** 
 
 No debe sorprendernos que el cambio climático tenga un impacto significativo en el sector eléctrico. El aumento de las temperaturas, cambios en los patrones de precipitación y el aumento del nivel del mar afectan la producción, la oferta y la demanda de energía. Desafortunadamente, las redes eléctricas en la República Dominicana, como en la mayor parte del mundo, fueron diseñadas y planificadas para funcionar de forma **centralizada**, caracterizadas por un flujo unidireccional de la electricidad, así como de su valor económico, desde los generadores hasta los clientes finales, desarrolladas en una era dominada por las economías de escala y el auge de los combustibles fósiles [7].
 
