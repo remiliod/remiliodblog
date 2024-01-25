@@ -56,8 +56,6 @@ Al explorar el impacto de los desastres naturales en República Dominicana en la
     <img src="/blog/mg-series/05-MG/Figura 5 - Impacto económico de los Desastres Naturales como % del PIB en República Dominicana.png">
 </div>
 
-
-
 **Figura 5** _Impacto económico de los Desastres Naturales como % del PIB en República Dominicana_ **Fuente**: Ministerio de Economía, Planificación y Desarrollo (MEPyD, 2023)
 
 El fortalecimiento de la seguridad y resiliencia de la infraestructura crítica a nivel nacional depende de la capacidad los actores del sistema político, de los planificadores y de los operadores, tanto públicos como privados, para tomar decisiones informadas y encontrar soluciones frente a la evolución de estos riesgos y amenazas. Si bien _**no hay solución dominicana al problema haitiano**_, no es posible estar ajenos a su realidad, y a las lecciones que se pueden internalizar al explorar la catástrofe humanitaria resultante de los embates de la madre naturaleza.
