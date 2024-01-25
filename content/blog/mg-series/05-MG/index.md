@@ -48,12 +48,12 @@ Este desafío se ve agravado aún más al considerar el riesgo inherente de aisl
     <img src="/blog/mg-series/05-MG/Figura 4 - comparación socioeconómica de Republica dominicana y haiti.png">
 </div>
 
-**Figura 4** _Comparación socioeconómica de República Dominica y Haití_ **Fuente**: Elaboración propia con datos de la Oficina Nacional de Estadística (ONE)
+**Figura 4-** _Comparación socioeconómica de República Dominica y Haití_ **Fuente**: Elaboración propia 
 
 Al explorar el impacto de los desastres naturales en República Dominicana en las últimas décadas, se evidencian las importantes pérdidas económicas que suponen fenómenos como el huracán David y Federico en 1979, donde las pérdidas alcanzaron el **16% del Producto Interno Bruto (PIB),** y el huracán Georges en 1998, con un impacto del 14% del PIB [7] _**(Ver Figura 5)**_. No obstante, estas cifras son minúsculas comparadas con los **14 billones de dólares** que le ha costado a la economía haitiana los desastres naturales solo desde el año 2010. Dos realidades distintas, casi en la misma latitud y longitud.
 
 <div align="center">
-    <img src="/blog/mg-series/05-MG/Figura 5 - Impacto económico de los Desastres Naturales como % del PIB en República Dominicana.png">
+    <img src="/blog/mg-series/05-MG/Figura 5 - Impacto económico de los Desastres Naturales como del PIB en República Dominicana.png">
 </div>
 
 **Figura 5** _Impacto económico de los Desastres Naturales como % del PIB en República Dominicana_ **Fuente**: Ministerio de Economía, Planificación y Desarrollo (MEPyD, 2023)
