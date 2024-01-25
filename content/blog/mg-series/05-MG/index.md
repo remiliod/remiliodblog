@@ -239,7 +239,7 @@ En 2020, el OC publicó un informe de Operación Isla del SENI, para la Superint
     <img src="/blog/mg-series/05-MG/Figura 15 - interconexión diferentes areas del sistema eléctrico nacional interconectado (seni).png">
 </div>
 
-**Figura 15 - **  Interconexión de Diferentes Áreas del Sistemas Eléctrico Nacional Interconectado (SENI) **Fuente:** Organismo Coordinador (2020)
+**Figura 15 -**  Interconexión de Diferentes Áreas del Sistemas Eléctrico Nacional Interconectado (SENI) **Fuente:** Organismo Coordinador (2020)
 
 **Consideraciones:**
 
@@ -250,7 +250,7 @@ En 2020, el OC publicó un informe de Operación Isla del SENI, para la Superint
     <img src="/blog/mg-series/05-MG/Tabla 1 - Subestaciones Criticas Republica Dominicana.png">
 </div>
 
-**Tabla 1 – ** Subestaciones Críticas en el SENI **– Fuente:** Plan Nacional de Desarrollo de Infraestructura Energéticas Críticas (VSEI, 2021) [32]
+**Tabla 1 –** Subestaciones Críticas en el SENI **– Fuente:** Plan Nacional de Desarrollo de Infraestructura Energéticas Críticas (VSEI, 2021) [32]
 
 Los escenarios podrían aprovechar el estudio existente realizado por la CNE, donde subestaciones de la Empresa Dominicana de Transmisión Eléctrica (ETED) con una capacidad de **300 MW/1200MWh** , se agregaron al SENI de manera escalonada, con capacidades **de 50, 100 y 150** en los años **2023, 2024 y 2025** y con una duración de cuatro (4) horas [15].
 
