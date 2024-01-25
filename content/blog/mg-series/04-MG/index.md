@@ -15,8 +15,9 @@ Una red eléctrica confiable es la columna vertebral de la sociedad actual. Ning
 
 La República Dominicana es uno de los países más vulnerables del mundo al cambio climático. Según el Índice de Riesgo Climático Global 2021 [1], que cuantifica en qué medida los países se han visto afectados por los impactos de eventos climáticos en sus economías (tormentas, inundaciones, olas de calor, etc.), República Dominicana ocupa el puesto 50. No obstante, nuestros vecinos más cercanos, Puerto Rico (1) y Haití (3) (Ver Figura 1), han sido identificados dentro de los 10 países más afectados del mundo en los últimos 20 años, colocando a la isla y a la región como una de las más vulnerables. En este contexto, es más que evidente que la magnitud del reto al que se enfrentan los dominicanos recae sobre la **visión** de los administradores, formuladores de políticas y reguladores de la infraestructura de nuestra nación. En sus hombros está la responsabilidad de explorar las **herramientas e innovaciones tecnológicas** que permitirán no sólo aumentar nuestra capacidad de planificar, tomar decisiones y aumentar el nivel de resiliencia de nuestra infraestructura ante este tipo de eventos, pero también de construir el conocimiento técnico para integrar las tecnologías que harán esto posible. 
 
-
-![Figura 1 – Mapa Mundial del Índice de Riesgo Climático Global 2000 – 2019 Fuente: Germanwatch and Munich Re NatCatSERVICE [1]](/blog/mg-series/04-MG/1-Figura1.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 1 – Mapa Mundial del Índice de Riesgo Climático Global.png">
+</div>
 
 **Figura 1** – Mapa Mundial del Índice de Riesgo Climático Global 2000 – 2019  **Fuente** : Germanwatch and Munich Re NatCatSERVICE [1]
 
@@ -24,28 +25,36 @@ La República Dominicana es uno de los países más vulnerables del mundo al cam
 
 El análisis de los _Puntos Críticos de Vulnerabilidad al Cambio climático en República Dominicana_ [2] muestra que **13 provincias (alrededor del 40% del país)** presentan niveles de vulnerabilidad de alta a muy alta (ver Figura 2) ante eventos climáticos. Los elementos que hacen una región más vulnerable que otra son tanto factores climáticos, como factores ligados a la resiliencia y capacidad adaptativa de la población que reside en estos territorios. La ubicación geográfica del país, junto con factores históricos sociales, demográficos y económicos, y el hecho de que la república comparte la isla con el país más pobre del hemisferio occidental, exacerban las condiciones de riesgo. 
 
-
-![Figura 2 – Mapa de Vulnerabilidad Climática Provincial Fuente: Puntos Críticos de Vulnerabilidad al Cambio climático en República Dominicana (2013) [3]](/blog/mg-series/04-MG/2-Figura2.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 2 - Mapa de Vulnerabilidad Climática Provincial - Sector energía.png">
+</div>
 
 **Figura 2** –  Mapa de Vulnerabilidad Climática Provincial  **Fuente** : Puntos Críticos de Vulnerabilidad al Cambio climático en República Dominicana (2013) [3]
 
 La isla Hispaniola también presenta una alta amenaza sísmica, especialmente por el fragmento de placa integrado por el valle del Cibao, la cordillera Septentrional, la península de Samaná, la costa Atlántica y el talud insular norte (ver Figura 3)[3]. 
 
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 3 - Vulnerabilidad Territorial ante Amenazas de Origen Geodinámicos.png">
+</div>
 
-![Figura 3 – Vulnerabilidad Territorial ante Amenazas de Origen Geodinámicos Fuente: Análisis de riesgos de desastres y vulnerabilidades en la República Dominicana Sistema Nacional de Prevención, Mitigación y Respuesta a Desastres (2009) [3]](/blog/mg-series/04-MG/3-Figura3.png)
 
 **Figura 3** –  Vulnerabilidad Territorial ante Amenazas de Origen Geodinámicos   **Fuente** : Análisis de riesgos de desastres y vulnerabilidades en la República Dominicana Sistema Nacional de Prevención, Mitigación y Respuesta a Desastres (2009) [3]
 
 El análisis espacial también evidencia la vulnerabilidad de comunidades y centros urbanos ante inundaciones en las cuencas del rio Yaque del Norte y Yuna (Ver Figura 4). Al cruzar las zonas de alta exposición sísmica con los datos de vulnerabilidad, y asumiendo que las tormentas tropicales se intensificarán, que el nivel del mar aumentará y que los patrones de lluvias variarán continuamente, la provincia de San Cristóbal debe ser considerada como la de mayor peligrosidad ante estos eventos, seguida de Santo Domingo-Distrito Nacional, Espaillat, Santiago, Salcedo, Bahoruco, Peravia, San Juan e Independencia [4]. 
 
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 4 - Areas más susceptibles a inundaciones aluviales (rosa y roja) y marejadas ciclonicas (verde)).png">
+</div>
 
-![Figura 4 – Areas más susceptibles a inundaciones aluviales (rosa y roja) y marejadas ciclonicas (verde)). Fuente: Dominican Republic Climate Change Vulnerability Assessment (2013) [5]](/blog/mg-series/04-MG/4-Figura4.png)
 
 **Figura 4** –  Areas más susceptibles a inundaciones aluviales (rosa y roja) y marejadas ciclonicas (verde)). **Fuente** :Dominican Republic Climate Change Vulnerability Assessment (2013) [5]
 
 Un ejemplo reciente de esta nueva realidad sucedió el sábado 18 de noviembre del 2023, donde se registraron acumulados de lluvia de **431 milímetros de agua en 24 horas** (ver Figura 5). Es el **evento de mayor precipitación pluvial jamás ocurrido en la República Dominicana** [6], superando el anterior registro de 266 mm el 4 de noviembre de 2022, y resultando en un costo humano importante. **No será el último**. 
 
-![Figura 5 – Acumulado de lluvias en los cuatro días correspondientes del jueves 16 de noviembre al domingo 19 de noviembre del 2023. Fuente: Oficina Nacional de Meteorología (ONAMET)](/blog/mg-series/04-MG/5-Figura5.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 5 - Acumulado de lluvias 16-11-2023 al 19-11-2023 en Republica dominicana.png">
+</div>
+
 
 **Figura 5** –  Acumulado de lluvias en los cuatro días correspondientes del jueves 16 de noviembre al domingo 19 de noviembre del 2023. **Fuente** :Oficina Nacional de Meteorología (ONAMET)	
 
@@ -55,19 +64,26 @@ No debe sorprendernos que el cambio climático tenga un impacto significativo en
 
 Debido a estas características intrínsecas, esta arquitectura está cada vez más expuesta a amenazas que evolucionan rápidamente. Los planificadores y operadores de redes han gestionado durante mucho tiempo esta vulnerabilidad inherente mediante la redundancia y el fortalecimiento de la infraestructura energética crítica. No obstante, no pueden evitar por completo los riesgos de interrupciones cuando **aparecen eventos de alto impacto y baja probabilidad** (HILP por sus siglas en inglés) como lo son terremotos, ciberataques y huracanes, etc. La figura 6 ilustra los componentes de la cadena de valor de la energía y, en particular, la **dependencia** del acceso a la electricidad para los usuarios finales, desde el suministro de combustible hasta la generación, transmisión y distribución. Se evidencia como un evento en cualquier eslabón de esta cadena, resulta en un posible fallo en cascada, que ultimadamente repercute en el usuario final. 
 
-![Figura 6 - Cadena de valor de la energía y el riesgo de fallo en cascada. Fuente: Adaptado de Reimagining Grid Resilience, RMI (2020) [8]](/blog/mg-series/04-MG/6-Figura6.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 6 - Cadena de valor de la energía y el riesgo de fallo en cascada.png">
+</div>
+
 
 **Figura 6** –  Cadena de valor de la energía y el riesgo de fallo en cascada.  **Fuente** :Adaptado de Reimagining Grid Resilience, RMI (2020) [8]	
 
 Un ejemplo oportuno es lo que sucedió en Puerto Rico en 2017. El huracán María dejó sin electricidad a **1,35 millones de habitantes** y dañó el **80% de las líneas de transmisión** dejando sin electricidad a la mayor parte de la isla durante 181 días [9]. La falla de la red eléctrica es el impacto inicial que conduce a fallas en cascada, como la pérdida de acceso a los servicios de atención médica, la pérdida de comunicaciones y fallas en el sistema de agua. Aproximadamente el **70% del sistema de tratamiento y distribución de agua potable** resultó dañado durante los huracanes, en parte debido a la falla de la red asociada a ellos [10]. La figura 7 muestra el impacto financiero del huracán María y las velocidades del viento que causaron gran parte de este daño.
 
-![Figura 7 – Impacto financiero (billones de dólares), hogares y población expuestos y ráfagas máximas del huracán María. Fuente: Exploring Urban Resilience Pathways, San Juan, Puerto Rico (2022) [11]](/blog/mg-series/04-MG/7-Figura7.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 7 - Impacto financiero (billones de dólares)  - ráfagas máximas del huracán María en puerto rico.png">
+</div>
 
 **Figura 7** –  Impacto financiero (billones de dólares), hogares y población expuestos y ráfagas máximas del huracán María.  **Fuente** :Exploring Urban Resilience Pathways, San Juan, Puerto Rico (2022) [11]	
 
 Por lo tanto, para realizar inversiones eficientes que mitiguen efectivamente el riesgo y aumenten la resiliencia de la República Dominicana, las decisiones de planificación deben abordar la necesidad de aumentar la resiliencia, pero también las interdependencias del Sistema Energético Nacional Interconectado (SENI) con otras infraestructuras críticas (Ver Figura 8), que proporcionan muchos de los servicios necesarios para el buen funcionamiento de la sociedad y para mantener la calidad de vida de sus habitantes, como son hospitales, plantas de tratamiento de agua, telecomunicaciones y el sector transporte. Una mejor comprensión de las complejas interacciones entre la infraestructura energética crítica ayudará a la República Dominicana a prepararse, responder y recuperarse de futuros desastres [12].
 
-![Figura 8 – Interdependencias de la Infraestructura Crítica Fuente: Adapatado de Phillips, J., M. Finster, J. Pillon, F. Petit, and J. Trail, 2016, State Energy Resilience Framework, Argonne National Laboratory [13]](/blog/mg-series/04-MG/8-Figura8.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 8 - Interdependencias de la Infraestructura Crítica con el Sector Eléctrico.png">
+</div>
 
 **Figura 8** –  Interdependencias de la Infraestructura Crítica  **Fuente** :Adapatado de Phillips, J., M. Finster, J. Pillon, F. Petit, and J. Trail, 2016, State Energy Resilience Framework, Argonne National Laboratory [13]
 
@@ -77,25 +93,34 @@ Los recientes cortes de energía severos causados por eventos climáticos cada v
 
 Tradicionalmente, la industria eléctrica se ha centrado en métodos que buscan restaurar cargas, reparando la infraestructura afectada y una restauración gradual del servicio tras un apagón general. Sin embargo, cuando el sistema de distribución sufre daños graves, los enfoques tradicionales no pueden garantizar que se suministrará energía a las cargas críticas necesarias. Aquí es donde las **microrredes** han surgido como herramienta debido al potencial para recuperarse de manera rápida y efectiva, ofreciendo un enfoque alternativo al dilema de la resiliencia. Una **microrred eléctrica** es un grupo de cargas interconectadas y recursos energéticos distribuidos que pueden funcionar juntos o de forma independiente de la red eléctrica principal (Ver Figura 9). 
 
-![Figura 9 - Tipos de Microrredes. Fuente: Microgrids for Resilient Municipalities, What they are, Why you may want one, & What resources are available. U.S Department of Energy (2021) [15]](/blog/mg-series/04-MG/9-Figura9.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/figura 9 - Tipos de Microrredes.png">
+</div>
 
 **Figura 9** –  Tipos de Microrredes **Fuente** : Microgrids for Resilient Municipalities, What they are, Why you may want one, & What resources are available. U.S Department of Energy (2021) [15]
 
 De esta forma, las microrredes eléctricas tienen la capacidad de funcionar como pequeñas islas de generación y consumo de energía. Esta condición les otorga la capacidad de operar con mayor flexibilidad, funcionalidad y resiliencia frente a eventos naturales extremos relacionados con el cambio climático [16]. Así, las microrredes pueden involucrar instalaciones únicas o múltiples, que atienden a un cliente a través de un medidor, a múltiples instalaciones, controladas por un medidor en un punto de acoplamiento común (PCC) (Ver Figura 9) o clientes múltiples (_full-feeder microgrid_), sirviendo a múltiples instalaciones/clientes en múltiples medidores. 
 
-![Figura 10 - Componentes de una microrred Fuente: Adaptado de D. Shea, Microgrids: State Policies To Bolster Energy Resilience, 2021, Conferencia Nacional de Legislaturas Estatales (NCSL) [17]](/blog/mg-series/04-MG/10-Figura10.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 10 . Componentes de una microrred.png">
+</div>
+
 
 **Figura 10** – Componentes de una microrred **Fuente** :Adaptado de D. Shea, Microgrids: State Policies To Bolster Energy Resilience, 2021, Conferencia Nacional de Legislaturas Estatales (NCSL) [17]
 
 Esta tecnología y concepto puede ser extrapolado a **microrredes interconectadas o miniredes**. Una minirred implica la separación de la infraestructura de transmisión y distribución de la red existente en grupos de cargas críticas atendidas por recursos energéticos distribuidos y diseñadas para operar tanto en **modo conectado a la red como en modo isla** (Ver Figura 11).  Una minired es la realización del concepto de microrredes interconectadas, simplificando la infraestructura de distribución necesaria [18].
 
-![Figura 11 - Una visión de Minirredes frente a Eventos Climáticos Catastróficos en República Dominicana Fuente: Análisis de resiliencia para el desarrollo de arquitectura de microrredes frente a eventos climáticos en los sistemas eléctricos de República Dominicana. Grupo de Investigación en Resiliencia Energética y Microrredes, PUCMM, 2023 [18]](/blog/mg-series/04-MG/11-Figura11.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 11 - Una visión de Minirredes frente a Eventos Climáticos Catastróficos en República Dominicana.png">
+</div>
 
 **Figura 11** – Una visión de Minirredes frente a Eventos Climáticos Catastróficos en República Dominicana **Fuente** :Análisis de resiliencia para el desarrollo de arquitectura de microrredes frente a eventos climáticos en los sistemas eléctricos de República Dominicana. Grupo de Investigación en Resiliencia Energética y Microrredes, PUCMM, 2023 [18]
 
 ### Una Ventana de Oportunidad y una Posible Ruta
 
-![Figura 12 - Dominincan Republic in the eye of the storm - microgridresearchpucmm ](/blog/mg-series/04-MG/12-Figura12.png)
+<div align="center">
+    <img src="/blog/mg-series/04-MG/Figura 11 - R.D en el Ojo de la Tormenta.png">
+</div>
 
 Un estudio sobre esta tecnología y visión se está llevando a cabo en la Escuela de Ingeniería Eléctrica y Mecánica de la Pontificia Universidad Católica Madre y Maestra. El proyecto de investigación Análisis de Resiliencia para el Desarrollo de _Arquitectura de Microrredes frente a Eventos Climáticos en los Sistemas Eléctricos de República Dominicana_ [14], fue acotado para que los resultados sean una ruta técnica y regulatoria para construir resiliencia antes los efectos extremos de cambio climático en la infraestructura energética de la isla. 	
 
