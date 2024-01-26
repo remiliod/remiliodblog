@@ -39,7 +39,7 @@ Los recientes cortes de energía severos causados por eventos climáticos cada v
 
 **Figura 3 -** _Trayectoria de huracanes según su intensidad (1842-2020)_  **Fuente**: Analyze Patterns of Global Hurricane Data (ESRI)[5]
 
-Este desafío se ve agravado aún más al considerar el riesgo inherente de aislamiento geográfico al que se enfrenta cualquier nación insular, como es el caso de la República Dominicana, que comparte el **Sistema-Isla Hispaniol** a con la República de Haití, un estado inmerso en una situación de inestabilidad social, crisis económica y catástrofe ecológica sin precedentes [6]. En la misma isla, dos universos paralelos (_**Ver Figura 4**_).
+Este desafío se ve agravado aún más al considerar el riesgo inherente de aislamiento geográfico al que se enfrenta cualquier nación insular, como es el caso de la República Dominicana, que comparte el **Sistema-Isla Hispaniola**  con la República de Haití, un estado inmerso en una situación de inestabilidad social, crisis económica y catástrofe ecológica sin precedentes [6]. En la misma isla, dos universos paralelos (_**Ver Figura 4**_).
 
 <div align="center">
     <img src="/blog/mg-series/05-MG/Figura 4 - comparación socioeconómica de Republica dominicana y haiti.png">
