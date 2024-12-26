@@ -36,7 +36,7 @@ Sin embargo, a pesar de ser pioneros en la región en la adopción de mecanismos
 Con solo 17,248 usuarios y **412.44 MW** instalados, esto representa apenas el 0.53% del total de clientes eléctricos y el 2% de la matriz energética nacional (ver Figura 3)[3]. De este reducido grupo, menos del 1% pertenece al sector de bajo consumo (aquellos que consumen menos de 700 kWh al mes), que representa el **98% de los clientes** de las distribuidoras.
 
 <div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/Fig3-Datos sobre la evolución del programa de medición neta en RD.png">
+    <img src="/blog/mg-series/GeneracionDistribuida/Fig3-Datos sobre la evolución del programa de medición neta en RD.png">
 </div>
 
 **Figura 3–** Datos sobre la evolución del programa de medición neta en RD **Fuente:** Elaborado con datos de la Comisión Nacional de Energía (2024)
@@ -44,7 +44,7 @@ Con solo 17,248 usuarios y **412.44 MW** instalados, esto representa apenas el 0
 Según datos del Ministerio de Energía y Minas (MEM-RD), para mediados de 2024, la energía solar fotovoltaica representaba apenas el **5% de la energía generada**, mientras que el gas natural, el carbón y el fuel oil acumulaban el **82% de la generación tota**l [4] (Ver Figura 4). Esta composición evidencia una fuerte dependencia de combustibles fósiles importados, lo que expone al país a la volatilidad de los mercados internacionales y a los elevados costos de importación. Además, plantea serios desafíos en términos de seguridad energética y sostenibilidad nacional. Esta dependencia también afecta negativamente la balanza de pagos y la estabilidad macroeconómica del país, como ha quedado demostrado en crisis anteriores relacionadas con el carbón, el petróleo y el gas natural[5].
 
 <div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/Fig4-Capacidad Instalada (MW) y Matriz de Generación por Tecnología (GWh).png">
+    <img src="/blog/mg-series/GeneracionDistribuida/Fig4-Capacidad Instalada (MW) y Matriz de Generación por Tecnología (GWh).png">
 </div>
 
 **Figura 4** – Capacidad Instalada (MW) y Matriz de Generación por Tecnología (GWh). **Fuente**: Adaptado con datos del Ministerio de Energía y Minas (2024).
@@ -123,7 +123,7 @@ Las principales asociaciones relacionadas con la generación distribuida solar e
 Del otro lado, uno de los principales críticos de la propuesta regulatoria es la Asociación Dominicana de Sistemas Eléctricos Aislados (ADOSEA), que agrupa a las concesiones otorgadas a empresas privadas para operar de manera independiente del Sistema Eléctrico Nacional Interconectado (SENI). Estas empresas surgieron hace décadas para suplir la demanda energética en zonas donde la infraestructura era insuficiente para garantizar un suministro eléctrico confiable (ver Figura 5). Sin embargo, en la actualidad, la mayoría de estos sistemas se encuentran interconectados entre sí y, en algunos casos, con el SENI, como es el caso de CEPM y su conexión con la generadora Sultana del Este. Esto sugiere que estos sistemas ya no operan de manera completamente aislada del SENI.
 
 <div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/Fig5- Ubicación de Sistemas Eléctricos Aislados en República Dominicana.png">
+    <img src="/blog/mg-series/GeneracionDistribuida/Fig5- Ubicación de Sistemas Eléctricos Aislados en República Dominicana.png">
 </div>
 
 **Figura 5 –** Fig5- Ubicación de Sistemas Eléctricos Aislados en República Dominicana. **Fuente:** Elaborado con datos de la Comisión Nacional de Energía (2024)
