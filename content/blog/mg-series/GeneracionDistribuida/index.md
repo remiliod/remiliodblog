@@ -1,7 +1,7 @@
 ---
 date: "2024-12-02"
 draft: false
-excerpt: La planificación del sector debe ir orientada hacia la digitalización de las operaciones de las distribuidoras, visualizando los datos como un activo primordial del negocio, priorizando la unificación de los esquemas inteligentes de medición y la del control de pérdidas mediante balances energéticos que permitan administrar, analizar y dar seguimiento al fraude eléctrico y aumentar la fiscalización.
+excerpt: El debate sobre la generación distribuida solar trasciende cifras y regulaciones; es un reflejo de las relaciones de poder y los intereses que moldean el sector energético. Si bien los intereses de algunos actores pueden entrar en conflicto con este cambio de paradigma, el país debe priorizar su competitividad regional y la resiliencia de su sistema eléctrico.
 subtitle: ""
 title: Generación Distribuida Solar en la República Dominicana - Datos y Puntos de Inflexión
 weight: 3
@@ -11,191 +11,187 @@ weight: 3
 
 **Por** Ramón Emilio De Jesús Grullón
 
-La República Dominicana es uno de los 70 países del mundo con mejor recurso solar y condiciones óptimas para explotarlo (ver Figura 1). Esto hace que el potencial de la generación distribuida (GD) solar en el país sea enorme. Con costos cada vez más accesibles y beneficios claros tanto para los usuarios como para la sociedad en general, esta tecnología transforma negocios y hogares en espacios más eficientes, autónomos y resilientes, que perciben mayores ahorros y beneficios, y que, al hacerlo, contribuyen más activamente a la economía. Por esta razón resultan inverosímiles y contradictorios los alegatos vertidos recientemente en la opinión pública en contra de esta tecnología. ¿Qué tan fundamentados están estos argumentos cuando los datos y casos regionales muestran sus evidentes beneficios? ¿Qué intereses podrían estar frenando el avance de una tecnología que promete tanto para el país?
+La República Dominicana es uno de los 70 países del mundo con mejor recurso solar y condiciones óptimas para explotarlo (ver Figura 1). Esto hace que el potencial de la generación distribuida (GD) solar en el país sea enorme. Con costos cada vez más accesibles y beneficios claros tanto para los usuarios como para la sociedad en general, esta tecnología transforma negocios y hogares en espacios más eficientes, autónomos y resilientes, que perciben mayores ahorros y beneficios, y que, al hacerlo, contribuyen más activamente a la economía. Por esta razón resultan inverosímiles y contradictorios los alegatos vertidos recientemente en la opinión pública en contra de esta tecnología. **_¿Qué tan fundamentados están estos argumentos cuando los datos y casos regionales muestran sus evidentes beneficios? ¿Qué intereses podrían estar frenando el avance de una tecnología que promete tanto para el país?_**
+
+### **Un diagnóstico en números** ###
+
+**_“Hay un país en el mundo colocado en el mismo trayecto del sol.” - Pedro Mir_**
+
+La ubicación geográfica de la República Dominicana, cercana al ecuador solar, le permite disfrutar de un recurso energético inagotable, con valores de producción que superan los **5 kWh/kWp** en su pico y una media anual de 4.40 kWh/kWp [1][2].
 
 <div align="center">
     <img src="/blog/mg-series/GeneracionDistribuida/Fig1-Distribución del Recurso Solar (KWhKWp) en el mundo y República Dominicana.png">
 </div>
 
-**Figura 1** – Evolutivo del subsidio anual del gobierno al sector eléctrico – Datos en millones de pesos y su equivalente en dólares (tasa de cada año). **Fuente:** Elaborada a partir de datos de la Dirección General de Presupuesto, Ministerio de Hacienda (MH)
+**Figura 1** –  Distribución del Recurso Solar (KWh/KWp) en el mundo y República Dominicana. **Fuente:** ESMAP (2020)
 
-### **EL PROBLEMA EN PERSPECTIVA** ###
-
-A pesar de la inversión y los esfuerzos realizados para mejorar el desempeño del sector eléctrico, los niveles de pérdidas eléctricas en República Dominicana se han mantenido durante varias décadas por encima de los estándares de referencia internacional. Según los datos publicados por el Ministerio de Energía y Minas (MEM-RD) en el informe de desempeño (marzo 2023), las pérdidas técnicas y no técnicas de las compañías de distribución se promediaron en 39.2%, su mayor nivel desde 2012 (Ver Figura 2) \[2\].
+Sin embargo, a pesar de ser pioneros en la región en la adopción de mecanismos para aprovechar este recurso (ver Figura 2) y los 17 años transcurridos desde la promulgación de la Ley 57-07 sobre incentivos a las energías renovables, la generación distribuida solar ha avanzado a un ritmo limitado. 
 
 <div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/fig2-PerdidasTotales-RepublicaDominicana.png">
+    <img src="/blog/mg-series/GeneracionDistribuida/Fig2-Cronología de la adopción de programas de medición neta en Latinoamérica.png">
 </div>
 
-**Figura 2 –** Pérdidas totales de energía del sector distribución en RD (2022). Fuente: Elaborada con datos del informe de desempeño del sector (marzo 2023), Ministerio de Energía y Minas (MEM-RD)
+**Figura 2 –** Cronología de la adopción de programas de medición neta en Latinoamérica.  **Fuente:**  Elaboración propia basado en BNEF, IEA/IRENA.
 
-En la Figura 3 se muestran las pérdidas totales de cada distribuidora (pérdidas de energía más energía no cobrada). Esta proporción es muy superior a la de los grupos de países de ingresos bajos (de 14% a 15%), países de ingresos medios (13%) y países de ingresos altos de la Organización para la Cooperación y el Desarrollo Económico (OCDE) que han fluctuado entre 6% y 9% \[3\].
+Con solo 17,248 usuarios y **412.44 MW** instalados, esto representa apenas el 0.53% del total de clientes eléctricos y el 2% de la matriz energética nacional (ver Figura 3)[3]. De este reducido grupo, menos del 1% pertenece al sector de bajo consumo (aquellos que consumen menos de 700 kWh al mes), que representa el **98% de los clientes** de las distribuidoras.
 
 <div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/fig3-PerdidasPorDistribuidora-RepublicaDominicana.png">
+    <img src="/blog/mg-series/PerdidasElectricas/Fig3-Datos sobre la evolución del programa de medición neta en RD.png">
 </div>
 
-**Figura 3–** Pérdidas totales de energía de cada distribuidora (2022). Fuente: Elaborada con datos del informe de desempeño del sector (marzo 2023), Ministerio de Energía y Minas (MEM-RD)
+**Figura 3–** Datos sobre la evolución del programa de medición neta en RD **Fuente:** Elaborado con datos de la Comisión Nacional de Energía (2024)
 
-Con el objetivo de poner en perspectiva estos porcentajes, la figura 4 muestra las pérdidas eléctricas como porcentaje de la producción total de electricidad en Latinoamérica y como porcentaje del Producto Interno Bruto (PBI) para países con pérdidas mayores al 10% de la producción eléctrica \[3\]. Se puede observar cómo Republica Dominicana lidera la lista con pérdidas que representan el 2% de su PIB. No obstante, estas cifras representan probablemente una subestimación, dado que no reflejan los subsidios a los precios de la electricidad, ni los costos ambientales y sociales no cuantificables.
+Según datos del Ministerio de Energía y Minas (MEM-RD), para mediados de 2024, la energía solar fotovoltaica representaba apenas el **5% de la energía generada**, mientras que el gas natural, el carbón y el fuel oil acumulaban el **82% de la generación tota**l [4] (Ver Figura 4). Esta composición evidencia una fuerte dependencia de combustibles fósiles importados, lo que expone al país a la volatilidad de los mercados internacionales y a los elevados costos de importación. Además, plantea serios desafíos en términos de seguridad energética y sostenibilidad nacional. Esta dependencia también afecta negativamente la balanza de pagos y la estabilidad macroeconómica del país, como ha quedado demostrado en crisis anteriores relacionadas con el carbón, el petróleo y el gas natural[5].
 
 <div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/fig4-MapaDePerdidasElectricasLatam.png">
+    <img src="/blog/mg-series/PerdidasElectricas/Fig4-Capacidad Instalada (MW) y Matriz de Generación por Tecnología (GWh).png">
 </div>
 
+**Figura 4** – Capacidad Instalada (MW) y Matriz de Generación por Tecnología (GWh). **Fuente**: Adaptado con datos del Ministerio de Energía y Minas (2024).
 
-**Figura 4** – Mapa de pérdidas de energía en Latinoamérica. **Fuente**: Dimensionando las pérdidas de electricidad en los sistemas de transmisión y distribución en América Latina y el Caribe (2014)
+La Comisión Nacional de Energía (CNE), en su Plan Energético Nacional 2022-2036, destaca la necesidad de aumentar la penetración de energías renovables para cumplir con los objetivos establecidos por ley, como alcanzar un **25% de generación renovable para 2025**. Por su parte, el Ministerio de Medio Ambiente y Recursos Naturales acudió a la COP28 con el compromiso de reducir en un 27% las emisiones de gases de efecto invernadero para 2030. Si bien el sector renovable ha mostrado un crecimiento significativo en línea con estas metas[6]: **_¿por qué no establecer también objetivos específicos para la generación distribuida a nivel nacional?_**
 
-El Ministerio de Economía, Planificación y Desarrollo (MEPyD) realizó un estudio comparativo similar del desempeño de distribución energética del país desde 2016 a 2019 (ver tabla 1), comparándolo con otros países de la región y el mundo similares en tamaño y característica del sector. El resultado del análisis indica que República Dominicana lidera los porcentajes de mayores pérdidas, tras comparar datos sobre porcentajes anuales de pérdida de energía de las empresas distribuidoras de electricidad de Kenia (19.6 %), Uganda (17.5 %), Panamá (13.6 %) y Costa Rica (10.5 %) \[4\].
+### **El punto de inflexión y la oportunidad** ###
+
+El crecimiento récord de la energía fotovoltaica ha encabezado las noticias del sector energético en los últimos años, impulsado por precios que han disminuido drásticamente desde 2010. Según el último reporte de costos de mercado de IRENA, el costo nivelado de la electricidad (LCOE) promedio global de las plantas solares fotovoltaicas a escala de servicios públicos disminuyó un 90% entre 2010 y 2023, pasando de **0,460/kWh a 0,044 USD/kWh**, con una reducción del 12% solamente en el último año. IRENA reporta que el costo total promedio de instalación de sistemas fotovoltaicos, en todas sus escalas, ha decrecido desde los 5,31 USD/W instalado en 2010, hasta los 0,758 USD/W instalado en 2023 [7].
+
+Por otra parte, según el reporte “The Future of SolarPhotovoltaic” de IRENA, se estima que la reducción de costos en proyectos solares fotovoltaicos continuará su marcada tendencia decreciente en las próximas tres décadas, alcanzando un valor promedio de 0,58 USD/W instalado para 2030 y de 0,32 USD/W para 2050 [8].
+
+En respuesta a estas tendencias, la Superintendencia de Electricidad (SIE) de la República Dominicana ha discutido y analizado en los últimos años una propuesta de Reglamento para la Aprobación, Interconexión y Operación de Instalaciones de Generación Distribuida de Energía. El objetivo del mismo es homogeneizar y actualizar los supuestos que rigen la industria, entendiendo que esta es una herramienta fundamental para el desarrollo de un sistema energético más sostenible y accesible.
+
+No obstante, relaciones de poder e intereses han desatado un amplio debate en torno al tema, resaltando las luces y las sombras de esta propuesta regulatoria, centrados principalmente en un argumentar sobre los supuestos económicos que involucran la sostenibilidad financiera de las distribuidoras, incentivos fiscales y tributarios de la ley, hasta temas sobre equidad y justicia social.
+
+### **El Nuevo Reglamento de Gestión Distribuida: Novedades y Puntos de Debate** ###
+
+**Novedades**
+
+1. **Reducción de tiempo:** El proceso de solicitud y aprobación se reducirá de tres meses a un máximo de 45 días.
+
+2. **Digitalización:** Las empresas distribuidoras deberán desarrollar plataformas digitales en un plazo de seis meses para dar seguimiento a las solicitudes de los usuarios.
+
+3. **Eliminación de límites:** Se suprime el límite de penetración de renovables por circuito de un 15%, exigiendo estudios previos para verificar capacidad.
+
+4. **Medidores bidireccionales:** Las empresas distribuidoras asumirán el costo de estos dispositivos esenciales para los usuarios.
+
+5. **No inyección:** En caso de que un cliente opte por no inyectar su excedente de energía al sistema eléctrico nacional, deberá notificar a su distribuidor y presentar una prueba de no inyección.
+
+**Puntos de debate**
+
+1. **Estudios técnicos:** El reglamento introduce dos tipos de estudios para evaluar la viabilidad de los proyectos: el estudio suplementario (para sistemas monofásicos de hasta 10 kW y trifásicos de hasta 100 kW) y el estudio detallado (para proyectos superiores a 250 kW o cuando no se cumplen los parámetros del estudio suplementario). Anteriormente no eran necesarios en muchos casos, y estudios demostraron que con tasas de penetración bajas la estabilidad de las redes no estaba comprometida[9].
+
+2. **Incertidumbre sobre el cargo por uso de red**: Actualmente, no se conoce la formulación de esta compensación a las distribuidoras. Este cargo busca cubrir los costos asociados al mantenimiento e inversión en la infraestructura de la red. Sin embargo, existe un debate sobre si se debería también reconocer el balance económico positivo que la generación distribuida aporta a las EDEs, incluyendo la reducción de costos en el mercado spot, el ahorro en pérdidas técnicas y no técnicas, entre otros.
+
+3. **Pago de Potencia:** El usuario pagaría el máximo entre la potencia inyectada y la potencia retirada. Se debate el hecho de que la potencia inyectada por el cliente no genera ningún cargo adicional para la distribuidora. Por el contrario, puede ayudar a reducir la demanda de la red en las horas en que los generadores distribuidos realizan la inyección.
+
+4. **Facturación neta vs Medición Neta:** Algunos actores argumentan la necesidad de modificar el esquema de compensación, citando la madurez del mercado y la sostenibilidad financiera de las distribuidoras. Sin embargo, su postura no está respaldada por estudios que demuestren la conveniencia de este cambio en la coyuntura actual
+
+Con miras a añadir perspectiva a esta conversación y buscando contribuir a la construcción de un consenso en torno a las posibilidades de este sector, aquí se presentan casos de estudios regionales sobre el avance de esta industria en Latinoamérica.
+
+
+### **Comparativa regional y casos de estudio relevantes** ###
+
+En América Latina y el Caribe, 17 países han adoptado políticas para implementar programas de medición neta en distintas etapas (pilotos, regionales, sectoriales o nacionales), adaptados a sus reglamentos y características socioeconómicas [10]. Aquí se exploran algunos casos de estudio relevantes:
+
+**Puerto Rico**
+
+Puerto Rico ha experimentado un crecimiento notable en la generación distribuida solar en los últimos años. Según datos de LUMA Energy, al mes de junio de 2024, la capacidad instalada de sistemas solares en techos conectados a la red alcanzó los **893 MW**, lo que equivale aproximadamente al 14.88% de la capacidad total instalada. Este incremento refleja la adopción creciente de sistemas fotovoltaicos por parte de usuarios residenciales, comerciales, industriales y agrícolas. La alta adopción de sistemas con almacenamiento de baterías, con 95,000 instalaciones conectadas a la red (equivalente al 80% del total), indica una tendencia hacia la autosuficiencia energética y la estabilidad del suministro eléctrico[11].
+
+El caso de Puerto Rico resulta particularmente relevante debido a su proximidad geográfica y las similitudes en los desafíos energéticos que enfrenta junto a la República Dominicana. La resiliencia de los sistemas solares instalados en techos quedó demostrada tras el huracán Fiona, que en septiembre de 2022 provocó un apagón generalizado en la isla. Mientras tomó ocho días restablecer el servicio eléctrico al **60% de los clientes**, y algunas comunidades permanecieron sin electricidad durante semanas, los residentes con paneles solares, salvo contadas excepciones, lograron mantener el suministro eléctrico gracias a sus sistemas[12].
+
+**Brasil**
+
+Brasil acumula **33 GW** de capacidad instalada de generación solar distribuida, habiendo añadido al menos 6.7 GW solo en 2024, según ANEEL. Al menos 8 GW de generación solar distribuida se añadieron en 2022 (8.1 GW) y 2023 (8.3 GW). Este crecimiento ha sido posible gracias a la digitalización de procesos y la reducción de plazos para la aprobación de proyectos. Con una capacidad total instalada de generación eléctrica de aproximadamente 230 GW, la generación distribuida solar representa el 14.3 % del total[13].
+
+**México**
+
+En noviembre de 2024, México alcanzó una capacidad instalada de generación distribuida de **3,891 MW**, lo que representa aproximadamente el 3.28% de la capacidad total instalada. Según la Comisión Reguladora de Energía (CRE), al cierre del primer semestre de 2024, la capacidad instalada en generación distribuida creció un 31.6% respecto al mismo periodo del año anterior. Gracias a un proceso de interconexión relativamente simple, México ha registrado un crecimiento continuo del 30% en los últimos tres años[14].
+
+A modo de referencia, al analizar la penetración de la generación distribuida (GD) solar en función de la cantidad de habitantes, se observan diferencias significativas entre los países de la región. Puerto Rico lidera con aproximadamente **254 W/persona**, seguido de Brasil con 154 W/persona. Por otro lado, República Dominicana (**36 W/persona**) y México (30 W/persona) presentan cifras más modestas.
+
+La capacidad promedio de sistemas de generación distribuida en la región es de **10,5 kW**. Al mismo tiempo, existe una amplia dispersión respecto del promedio regional. Tal es el caso de Panamá, que posee una capacidad promedio de 35 kW, Uruguay de 35 kW, Costa Rica de 30 kW, mientras que la de República Dominicana es de 25 kW. Respecto al establecimiento de la capacidad máxima habilitada para la conexión de sistemas bajo la modalidad distribuida, en la región predominan los límites en el orden de los MW, siendo 5 MW para Brasil, Guatemala y Puerto Rico, 2 MW para Argentina, 1 MW para República Dominicana y Colombia. Algunos países, como Panamá y Costa Rica, no establecieron un límite máximo de conexión [15].
+
+Dos tercios de los mercados aplican el modelo de ‘Medición Neta,’ mientras que el resto utiliza ‘Facturación Neta.’ Más allá de ser un mecanismo económico, esta elección responde a decisiones estratégicas de política pública. La medición neta ha demostrado ser un incentivo clave para estimular la adopción de la generación distribuida en mercados emergentes. En contraste, en países con sectores más maduros o altas cuotas de mercado, se ha adoptado la facturación neta. Este enfoque busca equilibrar el crecimiento de la generación distribuida con la sostenibilidad económica de las distribuidoras, garantizando que los costos fijos de mantenimiento y operación de la red sean cubiertos adecuadamente.
+
+Un ejemplo relevante fuera de la región es California (EE. UU.), que en 2022 registraba una penetración del 8% de energía solar distribuida. En abril de 2023, California implementó una reforma en su estructura de compensación para la medición neta, reduciendo la tarifa de compensación a aproximadamente un tercio de la tarifa minorista. Como resultado, las nuevas instalaciones solares disminuyeron entre un **66% y un 83%** en los distintos territorios de servicio público durante los primeros cinco meses posteriores a la implementación de la política[11]. Este cambio tuvo un impacto significativo en el sector laboral, con más de 17.000 despidos registrados, lo que representó el 22% de la industria [16]. Sin embargo, al mismo tiempo, el estado incrementó programas e incentivos que facilitan la instalación de sistemas solares para autoconsumo, como el programa ‘Energy For All’ de GRID Alternatives, diseñado especialmente para familias de bajos ingresos[17].
+
+Otro caso relevante son los Países Bajos. En 2023, las instalaciones solares residenciales representaban el **42% de la capacidad solar total del país (24 GW)**, con aproximadamente 10 GW provenientes de sistemas en techos, instalados en el 25% de los hogares[18]. El programa de medición neta, que ha sido clave para esta adopción, será eliminado gradualmente iniciando en 2025, con el porcentaje de energía elegible para la medición neta disminuyendo anualmente hasta la eliminación completa del programa en 2031.
+
+### **Relaciones de Poder: Actores clave** ###
+
+Las principales asociaciones relacionadas con la generación distribuida solar en la República Dominicana han presentado una postura unificada ante la Superintendencia de Electricidad (SIE) sobre el reglamento. La Asociación para el Fomento de las Energías Renovables (ASOFER), la Asociación de Dueños de Paneles Solares (ADUPAS), la Asociación de Empresas de Eficiencia Energética y Energías Renovables (ASEEFEER) y la coalición RD100 % Renovable se unieron para exigir que dicho reglamento priorice la protección de los consumidores. Estas asociaciones argumentan que la generación distribuida no solo representa una oportunidad para democratizar el acceso a la energía limpia, sino que también reduce costos a largo plazo y aumenta la resiliencia del sistema eléctrico ante fenómenos externos. Además, subrayan que las disposiciones regulatorias deben garantizar procesos ágiles y transparentes, eliminando barreras innecesarias que desincentiven la adopción de esta tecnología [19][20].
+
+Del otro lado, uno de los principales críticos de la propuesta regulatoria es la Asociación Dominicana de Sistemas Eléctricos Aislados (ADOSEA), que agrupa a las concesiones otorgadas a empresas privadas para operar de manera independiente del Sistema Eléctrico Nacional Interconectado (SENI). Estas empresas surgieron hace décadas para suplir la demanda energética en zonas donde la infraestructura era insuficiente para garantizar un suministro eléctrico confiable (ver Figura 5). Sin embargo, en la actualidad, la mayoría de estos sistemas se encuentran interconectados entre sí y, en algunos casos, con el SENI, como es el caso de CEPM y su conexión con la generadora Sultana del Este. Esto sugiere que estos sistemas ya no operan de manera completamente aislada del SENI.
 
 <div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/tabla-tablaDePerdidasPorPais.PNG">
+    <img src="/blog/mg-series/PerdidasElectricas/Fig5- Ubicación de Sistemas Eléctricos Aislados en República Dominicana.png">
 </div>
 
-**Tabla 1** – Pérdidas porcentuales en la distribución de energía de países seleccionados y República Dominicana (2016-2019). **Fuente:** Monitor Energético (MEPyD 2022)
+**Figura 5 –** Fig5- Ubicación de Sistemas Eléctricos Aislados en República Dominicana. **Fuente:** Elaborado con datos de la Comisión Nacional de Energía (2024)
 
-Los datos históricos revelan que la mayoría de las pérdidas de electricidad se originan en los circuitos informales, en los cuales históricamente no se ha llevado a cabo la identificación de los clientes, la ausencia de mediciones y la normalización del consumo no autorizado. Menos de una cuarta parte del total de las pérdidas surge de circuitos rehabilitados que cuentan con un servicio de electricidad ininterrumpido durante las 24 horas. Este hallazgo indica la existencia de dos elementos específicos en el problema de las pérdidas de electricidad: (1) el fraude relativamente sofisticado y la corrupción en las áreas acomodadas (circuitos A y B), en donde se observa una calidad de servicio adecuada; y (2) el fraude oportunista y la falta de pago en las zonas más desfavorecidas que cuentan con redes informales (circuitos C y D), donde la calidad del servicio eléctrico es deficiente \[5\].
+El hecho de que el sector hotelero sea una parte fundamental de la economía dominicana, contribuyendo con el 11% del valor agregado del sector servicios al PIB en la última década[21], y que esta asociación represente aproximadamente el **80% de la oferta hotelera nacional**, otorga a ADOSEA una posición de considerable influencia en el debate regulatorio. Su peso económico y su capacidad para articular sus intereses dentro de las discusiones energéticas hacen que cualquier propuesta que afecte su operación sea objeto de intenso escrutinio.
 
-En la figura 5 se muestran las pérdidas provinciales en el año móvil septiembre 2021, la escala de colores representa el indicador de pérdidas en porcentaje.
+ADOSEA argumenta que la masificación de la generación distribuida podría generar impactos significativos en el sistema eléctrico nacional. Según la asociación, existe un riesgo de que la incorporación masiva de energía generada desde los techos de hogares y negocios cause inestabilidad en la red eléctrica, comprometiendo la confiabilidad del servicio. Además, plantean que este cambio podría afectar financieramente a las empresas distribuidoras al reducir la base de usuarios que dependen directamente de la red, dificultando la capacidad de estas empresas para realizar inversiones necesarias en la modernización y el mantenimiento de la infraestructura eléctrica[22].
 
-<div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/fig5-MapaDePerdidasGeograficoRepublicaDominicana.png">
-</div>
+### **En palabras llanas** ###
 
-**Figura 5 –** Mapa de pérdidas de energía en la geografía de República Dominicana. **Fuente:** Plan Integral de Reducción de Pérdidas 2022-2028
+Los beneficios económicos y técnicos de la generación distribuida están ampliamente documentados en la literatura científica y económica, y sus bondades y desafíos técnicos detallados a cabalidad[23]. Si bien la sostenibilidad financiera de las empresas de distribución en República Dominicana es una cuestión apremiante, las causas principales de su deterioro también están documentadas en el Plan Integral de Reducción de Pérdidas (2022-2028) y se pueden leer entre líneas en el Pacto Nacional para la Reforma del Sector Eléctrico [24]. En la generación distribuida no está el agujero.
 
-De un total de 276 subestaciones distribuidas en la geografía nacional, la figura 6 muestra 30 que representan el 60% del total de pérdidas anuales (GWh) de las EDES. 22 de estas corresponden a EDEEste, 4 a EDESur y 4 a EDENorte.
+En la República Dominicana, las micro, pequeñas y medianas empresas (MIPYMES) representan aproximadamente el 98% del total de las empresas. Estas generan más de dos millones de empleos, lo que equivale al 54.4% de la población ocupada, y aportan alrededor del 38.6% al Producto Interno Bruto (PIB) del país[25]. En este contexto, la generación distribuida no solo tiene el potencial de reducir costos operativos para las MIPYMES, sino también de actuar como un catalizador clave para el desarrollo económico y la sostenibilidad del país. **_¿Estamos dispuestos a limitar la competitividad del principal motor de nuestra economía con barreras innecesarias, o es este el momento de potenciar su competitividad?_**
 
-<div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/fig6-RankingSubestacionesMayoresPerdidasRD.png">
-</div>
+El debate sobre la generación distribuida solar trasciende cifras y regulaciones; es un reflejo de las relaciones de poder y los intereses que moldean el sector energético. Si bien los intereses de algunos actores pueden entrar en conflicto con este cambio de paradigma, el país debe priorizar su competitividad regional y la resiliencia de su sistema eléctrico. De no hacerlo, se corre el riesgo de perpetuar un modelo energético que ya no responde a las necesidades de la población ni a las demandas de un entorno global que avanza a pasos agigantados. Mientras otros países apuestan por sistemas energéticos más eficientes, sostenibles y equitativos, la República Dominicana debe decidir si quiere liderar este cambio o quedarse rezagada, **_atrapada en dinámicas de poder que benefician a unos pocos en detrimento del progreso colectivo._**
 
-
-**Figura 6** – Ranking de las subestaciones con mayores pérdidas (GWh). **Fuente:** Elaborado con información del Plan Integral de Reducción de Pérdidas 2022-2028
-
-Una forma de dar una dimensión alterna a tales pérdidas, y ponerlas en contexto, es comparar la capacidad de generación o potencia instalada que representan los 5,494 GWh de energía perdida en 2022. La central termoeléctrica Punta Catalina (CTPC), la joya de la corona del sector eléctrico del país, tiene una capacidad instalada de 752 MW y tuvo una generación neta en 2022 de 4,701 GWh \[6\], es decir que se necesita 1.17 veces la generación de esta central solo para cubrir las pérdidas del sector.
-
-### **LAS PRINCIPALES CAUSAS DEL PROBLEMA** ###
-
-El Plan Integral de Reducción de Pérdidas (2022-2028) \[7\], una iniciativa del Consejo Unificado de las Empresas Distribuidoras, que surge bajo la sombrilla de la ley 1-12 de Estrategia Nacional de Desarrollo (END) \[8\] y la firma del Pacto Nacional para la Reforma del Sector Eléctrico, recoge los hallazgos que describen las principales causas del problema. El orden en que se presentan estas variables no implica mayor importancia una sobre otra, y el autor ha añadido contexto a las más relevantes.
-
-- **Usuarios en conexión directa autorizada y no autorizada.**
-
-Según datos de la Superintendencia de Electricidad, alrededor del 13% de los usuarios de las distribuidoras, es decir, alrededor 378,000 clientes no cuentan con un medidor de consumo, de forma que se les factura por estimación \[9\]. Según representantes de la SIE hacen falta alrededor de 700.000 medidores en las distribuidoras. \[10\]. Esto se traduce en clientes que, al no estar medidos, hacen uso irracional de la energía. Así mismo, la recurrencia de conexión no autorizada en los circuitos, sobre todo en los no rehabilitados, es muy común y las acciones de las EDE no son suficientes, impactando en el seguimiento y persecución del fraude eléctrico y por ende aumentando el deterioro de las redes y la cartera.
-
-- **Brechas de digitalización en las operaciones de las EDES**
-
-Al tener administraciones y liderazgos independientes se han creado brechas digitales que complican la homologación de procesos, entre ellas:
-
-- Sistemas independientes en algunas ocasiones incluso del mismo proveedor.
-- Contratos de licenciamientos de software individuales, misma tecnología y diferentes precios debido a las diferencias en sus infraestructuras.
-
-<div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/tabla2-SistemasDeMedicionInteligenteRepublicaDominicana.PNG">
-</div>
-
-**Tabla 2** – Cantidades de clientes por tipo de conexión y tecnología de la medida. **Fuente**: Plan Integral de Reducción de Pérdidas (2022-2028)
-
-- **Asociación (cliente - transformador – circuito) en Sistemas Geográficos de Información (SIG)**
-
-Falta de mantenimiento del campo de asociación de circuito de los suministros (clientes), afectando toda la data de las herramientas de inteligencia adquiridas para el monitoreo y control de pérdidas.
-
-- **Totalizadores (Macromedidores):**
-
-Los totalizadores son medidores instalados en un nivel más alto que totalizan la energía entregada en una zona. Esta medida luego es comparada con la suma de las lecturas individuales (micromedición). Se han convertido en un elemento indispensables de los sistemas de balance de energía que han sido exitosos en perseguir pérdidas, no obstante, no se ha concretado un plan de adquisiciones y en algunos casos se instalaron en conectividad GPRS, pero luego se decidió desinstalarlos y reutilizar esos medidores para otros usos debido a los periodos de escasez.  
-
-- **Impunidad, fraude eléctrico y falta de fiscalización**
-
-La legislación vigente desde el año 2007 (Ley 186-07) ha tipificado el fraude eléctrico como un delito autónomo, introduciendo la penalización con castigos de prisión por fraudes, y designando a la Procuraduría General Adjunta para el Sistema Eléctrico (PGASE) como la entidad encargada de perseguir estos delitos. No obstante, la cantidad abrumadora de casos y la preocupante tasa de reincidencia han superado la capacidad de acción de la PGASE, lo que ha obstaculizado significativamente los esfuerzos de las empresas para reducir las pérdidas y disciplinar el mercado eléctrico. Además, no hay fiscalización, auditoria o seguimiento en los procesos de normalización de puntos de medida donde se detectan irregularidades.
-
-- **Medidores fraudulentos**
-
-Sigue siendo recurrente este tipo de situaciones, donde terceros venden a clientes medidores sustraídos de otras localidades con otro serial, disimulando en apariencia que el punto de medida está en situación correcta, cuando es ocultando un fraude.  
-
-- **Transformadores exclusivos que se encuentren conectados ilegalmente**
-
-A noviembre de 2021 se han identificado 2,017 transformadores exclusivos directos con una capacidad de 48,144 kVA, situación que venía ocurriendo debido a la burocracia y trabas de las EDE en el proceso de aprobación de los planos y subsecuente contratación.
-
-- **Luminarias encendidas fuera de horario**
-
-En diversos sectores siguen presentándose las luminarias encendidas fuera de horario ya que no cuentan con fotoceldas ni reemplazos para ser corregidas, muchos casos quedan en este estado agravando las pérdidas y la percepción del despilfarro.
-
-- **Mafias y corrupción de los contratistas**
-
-Existen mafias en los subcontratistas y empleados de las EDES dedicadas a ponerle obstáculos a los clientes a fin de recibir sobornos para la instalación de medidores a la hora de abrir un contrato nuevo y solicitar un cambio de potencia. Esto no solo daña la reputación de la empresa de cara al cliente final, pero también enraíza la cultura del robo en las comunidades.  
-
-- **Veeduría y calidad en las instalaciones**
-
-Las redes de distribución actual presentan alta incidencia de averías por fallas de materiales que no cumplen la calidad o instalaciones inapropiadas, ejemplo de ellos son cables de conexión URD instalados sin copas terminales, alta cantidad de mala colocación de conectores cuña, lo que influye en conexiones flojas y averías recurrentes, cajas porta medidores sin tapa, luminarias sobre encendidas, cajas de derivación abiertas, entre otras.  
-
-### **LAS CONSECUENCIAS DIRECTAS**
-
-El agujero financiero resultante de estas pérdidas ha provocado que el flujo de efectivo destinado a la inversión haya sido utilizado a menudo como transferencias corrientes para cubrir las pérdidas, pagar los atrasos a las generadoras y otros gastos corrientes dentro del sector, prolongando el círculo vicioso. Todo esto se traduce en implicaciones serias con respecto a competitividad de la economía. La República Dominicana se clasificó en el puesto 79 (79 de 140 países) por la calidad del suministro eléctrico en el Reporte de Competitividad Global del Foro Económico Mundial 2019 \[11\], cuyas clasificaciones son un reconocido indicador comparativo de la competitividad de los países a nivel mundial y 89 en Dinamismo en los Negocios (una medida de cuál entorno regulatorio es más propicio para el inicio y el funcionamiento de una empresa local). En la clasificación Doing Business del Banco Mundial 2019, la República Dominicana ocupó la posición 115 de 190 economía, donde se considera la electricidad como el mayor obstáculo para hacer negocios \[12\].
-
-### **UNA MIRADA CRITICA** 
-
-El Plan Integral de Reducción de Pérdidas (2022-2028) plantea llevar las pérdidas de energía a un máximo de un 15% en un plazo de seis años, a partir de las pérdidas al cierre de diciembre del 2020. La inversión requerida para desarrollar el plan, es decir, la rehabilitación de circuitos, plan de reducción de pérdidas, plan de expansión de subestaciones, capital humano y plan de modernización de sistemas de EDE en las que se soportan los planes de pérdidas es de **1,880.18 MM US** en 7 años (periodo 2021 al 2028). Si bien el plan está fundamentado en la priorización de la inversión bajo el enfoque de eficiencia y reducción de costos operativos en uno de sus ejes, el nivel de inversión propuesto es bastante elevado en comparación con la inversión histórica en el sector en el periodo previo a la formulación del plan (2009-2020), cuyo monto fue **2,013.76 MM US.** La figura 7 muestra la inversión desglosada en dos renglones, en proyectos de fondos propios y multilaterales correspondientes a los financiamientos de los bancos internacionales que han operado bajo el programa del Banco Mundial. Esta realidad plantea un reto gigantesco en un sector ya deficitario, y pone en interrogante la posibilidad real de ver materializado dicho plan.
-
-<div align="center">
-    <img src="/blog/mg-series/PerdidasElectricas/fig7-evolutivoInversionSectorEnergeticoRD.png">
-</div>
-
-
-**Figura 7** –Evolutivo de la inversión propia y multilateral en desarrollo de infraestructura eléctrica (2009.2020). **Fuente:** Elaborado con información del Plan Integral de Reducción de Pérdidas 2022-2028.
-
-El último informe de desempeño del sector eléctrico (abril 2023), publicado por el Ministerio de Energía y Minas, refleja que los índices de pérdidas de energía han ido empeorando en vez de disminuir en este 2023, alejándose de los rangos establecidos en el reglamento del Pacto Eléctrico, firmado el 21 de febrero del 2021 por el Gobierno, partidos políticos, empresarios y una representación de la sociedad civil.
-
-Para este año (2023) la situación del déficit apunta al aumento, pues el Gobierno asignó una partida de RD$73,959.1 millones, pero solo en el primer trimestre el sector eléctrico absorbió RD$21,350.9 millones, lo cual indica que la proyección es a que supere los RD$85,000 millones al cierre.
-
-Vale mencionar que como resultado de la inversión realizada en desarrollo y mejora de la infraestructura eléctrica en la última década, la calidad de servicio ha mejorado significativamente, partiendo de un SAIDI (Promedio mensual de la duración de las interrupciones en el servicio eléctrico) mensual de aproximadamente 115.7h en el 2012\[13\], a un valor de 10h en el 2023, y de un SAIFI (Promedio mensual de la frecuencia de interrupciones en el servicio eléctrico) de 26.8 interrupciones por mes en 2012 a 14.65 en marzo 2023\[14\].
-
-### **UN MENSAJE FINAL**
-
-Es un secreto a voces que la cultura de planificación debe tomar un rol central en nuestro país. Esto, acompañado de un sentimiento de institucionalidad, es la receta necesaria para fortalecer el sector en el contexto de la transición energética nacional y global, con miras a no solo eliminar distorsiones históricas, pero también para maximizar las oportunidades que presentan áreas claves englobadas en las 3D´s de la transición energética: **Descarbonización, Digitalización y Descentralización.**
-
-La planificación del sector debe ir orientada hacia la digitalización de las operaciones de las distribuidoras, visualizando los datos como un activo primordial del negocio, priorizando la unificación de los esquemas inteligentes de medición y la del control de pérdidas mediante balances energéticos que permitan administrar, analizar y dar seguimiento al fraude eléctrico y aumentar la fiscalización.
-
-Por último, sería ideal desarrollar una campaña pública para exponer el problema del fraude eléctrico y ponerlo bajo el escrutinio público, responsabilizando a cualquier personal y trabajador del sector público quienes sean cómplices en el robo de la electricidad, apalancándonos de la experiencia internacional y de casos de éxito en programas similares \[15\].
 
 \- -
 
-El autor es investigador en [Resiliencia Enérgetica y Microrredes Eléctricas (PUCMM)](https://sites.nationalacademies.org/PGA/PEER/PEERscience/PGA_364187) y Especialista en Energía (Energía Journal).  
-<br/>**Contacto:** Resiliencia Energética y Microrredes (PUCMM)| [r.dejesus@ce.pucmm.edu.do](mailto:r.dejesus@ce.pucmm.edu.do)  
-(PUCMM)| <https://microgrid.pucmm.edu.do/>
+El autor es investigador en [Resiliencia Enérgetica y Microrredes Eléctricas (PUCMM)](https://microgrid.pucmm.edu.do/) y Especialista en Energía (Energía Journal).
 
-**Energía Journal** | <energiajournalrd@gmail.com> | **Instagram:** @energiajournal
+**Contacto:** Resiliencia Energética y Microrredes (PUCMM)| [r.dejesus@ce.pucmm.edu.do](mailto:r.dejesus@ce.pucmm.edu.do)  
+(PUCMM)| <https://microgrid.pucmm.edu.do/>
 
 **Recursos**
 
-\[1\] Dirección General de Presupuesto (DIGEPRES), Informes de Ejecución Presupuestaria, (2023). <https://www.digepres.gob.do/publicaciones/informes/> (accessed July 18, 2023).
 
-\[2\] Ministerio de Energía y Minas (MEM-RD), Informe de Desempeño - Marzo (2023), 2023. <https://mem.gob.do/category/sector-electrico/informe-de-desempeno/>.
+\[1\] ESMAP, “Global Photovoltaic Power Potential by Country. Washington, DC: World Bank.” Accessed: Nov. 24, 2024. \[Online\]. Available: <https://globalsolaratlas.info/map?c=18.828316,-70.949707,7&r=DOM>
 
-\[3\] Banco Interamericano de Desarrollo (IADB), Dimensionando las pérdidas de electricidad en los sistemas de transmisión y distribución en América Latina y el Caribe, 2014. <https://publications.iadb.org/es/publicacion/16883/electricidad-perdida-dimensionando-las-perdidas-de-electricidad-en-los-sistemas>.
+\[2\] World Bank Group, “Solar photovoltaic power potential by country,” World Bank Group. Accessed: Nov. 24, 2024. \[Online\]. Available: <https://www.worldbank.org/en/topic/energy/publication/solar-photovoltaic-power-potential-by-country?cid=eae_tt_energy_en_ext>
 
-\[4\] P. y D. Ministerio de Economía, Monitor Energético - PERDIDAS DE LAS EMPRESAS DISTRIBUIDORAS DE ENERGÍA, 2022. <https://mepyd.gob.do/vaes/monitor-energetico/>.
+\[3\] Comisión Nacional de Energía (CNE), “Estadísticas - Comisión Nacional de Energia.” Accessed: Nov. 24, 2024. \[Online\]. Available: <https://cne.gob.do/estadistica/>
 
-\[5\] Economist Intelligence Unit, El futuro del sector eléctrico en la República Dominicana Contenido, Econ. (2015). <https://www.ces.org.do/images/2015/FunglodeElectricitySectorReportSpanishFINAL.pdf>.
+\[4\] Ministerio de Energía y Minas (MEM-RD), “Boletín de generación y gestión de energía - Julio 2024,” 2024. \[Online\]. Available: <https://mem.gob.do/wp-content/uploads/2024/08/07.-Boletin-Informativo-Generacion-y-Gestion-Energia-Julio-2024.pdf>
 
-\[6\] Dirección Comercial CTPC, Balance de Energía Central Termoeléctrica Punta Catalina 2022, 2022. <https://puntacatalina.cdeee.gob.do/estadisticas/>.
+\[5\] R. Luna and K. Gamboa, “Joel Santos dice que los avances de energía renovable se han duplicado desde el 2013 al 2024,” _Listin Diario_, 2024. Accessed: Nov. 24, 2024. \[Online\]. Available: <https://listindiario.com/economia/energia/20241122/joel-santos-dice-avances-energia-renovable-han-duplicado-2013-2024_834635.html>
 
-\[7\] Consejo Unificado de las Empresas Distribuidoras, Plan Integral de Reducción de Pérdidas 2022-2028, 2022. <https://edeeste.com.do/transparencia/index.php/plan-integral-de-reduccion-de-perdidas-2022-2028/>.
+\[6\] International Renewable Energy Agency (IRENA), “Renewable Power Generation Costs in 2023,” 2023. \[Online\]. Available: <https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023>
 
-\[8\] Ministerio de Economía Planificación y Desarrollo, Ley 1-12. Estrategia nacional de desarrollo 2030, Minist. Econ. Planif. y Desarro. República Dominic. (2012) 94. <http://economia.gob.do/mepyd/wp-content/uploads/archivos/end/marco-legal/ley-estrategia-nacional-de-desarrollo.pdf>.
+\[7\] International Renewable Energy Agency (IRENA), “Future of Solar Photovoltaic,” 2019. \[Online\]. Available: <https://www.irena.org/publications/2019/Nov/Future-of-Solar-Photovoltaic>
 
-\[9\] Superintendencia de Eléctricidad (SIE), Estadísticas de Regulación y Fiscalización Mercado Eléctrico Minorista, (2023). <https://sie.gob.do/sobre-nosotros/direcciones/direccion-de-regulacion/estadisticas-direccion-regulacion/> (accessed July 18, 2023).
+\[8\] T. Sanzillo, “La encrucijada que enfrenta la implantación de la energía solar en Puerto Rico - Institute for Energy Economics and Financial Analysis,” 2024. \[Online\]. Available: <https://ieefa.org/sites/default/files/2024-06/Spanish_Solar> at a Crossroads in Puerto Rico_June 2024.pdf
 
-\[10\] EHPlus, En RD faltan casi 700 mil medidores de energía eléctrica, según titular de SIE, (2022). <https://limpio.ehplus.do/en-rd-faltan-casi-700-mil-medidores-de-energia-electrica-segun-titular-de-sie/> (accessed July 18, 2023).
+\[9\] L. Neves, “En Brasil, la generación solar distribuida alcanza los 33 GW, con 24 GW instalados en el propio punto de consumo,” PV Magazine. \[Online\]. Available: <https://www.pv-magazine-latam.com/2024/10/30/en-brasil-la-generacion-solar-distribuida-alcanza-los-33-gw-con-24-gw-instalados-en-el-propio-punto-de-consumo/>
 
-\[11\] World Economic Forum (WEF), The Global Competitiveness Report, 2019. <https://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf>.
+\[10\] Comisión Nacional de Energía, “Energía Abierta Cuidadana,” 2024. \[Online\]. Available: <https://www.cne.cl/wp-content/uploads/2024/04/RCiudadano_v202404.pdf>
 
-\[12\] World Bank, Doing Business, 2020. <https://archive.doingbusiness.org/en/doingbusiness>.
+\[11\] G. Francovigh, “La generación distribuida alcanza 3,891 MW de capacidad instalada al primer semestre de 2024 - Energía Estratégica,” Energía Estrategica. Accessed: Nov. 24, 2024. \[Online\]. Available: <https://www.energiaestrategica.com/la-generacion-distribuida-alcanza-3891-mw-de-capacidad-instalada-al-primer-semestre-de-2024/?utm_source=chatgpt.com>
 
-\[13\] M. Weiss, P. Ravillard, M.E. Sanin, F. Carvajal, Y. Daltro, E. Chueca, M. Hallack, Impacto de la regulación en la calidad del servicio de d istribución de la energía eléctrica en América Latina y el Caribe, 2021. <https://publications.iadb.org/publications/spanish/viewer/impacto-de-la-regulacion-en-la-calidad-del-servicio-de-distribucion-de-la-energia-electrica-en-ameri.pdf>.
+\[12\] Programa de las Naciones Unidas para el Medio Ambiente (2022)., “El estado de la generación distribuida solar fotovoltaica en América Latina y el Caribe,” 2022. \[Online\]. Available: <https://www.unep.org/es/resources/informe/el-estado-de-la-generacion-distribuida-solar-fotovoltaica-en-america-latina-y-el>
 
-\[14\] Superintendencia de Eléctricidad (SIE), INDICADORES CALIDAD DISTRIBUIDORAS MARZO 2023, (2023). <https://sie.gob.do/indicadores-calidad-distribuidoras-marzo-2023/> (accessed July 19, 2023).
+\[13\] R. Kennedy, “En EE. UU., las instalaciones solares en tejados de California caen un 80%,” _PV Magazine_, 2024. \[Online\]. Available: <https://www.pv-magazine-latam.com/2023/12/01/en-ee-uu-las-instalaciones-solares-en-tejados-de-california-caen-un-80/>
 
-\[15\] P. Sector, Reforming the Power Sector: Controlling Electricity Theft and Improving Revenue, 2018. <https://documents1.worldbank.org/curated/en/175611520414087771/pdf/122142-BRI-272-BHATI-PUBLIC.pdf>.
+\[14\] Asociación para el Fomento de las Energías Renovables (ASOFER), “ASOFER rechaza propuesta reglamento de generación distribuida - Energía Estratégica,” Energia Estratégica. Accessed: Nov. 24, 2024. \[Online\]. Available: <https://www.energiaestrategica.com/asofer-rechaza-propuesta-reglamento-de-generacion-distribuida/>
+
+\[15\] EH+, “Entidades critican reglamento propuesto por la SIE sobre paneles solares | EHPLUS+.” Accessed: Nov. 24, 2024. \[Online\]. Available: <https://ehplus.do/entidades-critican-reglamento-propuesto-por-la-sie-sobre-paneles-solares-para-favorecer-a-grandes-distribuidoras/>
+
+\[16\] I. De la Cruz, “Los hoteles aportan 11 % del sector servicios al PIB - Diario Libre,” Diario Libre. Accessed: Nov. 24, 2024. \[Online\]. Available: <https://www.diariolibre.com/economia/turismo/2024/07/11/los-hoteles-aportan-11--del-sector-servicios-al-pib/2784078>
+
+\[17\] Diario Libre, “Adosea demanda normativa equilibrada en el reglamento de la Ley 57-07.” \[Online\]. Available: <https://www.diariolibre.com/economia/energia/2024/11/11/adosea-pide-normativa-equilibrada/2908308>
+
+\[18\] Acento, “Beneficios de la generación distribuida para las Empresas Distribuidoras Eléctricas en República Dominicana | Acento,” _Acento_, 2024. Accessed: Nov. 24, 2024. \[Online\]. Available: <https://acento.com.do/economia/beneficios-de-la-generacion-distribuida-para-las-empresas-distribuidoras-electricas-en-republica-dominicana-9344442.html>
+
+\[19\] R. E. De-Jesús-Grullón, “Pérdidas de Energía en Distribución: El Agujero Negro del Sector Eléctrico en República Dominicana,” _EH+_, 2023. \[Online\]. Available: <https://ehplus.do/perdidas-de-energia-en-distribucion-el-agujero-negro-del-sector-electrico-en-republica-dominicana/>
+
+\[20\] J. Severino, “Las pymes y su vital importancia en la economía,” _ElDinero_, 2023. \[Online\]. Available: <https://eldinero.com.do/218443/las-pymes-y-su-vital-importancia-en-la-economia/>
+
+&nbsp;
 
 
 
