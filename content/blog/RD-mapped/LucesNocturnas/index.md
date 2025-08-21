@@ -1,7 +1,7 @@
 ---
 date: "2025-08-21"
 draft: false
-excerpt: República Dominicana Mapeada: Una serie sobre mapas y Sistemas de Información Geográfica (SIG) para explorar RD.
+excerpt: República Dominicana Mapeada- Una serie sobre mapas y Sistemas de Información Geográfica (SIG) para explorar RD.
 subtitle: ""
 title: Mapa de luces nocturnas en República Dominicana: proxy de actividad económica y desarrollo territorial 
 weight: 3
