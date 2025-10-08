@@ -89,7 +89,7 @@ El autor es investigador en [Resiliencia Energética y Microrredes](https://mic
 **RECURSOS**
 
 
-\[1\] International Renewable Energy Agency (IRENA), “RENEWABLE CAPACITY STATISTICS 2024 STATISTIQUES DE CAPACITÉ RENOUVELABLE 2024 ESTADÍSTICAS DE CAPACIDAD RENOVABLE 2024 About IRENA,” 2024. Accessed: Oct. 05, 2025. \[Online\]. Available: https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Mar/IRENA\_RE\_Capacity\_Statistics\_2024.pdf#:~:text=24%2037%2065%2074%20159,225%20235%20498%20529%20570
+\[1\] International Renewable Energy Agency (IRENA), “RENEWABLE CAPACITY STATISTICS 2024 STATISTIQUES DE CAPACITÉ RENOUVELABLE 2024 ESTADÍSTICAS DE CAPACIDAD RENOVABLE 2024 About IRENA,” 2024. Accessed: Oct. 05, 2025. [Online]. Available: https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Mar/IRENA_RE_Capacity_Statistics_2024.pdf#:~:text=24%2037%2065%2074%20159,225%20235%20498%20529%20570
 
 \[2\] C. Pichardo, “How the Dominican Republic is charting its path towards renewable energy independence - Climate Tracker,” _Climate Tracker Caribbean_, Jan. 28, 2021. Accessed: Oct. 05, 2025. \[Online\]. Available: https://climatetrackercaribbean.org/energy-transition-media-mentorship-cycle-2/how-the-dominican-republic-is-charting-its-path-towards-renewable-energy-independence/
 
