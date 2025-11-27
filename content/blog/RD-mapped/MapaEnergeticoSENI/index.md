@@ -3,12 +3,12 @@ date: "2025-11-25"
 draft: false
 excerpt: República Dominicana Mapeada- Una serie sobre mapas y Sistemas de Información Geográfica (SIG) para explorar RD.
 subtitle: ""
-title: Mapa Energético de República Dominicana - Radiografía del Sistema Eléctrico Nacional Interconectado (SENI)	
+title: Mapa Energético de República Dominicana - Anatomía del Sistema Eléctrico Nacional Interconectado (SENI)	
 weight: 3
 ---
 La **energía eléctrica es la columna vertebral y el motor que impulsa a la sociedad moderna**. No obstante, la forma en que se genera, transporta y distribuye este recurso determina el ritmo de desarrollo de los países, su competitividad económica y su capacidad para garantizar el bienestar de sus ciudadanos. Si bien la República Dominicana ha avanzado en la diversificación de su matriz de generación, la expansión y modernización de su red de transmisión, y la integración de fuentes renovables, persisten en el país desafíos relacionados con la dependencia de combustibles fósiles, la centralización territorial de la generación y las pérdidas eléctricas en distribución. ¿Cómo puede una nación aspirar a ser _libre y soberana_ si cada año envía miles de millones de dólares al extranjero para mantener encendida su economía? Al final, la **verdadera independencia** es energética.
 
-### Radiografía del SENI
+## Radiografía del SENI
 
 La matriz de generación eléctrica del país ha experimentado una transformación significativa en las últimas dos décadas, impulsada por la diversificación de fuentes y una expansión sostenida de la capacidad instalada. El mapa de la figura 1 muestra la **distribución geográfica de las centrales de generación, líneas de transmisión y principales subestaciones del país**, destacando una alta concentración de infraestructura energética en la franja sur y este, donde se ubican las plantas de mayor capacidad instalada, entre ellas las de Punta Catalina, Quisqueya I y II, AES Andrés y CESPM, mientras que en el norte y el noroeste predomina la generación renovable, especialmente la hidroeléctrica, y en crecimiento la solar y eólica \[1\].
 
@@ -55,7 +55,7 @@ Este patrón refleja la centralización espacial de la capacidad de generación,
 
 **Figura 5** - Mapa de Recursos Solar de la República Dominicana Potencial de energía fotovoltaica. **_Fuente:_** Adaptado de WorldBankGroup, ESMAP \[6\]
 
-### Expansión del parque de generación
+## Expansión del parque de generación
 
 Al mes de diciembre de 2024, un total de 9,710.16 MW en proyectos eólicos, fotovoltaicos, térmicos e hidráulicos contaban con certificación de no objeción al punto de interconexión emitida por la Empresa de Transmisión Eléctrica Dominicana (ETED), distribuidos a lo largo del territorio nacional \[7\]. De esta capacidad, 3,321.79 MW corresponden a no objeciones vencidas, aunque susceptibles de revalidación conforme a las condiciones técnicas del SENI (ver figura 6). Según datos del MEM presentados durante el evento _"Diálogos para el Desarrollo: Cambio Climático y Energía"_ (PUCMM, noviembre 2025), actualmente existen 20 proyectos renovables en fase de construcción que suman 1,006 MW, y 2,311 MW adicionales provenientes de plantas térmicas que entrarían al SENI entre 2025 y 2028.
 
@@ -65,7 +65,7 @@ Al mes de diciembre de 2024, un total de 9,710.16 MW en proyectos eólicos, foto
 
 **Figura 6** - Ubicación geográfica de posible expansión de generación. **Fuente:** Informe trimestral proyección de la planificación de corto plazo del SENI: Cuarto Trimestre 2024 (ETED)
 
-### Expansión de la infraestructura de transmisión
+## Expansión de la infraestructura de transmisión
 
 No obstante, toda esta expansión de generación sería imposible sin un fortalecimiento paralelo de la red de transmisión. La ETED ha contemplado, en el Plan de Expansión del Sistema de Transmisión 2021-2035, las obras necesarias para garantizar la capacidad del SENI de transportar tanto la generación existente como la proyectada \[8\]. A julio de 2025, múltiples proyectos presentan avances significativos, entre ellos la subestación 345/138 kV en Guayubín, la línea de transmisión 138 kV KM 15 de Azua-Cabral y la línea de transmisión 345 kV Punta Catalina-Azua II, que constituye el eje principal de evacuación de potencia hacia el sur.
 
@@ -79,7 +79,7 @@ Asimismo, se proyectan redes soterradas de transmisión en Santo Domingo entre L
 
 **Figura 7** - Actualización de principales proyectos en el Plan de Expansión de ETED (2025). **Fuente:** Empresa de Transmisión Eléctrica Dominicana.
 
-### Desafíos en distribución
+## Desafíos en distribución
 
 Según los datos publicados por el Ministerio de Energía y Minas (MEM-RD) en el informe de desempeño de septiembre de 2025, las pérdidas técnicas y no técnicas de las compañías de distribución se promediaron en 39.7% o **725.9 GWh**, representando el verdadero agujero del sector energético en el país \[9\]. Para poner en perspectiva estas pérdidas, la **central termoeléctrica Punta Catalina (CTPC)**, la joya de la corona del sector eléctrico del país tiene una capacidad instalada de 752 MW y registró una facturación de energía de **429 GWh** en septiembre de 2025; es decir, se necesita **1.69 veces la generación de esta central** solo para cubrir las pérdidas del sector.
 
