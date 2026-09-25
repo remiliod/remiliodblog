@@ -1,5 +1,5 @@
 ---
-title: "Más allá del acceso:  vulnerabilidad y fiabilidad energética en República Dominicana"
+title: "Presentación - Más allá del acceso: vulnerabilidad y fiabilidad energética en República Dominicana"
 excerpt: "Ponencia sobre la relación entre pobreza energética, vulnerabilidad social y fiabilidad del suministro eléctrico en la República Dominicana, destacando la necesidad de ampliar el análisis más allá del acceso formal a la electricidad e incorporar la calidad y continuidad del servicio."
 date: 2026-09-22T14:15:00-04:00
 date_end: "2026-09-22T15:30:00-04:00"
@@ -16,7 +16,7 @@ links:
 
 - icon: newspaper
   icon_pack: fas
-  name:     Taller de capacitación - Jornadas de Pobreza Energética en República Dominicana
+  name:     Taller de capacitación -Jornadas de Pobreza Energética en República Dominicana
   url: https://www.cepal.org/es/eventos/taller-capacitacion-jornadas-pobreza-energetica-republica-dominicana
 
 
