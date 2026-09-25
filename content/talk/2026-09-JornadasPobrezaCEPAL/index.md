@@ -1,5 +1,5 @@
 ---
-title: "Más allá del acceso: vulnerabilidad y fiabilidad energética en República Dominicana"
+title: "Más allá del acceso:  vulnerabilidad y fiabilidad energética en República Dominicana"
 excerpt: "Ponencia sobre la relación entre pobreza energética, vulnerabilidad social y fiabilidad del suministro eléctrico en la República Dominicana, destacando la necesidad de ampliar el análisis más allá del acceso formal a la electricidad e incorporar la calidad y continuidad del servicio."
 date: 2026-09-22T14:15:00-04:00
 date_end: "2026-09-22T15:30:00-04:00"
